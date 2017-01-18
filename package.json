@@ -1,0 +1,26 @@
+{
+  "name": "cdhtmlparser",
+  "version": "0.0.1",
+  "description": "parse cdrom html",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap --reporter=tap test/*.test.js",
+    "test:classic": "tap --reporter=classic test/*.test.js",
+    "test:spec": "tap --reporter=spec test/*.test.js"
+  },
+  "bin": {
+      "akf-json2html": "./bin/akf-html2json",
+      "akf-json-validate": "./bin/akf-json-validate"
+  },
+  "author": "kba",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^4.10.4",
+    "async": "^2.1.4",
+    "js-yaml": "^3.7.0",
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {
+    "tap": "^9.0.3"
+  }
+}

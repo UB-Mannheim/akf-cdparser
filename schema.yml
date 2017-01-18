@@ -1,0 +1,72 @@
+title: Aktienfuehrer DB import schema
+type: object
+required:
+  - wkn
+additionalProperties: false
+definitions:
+  Manager:
+    type: object
+    additionalProperties: false
+    required: ['firstName', 'lastName']
+    properties:
+      firstName:
+        type: string
+      lastName:
+        type: string
+      title:
+        type: string
+      funct:
+        type: string
+        pattern: '^(?:Vors.|stellv. Vors.)$'
+      responsibilities:
+        type: array
+        items:
+          type: string
+      city:
+        type: string
+properties:
+  wkn:
+    type: number
+  isin:
+    type: string
+  email:
+    type: array
+    items:
+      type: string
+      format: email
+  www:
+    type: array
+    items:
+      type: string
+      format: uri
+  street:
+    type: string
+  street_number:
+    type: string
+    pattern: '^\d.*'
+  city:
+    type: string
+  zip:
+    type: string
+    pattern: '\d{5}'
+  activity_description:
+    type: string
+  established_year:
+    type: number
+  status:
+    type: string
+    pattern: 'Insolvenz'
+  phone:
+    type: string
+    pattern: '^[0-9\(\)-\s]+$'
+  fax:
+    type: string
+    pattern: '^[0-9\(\)-\s]+$'
+  aufsichtsrat:
+    type: array
+    items:
+      $ref: '#/definitions/Manager'
+  vorstand:
+    type: array
+    items:
+      $ref: '#/definitions/Manager'

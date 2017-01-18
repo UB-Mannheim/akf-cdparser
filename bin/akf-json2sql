@@ -1,0 +1,34 @@
+#!/usr/bin/env node
+const Program = require('commander')
+const fs      = require('fs')
+const path    = require('path')
+const mkdirp  = require('mkdirp')
+const async   = require('async')
+
+Program
+    .option('-o, --outputdir <dir>', 'Output directory', './errors')
+    .option('-p, --print', 'Print to STDOUT', false)
+    .option('-n, --parallel <num>', 'Parallel conversions', parseInt, 5)
+    .arguments('[jsonFiles...]')
+    .action((jsonFiles) => {
+        const converter = new(require('../lib/converter'))()
+        mkdirp.sync(Program.outputdir)
+        async.eachLimit(jsonFiles, 5, (jsonFile, done) => {
+            const outname = path.join(Program.outputdir, path.basename(jsonFile))
+            fs.readFile(jsonFile, {encoding: 'utf8'}, (err, data) => {
+                if (err) return done(err)
+                const sql = converter.json2sql(JSON.parse(data))
+                if (Program.print) {
+                    console.log(sql)
+                    done()
+                } else {
+                    fs.writeFile(outname, sql, done)
+                }
+            })
+        })
+    })
+
+if (process.argv.length <= 2) process.argv.push('--help')
+Program.parse(process.argv)
+
+// vim: ft=javascript

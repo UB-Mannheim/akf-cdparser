@@ -1,0 +1,31 @@
+#!/usr/bin/env node
+const Program = require('commander')
+const fs      = require('fs')
+const path    = require('path')
+const mkdirp  = require('mkdirp')
+const async   = require('async')
+
+Program
+    .option('-o, --outputdir <dir>', 'Output directory', './output')
+    .option('-p, --print', 'Print to STDOUT', false)
+    .option('-n, --parallel <num>', 'Parallel conversions', parseInt, 5)
+    .arguments('[htmlFiles...]')
+    .action((htmlFiles) => {
+        const parser = new(require('../lib/parser'))()
+        mkdirp.sync(Program.outputdir)
+        async.eachLimit(htmlFiles, 5, (htmlFile, done) => {
+            const outname = path.join(Program.outputdir, path.basename(htmlFile) + '.json')
+            const json = parser.parseFile(htmlFile)
+            if (Program.print) {
+                console.log(json)
+            } else {
+                console.error(`${htmlFile} -> ${outname}`)
+            }
+            fs.writeFile(outname, JSON.stringify(json, null, 2), done)
+        })
+    })
+
+if (process.argv.length <= 2) process.argv.push('--help')
+Program.parse(process.argv)
+
+// vim: ft=javascript
