@@ -25,6 +25,8 @@ definitions:
       city:
         type: string
 properties:
+  _fulltext: 
+    type: string
   wkn:
     type: number
   isin:
@@ -70,3 +72,5 @@ properties:
     type: array
     items:
       $ref: '#/definitions/Manager'
+  employee_stats:
+    type: array

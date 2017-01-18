@@ -8,6 +8,7 @@ const async   = require('async')
 Program
     .option('-o, --outputdir <dir>', 'Output directory', './errors')
     .option('-p, --print', 'Print to STDOUT', false)
+    .option('-d, --diff', 'Show unparsed text', false)
     .option('-n, --parallel <num>', 'Parallel conversions', parseInt, 5)
     .arguments('[jsonFiles...]')
     .action((jsonFiles) => {
@@ -29,6 +30,9 @@ Program
                     } else {
                         fs.writeFile(outname, JSON.stringify(validator.errors, null, 2), done)
                     }
+                }
+                if (Program.diff) {
+                    console.log(validator.unparsedText(JSON.parse(data), '\x1b[42m \x1b[0m', '\x1b[43m \x1b[0m'))
                 }
             })
         })
