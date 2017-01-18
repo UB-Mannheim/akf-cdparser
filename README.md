@@ -1,5 +1,7 @@
 # akf-cdparser
 
+![](./docs/foo.png)
+
 ```
 
 $ ./bin/akf-html2json -p ./test/fixtures/html/2005/0007.html.utf8.html
