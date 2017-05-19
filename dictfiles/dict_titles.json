@@ -1,0 +1,3729 @@
+{
+    "type": "table",
+    "database": null,
+    "name": "TitelExported_distinct",
+    "withoutRowId": true,
+    "ddl": "CREATE TABLE TitelExported_distinct (Titel VARCHAR);",
+    "columns": [
+        {
+            "name": "Titel",
+            "type": "VARCHAR"
+        }
+    ],
+    "rows": [
+        [
+            "Prof. Dr. jur."
+        ],
+        [
+            "Dr. jur."
+        ],
+        [
+            "Dr. rer. nat."
+        ],
+        [
+            "Dr. jur. Dr. rer. pol."
+        ],
+        [
+            "Dr.rer.pol"
+        ],
+        [
+            "Dr."
+        ],
+        [
+            "Dipl.-Ing."
+        ],
+        [
+            "Dipl.-Volkswirt"
+        ],
+        [
+            "Dipl. -Ing."
+        ],
+        [
+            "Dipl. -Ing. Dr."
+        ],
+        [
+            "Dipl. -Kfm. Dr."
+        ],
+        [
+            "Dr. rer. pol."
+        ],
+        [
+            "Dr. -Ing."
+        ],
+        [
+            "Dipl. -Kfm."
+        ],
+        [
+            "Dr. sc. pol."
+        ],
+        [
+            "Jhr."
+        ],
+        [
+            "Ir."
+        ],
+        [
+            "Dr. Ir."
+        ],
+        [
+            "Prof. Dr."
+        ],
+        [
+            "Drs."
+        ],
+        [
+            "Dr.-Ing."
+        ],
+        [
+            "Dr.rer.nat."
+        ],
+        [
+            "Dipl.-Volksw."
+        ],
+        [
+            "Dipl.-Kfm."
+        ],
+        [
+            "Dr.jur."
+        ],
+        [
+            "Dipl.-Math."
+        ],
+        [
+            "Dr. iur."
+        ],
+        [
+            "Prof. Dr.rer.nat."
+        ],
+        [
+            "Prof."
+        ],
+        [
+            "Dr. phil."
+        ],
+        [
+            "Dr.phil. h. c."
+        ],
+        [
+            "Dipl.-Ing. Dipl.-Kfm."
+        ],
+        [
+            "Dr.iur."
+        ],
+        [
+            "Dipl.-Kfm. Dr."
+        ],
+        [
+            "Excmo. Sr. Don"
+        ],
+        [
+            "Don"
+        ],
+        [
+            "Ilmo. Sr. Don"
+        ],
+        [
+            "Ilmo.Sr. Don"
+        ],
+        [
+            "Dr.rer.pol."
+        ],
+        [
+            "Prof. Dr.-Ing."
+        ],
+        [
+            "Prof.Dr."
+        ],
+        [
+            "Dr. h. c."
+        ],
+        [
+            "Dipl.-Wirtsch.-Ing."
+        ],
+        [
+            "Dipl.-Kfm. Dr.rer.pol."
+        ],
+        [
+            "Dipl.-Ing. Dr."
+        ],
+        [
+            "Dipl.-Pol."
+        ],
+        [
+            "Dr. rer. soc."
+        ],
+        [
+            "Dipl-Ing."
+        ],
+        [
+            "Ing. grad."
+        ],
+        [
+            "Dipl. Phys."
+        ],
+        [
+            "Dipl.-Br.-Ing. Dipl.-Kfm. Dr."
+        ],
+        [
+            "Dipl.-Br.-Ing. Dr."
+        ],
+        [
+            "Dr.techn."
+        ],
+        [
+            "Dipl. sc. pol."
+        ],
+        [
+            "Dr. phil. Dipl.- Volksw."
+        ],
+        [
+            "Dipl.-Kfm. Dipl.-Handelslehrer Dr."
+        ],
+        [
+            "Dipl.-Phys."
+        ],
+        [
+            "Dipl.-Kfm. Dr. jur."
+        ],
+        [
+            "Dipl.-Ing. Dr.-Ing."
+        ],
+        [
+            "Dipl.-Br.-Ing."
+        ],
+        [
+            "Dipl.-Kfm. Dipl.-Br.-Ing."
+        ],
+        [
+            "Dr. oec. publ."
+        ],
+        [
+            "Dipl.-Kfm. Dipl.-Ing."
+        ],
+        [
+            "Dipl.-Ing. Dr.rer.oec."
+        ],
+        [
+            "Ing."
+        ],
+        [
+            "Dipl.-Psych."
+        ],
+        [
+            "Dr.-Ing. Dr.-Ing. E.h."
+        ],
+        [
+            "Cav. del Lav. Dr."
+        ],
+        [
+            "Cav. del Lav. Dr. Ing."
+        ],
+        [
+            "Cav. del Lav. On. Dr."
+        ],
+        [
+            "Dr. Ing."
+        ],
+        [
+            "Cav. del Lav. On. Dr. Avv."
+        ],
+        [
+            "Cav. del Lav. Prof. Dr."
+        ],
+        [
+            "Dr. Avv."
+        ],
+        [
+            "Dr. rer.pol."
+        ],
+        [
+            "Dr.jur. Dipl.rer.pol."
+        ],
+        [
+            "Frau Dr. jur. Ch."
+        ],
+        [
+            "Prof. Dr. in Math."
+        ],
+        [
+            "Wirtschafts-Ing."
+        ],
+        [
+            "Dr.h.c."
+        ],
+        [
+            "Dr. rer. oec."
+        ],
+        [
+            "Dr. oec."
+        ],
+        [
+            "Dr. med. Dipl.-Chem."
+        ],
+        [
+            "Dipl.-Brmst. Dipl.-Kfm."
+        ],
+        [
+            "Dipl.-Braumeister"
+        ],
+        [
+            "Ing. (grad.)"
+        ],
+        [
+            "Dipl.-Volksw. Dr."
+        ],
+        [
+            "Dipl.-Ing., Dipl.-Kfm."
+        ],
+        [
+            "Dr.-Ing. E.h."
+        ],
+        [
+            "Dr. rer.nat."
+        ],
+        [
+            "Dipl.-Geol."
+        ],
+        [
+            "Dipl-Kfm."
+        ],
+        [
+            "Dr.Dr.h.c."
+        ],
+        [
+            "Dipl.-Phys. Dr. rer. nat."
+        ],
+        [
+            "Dr. mont."
+        ],
+        [
+            "Dipl.-Kfm. Dipl.-Volksw."
+        ],
+        [
+            "Dipl.- Ing."
+        ],
+        [
+            "Dipl.-Kfm., Dr.rer.pol."
+        ],
+        [
+            "Dipl.-Ing. agr."
+        ],
+        [
+            "Dipl.-Wirtschaftsing."
+        ],
+        [
+            "Dipl.-Brauerei-Ing."
+        ],
+        [
+            "Dr.rer.nat. Dipl.-Phys."
+        ],
+        [
+            "Dr. Dr.h.c."
+        ],
+        [
+            "Dipl.-Kfm. Dr. iur."
+        ],
+        [
+            "Dipl.rer.pol.Ing."
+        ],
+        [
+            "Dipl.rer.pol.-techn.Dr."
+        ],
+        [
+            "Dipl.-Psychologe"
+        ],
+        [
+            "Valkenswaard"
+        ],
+        [
+            "Dd."
+        ],
+        [
+            "Mr."
+        ],
+        [
+            "Dipl.-Kfm. Dr. oec."
+        ],
+        [
+            "Avv. Prof."
+        ],
+        [
+            "Prof. Dipl.-Ing."
+        ],
+        [
+            "Dipl.-Ing. Dipl.-Wirtsch.-Ing."
+        ],
+        [
+            "Dipl.-Brau-Ing."
+        ],
+        [
+            "Dipl.-Berging."
+        ],
+        [
+            "Prof.Dr.-Ing. Dr.phil. Dr.-Ing.E.h."
+        ],
+        [
+            "Prof. Dr. rer. oec."
+        ],
+        [
+            "Ass."
+        ],
+        [
+            "Dr. agr."
+        ],
+        [
+            "Dr. Dr. h. c."
+        ],
+        [
+            "Dr.- Ing. E. h."
+        ],
+        [
+            "Dr.- Ing."
+        ],
+        [
+            "Avv."
+        ],
+        [
+            "Dipl.-Ing. Dr. techn."
+        ],
+        [
+            "Dipl. Kfm."
+        ],
+        [
+            "Dipl.-Ing.Dr."
+        ],
+        [
+            "Dr.-Ing. E. h. Dipl.-Ing."
+        ],
+        [
+            "Jhr. Dr. jur."
+        ],
+        [
+            "Prof.Dr.jur."
+        ],
+        [
+            "Dr.phil."
+        ],
+        [
+            "Dr.jur. Dr.rer.pol."
+        ],
+        [
+            "Dipl.-Ing. Dr.Dr."
+        ],
+        [
+            "Dipl.Kfm."
+        ],
+        [
+            "Dr.phil.h.c."
+        ],
+        [
+            "Graf"
+        ],
+        [
+            "Dr.rer.soc."
+        ],
+        [
+            "Ing.grad."
+        ],
+        [
+            "Dipl.Phys."
+        ],
+        [
+            "Dr.oec.publ."
+        ],
+        [
+            "Freiherr"
+        ],
+        [
+            "Dr., Frhr."
+        ],
+        [
+            "Prof. Dr.jur."
+        ],
+        [
+            "Prof.Dipl.-Ing."
+        ],
+        [
+            "Dipl.sc.pol."
+        ],
+        [
+            "Civ.-Ing."
+        ],
+        [
+            "Dr.phil. Dipl.-Volksw."
+        ],
+        [
+            "Prof.Dipl.rer.pol."
+        ],
+        [
+            "Dipl.-Kfm. Dr.jur."
+        ],
+        [
+            "Dipl.-Kfm. Dipl.-Brmst."
+        ],
+        [
+            "Assessor"
+        ],
+        [
+            "Dr.rer.oec."
+        ],
+        [
+            "Dipl.Kfm., Dipl.Brmst."
+        ],
+        [
+            "Dr.oec."
+        ],
+        [
+            "Dipl.-Kfm-"
+        ],
+        [
+            "Frankfurt"
+        ],
+        [
+            "Dr.med. Dipl.-Chem."
+        ],
+        [
+            "Dr jur."
+        ],
+        [
+            "Senator E.h. Dipl.-Ing"
+        ],
+        [
+            "Prof.Dr.-Ing."
+        ],
+        [
+            "Dipl.-Phys. Dr.rer.nat."
+        ],
+        [
+            "Dipl.-Chem."
+        ],
+        [
+            "Dipl.-Kfm"
+        ],
+        [
+            "Dr.mont."
+        ],
+        [
+            "Dipl.-Ing.agr."
+        ],
+        [
+            "Dipl.-Volkswirt, Dr.rer.pol."
+        ],
+        [
+            "Dipi.-Ing."
+        ],
+        [
+            "Dr.rer.poi."
+        ],
+        [
+            "Dr.-lng"
+        ],
+        [
+            "Dipl.-Kfm. Dr.iur."
+        ],
+        [
+            "Dipl.rer.pol. und Ing."
+        ],
+        [
+            "Dipl.rer.pol.-techn. Dr."
+        ],
+        [
+            "Dipl.-Kfm. Dr.oec."
+        ],
+        [
+            "Dr.-ing."
+        ],
+        [
+            "Dr.agr."
+        ],
+        [
+            "Prof.Dr.rer.nat."
+        ],
+        [
+            "Dr.-Ing.E.h.Dipl.-Ing."
+        ],
+        [
+            "Sir"
+        ],
+        [
+            "Frau Dr.jur.Ch."
+        ],
+        [
+            "Prof. Dr.in Math."
+        ],
+        [
+            "Lic."
+        ],
+        [
+            "Prof. Lic."
+        ],
+        [
+            "Luxemburg"
+        ],
+        [
+            "Generaldirektor Dipl.-Ing."
+        ],
+        [
+            "Generaldirektor-Stellvertreter Dipl.-Ing."
+        ],
+        [
+            "Dipl.-Ing. Dr.techn."
+        ],
+        [
+            "Jhr. Dr.jur."
+        ],
+        [
+            "Dipl.-ing."
+        ],
+        [
+            "Dipl.-Ing. Dr. Dr."
+        ],
+        [
+            "Dipl.-Braumeister, Dipl.-Kfm."
+        ],
+        [
+            "Prof. Dr. rer. nat."
+        ],
+        [
+            "Dr. phil. Dr. h. c."
+        ],
+        [
+            "Dr. rer. po."
+        ],
+        [
+            "Dipl.-Kfm. Dr. rer. pol."
+        ],
+        [
+            "Dipl.-Br. Ing. Dipl-Kfm. Dr."
+        ],
+        [
+            "Dipl-Kfm. Dr."
+        ],
+        [
+            "Dr.-Ing. E. h."
+        ],
+        [
+            "Dr. techn."
+        ],
+        [
+            "Dipl.-Ing. Dr.-Ing. e. h."
+        ],
+        [
+            "Prof. Dipl. rer. pol."
+        ],
+        [
+            "Dipl.-Ing. Dr. rer. oec."
+        ],
+        [
+            "Dipl. Kfm., Dipl. Brmst."
+        ],
+        [
+            "Dipi.-Volksw."
+        ],
+        [
+            "Dipl.-lng."
+        ],
+        [
+            "Dr. phil. h.c."
+        ],
+        [
+            "Dr.rer. nat."
+        ],
+        [
+            "Dipl.-Volkswirt, Dr. rer. pol."
+        ],
+        [
+            "Dipl,-Kfm."
+        ],
+        [
+            "Cav. del Lav. Dr. Prof."
+        ],
+        [
+            "Prof. Lic. Luc."
+        ],
+        [
+            "Dr. Dr. h.c."
+        ],
+        [
+            "Dr. h.c."
+        ],
+        [
+            "Dipl.-Ing., Freiherr"
+        ],
+        [
+            "Prof. Dr.-|ng."
+        ],
+        [
+            "Dr., Freiherr"
+        ],
+        [
+            "Dr. oec. pupl."
+        ],
+        [
+            "Dipl.-Ing. Dr.-Ing. E. h."
+        ],
+        [
+            "Dipl.-Kfm. Dipl.-Brau-Ing."
+        ],
+        [
+            "Dipl.-Kfm. Dipl.Brmst."
+        ],
+        [
+            "Dlpl.-Kfm."
+        ],
+        [
+            "Dipl-Volksw."
+        ],
+        [
+            "Dr. jur. Dipl. rer. pol."
+        ],
+        [
+            "Dipl. rer. pol. und Ing."
+        ],
+        [
+            "Dipl. rer. pol.-techn. Dr."
+        ],
+        [
+            "Dipl.-Ing. Dlpl.-Wirtsch.-Ing."
+        ],
+        [
+            "Dipl.-Ing. Dlpl.-Wlrtschafts-Ing."
+        ],
+        [
+            "Dr. Dr."
+        ],
+        [
+            "Dr. Dr.-Ing."
+        ],
+        [
+            "Prof. Dr.-Ing. Dr.-Ing. E.h."
+        ],
+        [
+            "Dr.-Ing. E.h. Dipl.-Ing."
+        ],
+        [
+            "Major-General"
+        ],
+        [
+            "Dr. jur. Ch."
+        ],
+        [
+            "Prof. avv."
+        ],
+        [
+            "Dr. phil. Dr. rer. oec. hc."
+        ],
+        [
+            "Dipl.-Ing. Dr.-Ing. E.h."
+        ],
+        [
+            "Prof. Dipl.rer.pol."
+        ],
+        [
+            "Dipi.-Kfm."
+        ],
+        [
+            "Prof. Dr. rer. nat. Dr. Ing. E.h."
+        ],
+        [
+            "Prof. Dr. rer. nat. Dr. rer. nat. h.c."
+        ],
+        [
+            "Dipl. Brau-Ing., Dipl.-Kfm."
+        ],
+        [
+            "Dr. med."
+        ],
+        [
+            "Dipl.-Volkswirt Dr. rer. pol."
+        ],
+        [
+            "Sen. E.h. Dipl.-Ing."
+        ],
+        [
+            "Dipl.-Ing. Dipl.-Wirtschafts-Ing."
+        ],
+        [
+            "Dr. Dr.-Ing. E.h."
+        ],
+        [
+            "Prof. Dr.rer.soc."
+        ],
+        [
+            "Drt. jur."
+        ],
+        [
+            "Dr. Jur."
+        ],
+        [
+            "Mandelieu"
+        ],
+        [
+            "Dr. rer. pol. h.c."
+        ],
+        [
+            "Dr. phil. Dr. rer. oec. h.c."
+        ],
+        [
+            "Dr. phil. Dr. h.c."
+        ],
+        [
+            "Dr. rer. po|."
+        ],
+        [
+            "Dipl.-Volkw."
+        ],
+        [
+            "Berg-Ass. Dipl.-Ing."
+        ],
+        [
+            "Frhr., Dr. jur."
+        ],
+        [
+            "Prof. Dr. rer. nat. Dr.-Ing. E.h."
+        ],
+        [
+            "Dipl.-Brau.-Ing. Dipl.-Kfm."
+        ],
+        [
+            "Dipl.-Ing. (FH)"
+        ],
+        [
+            "Dipl.-Ing. Dipl.-Wirtschafts.-Ing."
+        ],
+        [
+            "Prof. Dr. rer. soc."
+        ],
+        [
+            "Dipl.-Betriebsw."
+        ],
+        [
+            "Prof. Dr. techn."
+        ],
+        [
+            "Excmo. Sr."
+        ],
+        [
+            "llmo. Sr."
+        ],
+        [
+            "Baron"
+        ],
+        [
+            "Wirtschafts.-Ing."
+        ],
+        [
+            "Dr. Med."
+        ],
+        [
+            "Dipl."
+        ],
+        [
+            "Prof. Dr. rer. pol."
+        ],
+        [
+            "The Hon. Sir"
+        ],
+        [
+            "Prof. Dr. Dr."
+        ],
+        [
+            "Dr. techn. h.c. Dipl.-Ing. ETH"
+        ],
+        [
+            "Frhr."
+        ],
+        [
+            "Senator E.h., Dipl.-Ing."
+        ],
+        [
+            "Df."
+        ],
+        [
+            "RA"
+        ],
+        [
+            "Dr. phil. nat."
+        ],
+        [
+            "Kfm."
+        ],
+        [
+            "Dipl.-Volksw. Dr. rer. pol."
+        ],
+        [
+            "Dipl.- Kfm."
+        ],
+        [
+            "Dr. rer. pol"
+        ],
+        [
+            "MBE"
+        ],
+        [
+            "Prof. Dr. Dr. E.h."
+        ],
+        [
+            "Dr.-Ihg."
+        ],
+        [
+            "Dr. techn. h.c. Dipl.-Ing."
+        ],
+        [
+            "Dipl. rer. pol."
+        ],
+        [
+            "Prof. Dr.-ing."
+        ],
+        [
+            "Dipl-.-Pol."
+        ],
+        [
+            "Prof. Dr. oec."
+        ],
+        [
+            "Prof. Dr.-Ing. E.h."
+        ],
+        [
+            "Assessor des Bergfachs"
+        ],
+        [
+            "Dipl.-Volksw. Dr. rer. nat."
+        ],
+        [
+            "Dipl.-Wirtschafts-Ing."
+        ],
+        [
+            "Dipl.-Finanzwirt"
+        ],
+        [
+            "Dipl.-Ing. Dipl.-Volksw."
+        ],
+        [
+            "Prof. Dr. oec. publ."
+        ],
+        [
+            "Dipl.-Psychologe."
+        ],
+        [
+            "Dipl.-Ing., Dipl.-Betrw."
+        ],
+        [
+            "Hon."
+        ],
+        [
+            "The Rt. Hon. Sir"
+        ],
+        [
+            "Gen."
+        ],
+        [
+            "Senator e.h."
+        ],
+        [
+            "Dr. jur., Baron"
+        ],
+        [
+            "Dr. Chr."
+        ],
+        [
+            "Dlpl.-Math."
+        ],
+        [
+            "Dr. techn. h.c."
+        ],
+        [
+            "Dipl.-Br.-lng. Dipl.-Kfm. Dr."
+        ],
+        [
+            "Dipl.-Okonom"
+        ],
+        [
+            "Prof. Dipl.-ing."
+        ],
+        [
+            "Dipl.-Voiksw."
+        ],
+        [
+            "Dipl.-lng. (FH)"
+        ],
+        [
+            "Dipl.-Wirtsch.-Ing. Dr."
+        ],
+        [
+            "Dipl.-Ing. Dipl.-Wirtsch.-lng."
+        ],
+        [
+            "Dipl.-Dolm."
+        ],
+        [
+            "Dipl.-Kfm., Dipl.-Brau-Ing."
+        ],
+        [
+            "Frau Dr. jur."
+        ],
+        [
+            "Prince"
+        ],
+        [
+            "Dr.-lng."
+        ],
+        [
+            "The Hon Sir"
+        ],
+        [
+            "Ed."
+        ],
+        [
+            "Prof. Dr. Dr. h. c."
+        ],
+        [
+            "Dir"
+        ],
+        [
+            "Prof. Dipl.-Ing. Dr. h.c."
+        ],
+        [
+            "Dipl.-Ing. (EH)"
+        ],
+        [
+            "Dr.rer. pol."
+        ],
+        [
+            "lic. jur."
+        ],
+        [
+            "Dipl.-Ökonom"
+        ],
+        [
+            "Dipl .-Kfm."
+        ],
+        [
+            "Dr. rer nat."
+        ],
+        [
+            "Dipl.-Sozialw."
+        ],
+        [
+            "Dr. phif. nat."
+        ],
+        [
+            "Dipl.-Volksw., Dipl.-Brauing."
+        ],
+        [
+            "The Rt. Hon. the"
+        ],
+        [
+            "Dkfm."
+        ],
+        [
+            "Dkfm. Dr."
+        ],
+        [
+            "DDr."
+        ],
+        [
+            "Jr."
+        ],
+        [
+            "M.Sc."
+        ],
+        [
+            "Dipl.-Wirt.-Ing."
+        ],
+        [
+            "Prof. Dr.-Ing. E.h. Dr. h.c."
+        ],
+        [
+            "Dipl.-Betriebsw., Dipl.-Braumeister"
+        ],
+        [
+            "Dr. rer. nat.."
+        ],
+        [
+            "Staatssekretär a.D."
+        ],
+        [
+            "Dipl.-Ing. Dipl.-Wirt.-Ing. Dr."
+        ],
+        [
+            "Dipl.-Betriebswirt"
+        ],
+        [
+            "Dipl. rer. pol. (techn.)"
+        ],
+        [
+            "Dipl.-Volksw., Dipl.-Braulng."
+        ],
+        [
+            "Dkfm. Mag. Dr."
+        ],
+        [
+            "Ing. Mag."
+        ],
+        [
+            "Fr."
+        ],
+        [
+            "DipL-Ing."
+        ],
+        [
+            "Prof. Dr. Dr. h.c."
+        ],
+        [
+            "Prof. Dr. techn. h.c. Dipl.-Ing."
+        ],
+        [
+            "Dipl.-Kfm. Dr. rer.oec."
+        ],
+        [
+            "Dipl.-Kfm. Dipl.-Brau.-Ing."
+        ],
+        [
+            "Dip.-Kfm."
+        ],
+        [
+            "Wirtschafts.-lng."
+        ],
+        [
+            "Dr-Ing."
+        ],
+        [
+            "Dipi.-lng."
+        ],
+        [
+            "Dipl.-Wirtschaftslng."
+        ],
+        [
+            "Apotheker Dr."
+        ],
+        [
+            "Dipl.-kfm."
+        ],
+        [
+            "Dr. rer.soc."
+        ],
+        [
+            "Dipl.-Volksw., Dipl.-Ing."
+        ],
+        [
+            "Ihr. Drs."
+        ],
+        [
+            "Prinz"
+        ],
+        [
+            "Prof. Sir."
+        ],
+        [
+            "Prof. Sir"
+        ],
+        [
+            "Wirtschaftslng."
+        ],
+        [
+            "Dr. iur. Dr. h.c."
+        ],
+        [
+            "Lic. oec."
+        ],
+        [
+            "Dipl.-Ing. ETH, MBA"
+        ],
+        [
+            "Dipl.-Braumeister, Dipi.-Kfm."
+        ],
+        [
+            "Dipl.-Oec. Dr."
+        ],
+        [
+            "Dipl.-Kfm. Dr. rer. pol"
+        ],
+        [
+            "Dr. jur"
+        ],
+        [
+            "Dipl.-Soz."
+        ],
+        [
+            "Dr. jur. H."
+        ],
+        [
+            "Dipl.-Brau-Ing., Dipl.-Braumeister"
+        ],
+        [
+            "Dipl.-Kfm., Graf"
+        ],
+        [
+            "Dr. Dipl.-Physiker"
+        ],
+        [
+            "Sen. Prof. Dr.-Ing."
+        ],
+        [
+            "Dipl.-Wirtsch.-lng. Dr."
+        ],
+        [
+            "Dr., Fr."
+        ],
+        [
+            "Dr-Ing. E.h."
+        ],
+        [
+            "Prof. Dr. jur. Dr.-Ing. E.h."
+        ],
+        [
+            "Dipl.-Brau.-Ing."
+        ],
+        [
+            "Prof., Sir"
+        ],
+        [
+            "Mag. Dr."
+        ],
+        [
+            "Komm.-Rat Dipl.-Kfm. Dr."
+        ],
+        [
+            "Dr. jur. Dr. h.c."
+        ],
+        [
+            "Dipl .-Oec. Dr."
+        ],
+        [
+            "Dipl.-Wirt.-lng."
+        ],
+        [
+            "Prof. Dr. oec. publ., Freiherr"
+        ],
+        [
+            "Dipl .-Volksw."
+        ],
+        [
+            "Dr"
+        ],
+        [
+            "Dipl .-Wirtschaftsing."
+        ],
+        [
+            "Dipl.-Kfm. Prof. Dr. jur."
+        ],
+        [
+            "Dipl .-Ing. Dr."
+        ],
+        [
+            "Dipl .-Kfm. Dr."
+        ],
+        [
+            "Dipl.-Braum."
+        ],
+        [
+            "Dr. soc. oec."
+        ],
+        [
+            "Bergassessor Dipl.-Ing."
+        ],
+        [
+            "Dipl.-Brau-Ing. Dr."
+        ],
+        [
+            "Dipl.-Sng."
+        ],
+        [
+            "Dipl. rer. pol. (tech.)"
+        ],
+        [
+            "Dipl.-Wirtschafts-Ing. (FH)"
+        ],
+        [
+            "Dipl.-Oec."
+        ],
+        [
+            "Dipl .-Ing."
+        ],
+        [
+            "Dipl .-Math."
+        ],
+        [
+            "Dipl.-Kfm. Dr. rer .pol."
+        ],
+        [
+            "Dipl.-Ing. Dipl.-Wirt.-lng. Dr."
+        ],
+        [
+            "Dr. jur. habil."
+        ],
+        [
+            "Dipl.-Chem. Dr."
+        ],
+        [
+            "Dipl .-Kfm. Dr. rer. pol."
+        ],
+        [
+            "Dip.-Betriebsw."
+        ],
+        [
+            "Dipl.- Wirtschafts.-lng."
+        ],
+        [
+            "Dipl.-Wirtsch.-Ing M.S., Graf"
+        ],
+        [
+            "Dipl. Phys. Dr. rer. nat."
+        ],
+        [
+            "Dipl .-Klm."
+        ],
+        [
+            "Dr. oec publ."
+        ],
+        [
+            "Dipl .-Ing. Dipl .-Wirtsch .-Ing."
+        ],
+        [
+            "Dipl .-Sozialw."
+        ],
+        [
+            "Dipl .-Ing. (FH)"
+        ],
+        [
+            "The Hon."
+        ],
+        [
+            "Lord"
+        ],
+        [
+            "Mag."
+        ],
+        [
+            "Dr. Ing. Dr. h.c."
+        ],
+        [
+            "Dipl. Ing."
+        ],
+        [
+            "Dipl.-Kfm. Dipl.-Braumeister"
+        ],
+        [
+            "Rechtsanwalt"
+        ],
+        [
+            "Dr.-Ing. E.h. Dr.-Ing. E.h."
+        ],
+        [
+            "Dipl.-Ökonom Dipl.-Ing."
+        ],
+        [
+            "Dipl .-Volkswirt"
+        ],
+        [
+            "Prof. Dr. sc. pol."
+        ],
+        [
+            "Dr. rer. soe. oec."
+        ],
+        [
+            "Dr. oec"
+        ],
+        [
+            "Dipl. Betriebsw."
+        ],
+        [
+            "Dipl.-Wirtsch.-lng."
+        ],
+        [
+            "Bergassessor Dipl .-Ing."
+        ],
+        [
+            "Dipl.-Handelslehrer"
+        ],
+        [
+            "Dr. jur., Freiherr"
+        ],
+        [
+            "DiplL-Ing. DipL.-Wirt.-Ing. Dr."
+        ],
+        [
+            "Lic. oec. HSG"
+        ],
+        [
+            "Dipl.-Wirtschafts.-Ing."
+        ],
+        [
+            "Dipl.-Wirtsch.-Ing., Graf"
+        ],
+        [
+            "Dipl.- Wirtschaftsing"
+        ],
+        [
+            "Or.-Ing."
+        ],
+        [
+            "Dr.-Eng. h.c."
+        ],
+        [
+            "Dipl .-Betriebsw."
+        ],
+        [
+            "Dipl.-oec."
+        ],
+        [
+            "Textil-Ing."
+        ],
+        [
+            "Prof. Dr. h.c."
+        ],
+        [
+            "Wirtschafts .-Ing."
+        ],
+        [
+            "DKfm."
+        ],
+        [
+            "Direktor Dkfm. Dr."
+        ],
+        [
+            "Dipi.-Ing. Dr."
+        ],
+        [
+            "Dipl. Wirtschafts-Ing."
+        ],
+        [
+            "Dipl-Math. Dr."
+        ],
+        [
+            "Freiherr, Prof. Dr. oec. publ."
+        ],
+        [
+            "Bergassessor"
+        ],
+        [
+            "Dipl.-Ing., Dipl.-Wirtsch.-Ing."
+        ],
+        [
+            "Dipl.-Braulng., Dipl.-Braumeister"
+        ],
+        [
+            "Dr.-jur."
+        ],
+        [
+            "Ing.-grad."
+        ],
+        [
+            "Dipl.-Kfm. Dr. rer.pol."
+        ],
+        [
+            "Dipl.-lng. Dipl.-Wirt.-Ing. Dr."
+        ],
+        [
+            "Dr. jur. Prof."
+        ],
+        [
+            "Dipl.-Wirtsch.-lng., Graf"
+        ],
+        [
+            "Dr. Ing"
+        ],
+        [
+            "Dr.."
+        ],
+        [
+            "Dipl.-Irig."
+        ],
+        [
+            "Jhr. Dr."
+        ],
+        [
+            "The Rt. Hon."
+        ],
+        [
+            "Hon.-Prof. Dipl.-Ing. Dr."
+        ],
+        [
+            "Dipl .-lng."
+        ],
+        [
+            "Dipl. Wirtschaftslng."
+        ],
+        [
+            "Dipl.-Math. Dr."
+        ],
+        [
+            "Dr. rer. pol. Dipl.-Kfm."
+        ],
+        [
+            "Volksw. grad."
+        ],
+        [
+            "Prof. Dr. rer. pol. Dipl.-Ing."
+        ],
+        [
+            "Dipl.-Betriebsw. (FH)"
+        ],
+        [
+            "Dipl.-Kfm. Dr. rer. soc."
+        ],
+        [
+            "Dip.-Ing."
+        ],
+        [
+            "Dilp.-Ing."
+        ],
+        [
+            "Dipl.lng."
+        ],
+        [
+            "Dr -Ing."
+        ],
+        [
+            "Betriebsw."
+        ],
+        [
+            "Dipl.-Betriebsw. Dr."
+        ],
+        [
+            "Dipl.-Wirtsch.-Ing. M.S., Graf"
+        ],
+        [
+            "Dr. sc. pol. h.c."
+        ],
+        [
+            "DipI.-Wirt.-lng."
+        ],
+        [
+            "Law"
+        ],
+        [
+            "Mag.-Ing."
+        ],
+        [
+            "Mag.-Ing. Dr."
+        ],
+        [
+            "Dipl.-Kfm. Dr. rer. oec."
+        ],
+        [
+            "Prof. Dr.-lng."
+        ],
+        [
+            "Dr. Prof. Dr. oec. publ., Freiherr"
+        ],
+        [
+            "Dipl.-Betriebsw. Dipl.-Braumeister"
+        ],
+        [
+            "Lic. e."
+        ],
+        [
+            "Dipl-Finanzwirt"
+        ],
+        [
+            "Dr. rer. hat."
+        ],
+        [
+            "Dipl.Ing."
+        ],
+        [
+            "Dr., Graf"
+        ],
+        [
+            "Dipl.-Betriebsw., Freiherr"
+        ],
+        [
+            "Dipl.-Phys. Prof. Dr."
+        ],
+        [
+            "Dipl.-Chem. Prof. Dr."
+        ],
+        [
+            "Dipl.-Ök. Dr."
+        ],
+        [
+            "Dipl.-Kfm Dr."
+        ],
+        [
+            "Dipl.-Phys. Dr. h.c."
+        ],
+        [
+            "Dipl.-Wirtschaftsing. (FH)"
+        ],
+        [
+            "Dipl.-Phys. Dr."
+        ],
+        [
+            "Dipl.-lng. Dr."
+        ],
+        [
+            "Dipl.-Wirtschafts.-Ing. (FH)"
+        ],
+        [
+            "Dipl.-Bethebsw."
+        ],
+        [
+            "Lic. oec. Dr."
+        ],
+        [
+            "Sr."
+        ],
+        [
+            "Ing. Mag. Dr."
+        ],
+        [
+            "Prof. Dr. med. habil. Dr.-Ing."
+        ],
+        [
+            "Dipl.-Braumeister Dipl.-Kfm."
+        ],
+        [
+            "Dr. Dipl.-Ing."
+        ],
+        [
+            "Dr. tech."
+        ],
+        [
+            "Dipi.-Ing. (FH)"
+        ],
+        [
+            "Dipl.-Betriebswirt (FH)"
+        ],
+        [
+            "Dipl.-Ing. E. h."
+        ],
+        [
+            "Dipl.-Kfm. Dr.-rer. pol."
+        ],
+        [
+            "Dipl. -Kfm. Dr. rer. soc."
+        ],
+        [
+            "Dipl.-Wirt.-Ing. (grad.)."
+        ],
+        [
+            "Dipl.-Wirtsch.-Ing. (FH)"
+        ],
+        [
+            "Prof. Dr. Ing."
+        ],
+        [
+            "Dipl.-Wlrtschafts-Ing."
+        ],
+        [
+            "Dipl. Volksw."
+        ],
+        [
+            "Dr. rer. nat"
+        ],
+        [
+            "Dr.-Ing. Dr.-Ing. E.h"
+        ],
+        [
+            "Dr. rer. pol. (techn.)"
+        ],
+        [
+            "Dipl.-Wirtsch.-Ing"
+        ],
+        [
+            "Dipl.-Ing"
+        ],
+        [
+            "Dipl.-Kfm., Dipl.-Ing."
+        ],
+        [
+            "Dipl.-Sozialwirt"
+        ],
+        [
+            "Dott."
+        ],
+        [
+            "Dipl.-Wirt.-Ing. (FH)"
+        ],
+        [
+            "Dr. rer. pol., Graf"
+        ],
+        [
+            "Bau-Ing."
+        ],
+        [
+            "Dipl.-Ing (FH)"
+        ],
+        [
+            "Dr. rer. pol. Dipl.-Ing."
+        ],
+        [
+            "Dr. Freiherr"
+        ],
+        [
+            "Dipl. Phys. Dr."
+        ],
+        [
+            "Prof. Dr. phil."
+        ],
+        [
+            "Dr.-Ing. Dipl.-Wirtsch.-Ing."
+        ],
+        [
+            "Dipl.-Ing. Dipl.-Wirtsch:-Ing."
+        ],
+        [
+            "Dipl.-Kfm. Dipl.-Ing. Dr."
+        ],
+        [
+            "Dr. Frhr."
+        ],
+        [
+            "Dipl.-Biochem. Dr."
+        ],
+        [
+            "Dipl.-Volksw"
+        ],
+        [
+            "Drrer. pol."
+        ],
+        [
+            "D."
+        ],
+        [
+            "Prof. Dr. Drs. h.c."
+        ],
+        [
+            "Baroness"
+        ],
+        [
+            "The Rt. Hon"
+        ],
+        [
+            "Dipl.-Wirtschaftslng"
+        ],
+        [
+            "Prof. Dr.-Ing. Dr. h.c."
+        ],
+        [
+            "Dipl.-Geologe"
+        ],
+        [
+            "Betriebsw. grad."
+        ],
+        [
+            "Dipl.-Wirt.-Ing. (grad.)"
+        ],
+        [
+            "Dr. rer. net."
+        ],
+        [
+            "Dipl.-Ök."
+        ],
+        [
+            "Dipl.-Ing. Dr. rer. nat."
+        ],
+        [
+            "Dr. Dipl.-Kfm."
+        ],
+        [
+            "Dipl.-Vw."
+        ],
+        [
+            "Senator E.h. Dipl.-Berging."
+        ],
+        [
+            "Dipl.-informatiker"
+        ],
+        [
+            "Dipl.-Physiker Dr."
+        ],
+        [
+            "Dipl.-Kfm., Dipl.-lng."
+        ],
+        [
+            "Dipl.-Ing., Dipl.-Wirtschaftsing. Dr."
+        ],
+        [
+            "jur."
+        ],
+        [
+            "Dipl.-lng. Prof. Dr."
+        ],
+        [
+            "Dipl.-Volkswirt Dr."
+        ],
+        [
+            "Dr. rer. pol. Dipl.-Volksw."
+        ],
+        [
+            "Dr.med."
+        ],
+        [
+            "Dr. Dipl. Phys."
+        ],
+        [
+            "Dipl.-Informatiker"
+        ],
+        [
+            "Dipl.-Betriebsw. (BA)"
+        ],
+        [
+            "Dr.-Ing. Dipl.-Wirtsch.-lng."
+        ],
+        [
+            "Dipl.-Kfm. Dr.-Ing."
+        ],
+        [
+            "Dr. Dipl.-Chem."
+        ],
+        [
+            "Dipf.-Ing."
+        ],
+        [
+            "Dipl.-Forstw. Dr."
+        ],
+        [
+            "Dipl.-Bankbeamter"
+        ],
+        [
+            "Prof.-Dr."
+        ],
+        [
+            "Ass. jur."
+        ],
+        [
+            "Dipl. oec"
+        ],
+        [
+            "Dipl.-Betriebw. (FH)"
+        ],
+        [
+            "Prof. Dr. rer. pol., Dipl.-Ing."
+        ],
+        [
+            "Dr. rer. pol., Dipl.-Kfm."
+        ],
+        [
+            "MBA"
+        ],
+        [
+            "Dipl.-Kfm. Dipl.-Ing. Dr. rer. pol."
+        ],
+        [
+            "Dipl.-Ing. Prof. Dr."
+        ],
+        [
+            "Dipl.-Ing.(FH)"
+        ],
+        [
+            "Betriebswirt"
+        ],
+        [
+            "Dipl.-Mathematiker"
+        ],
+        [
+            "Dipl.-Matthematiker"
+        ],
+        [
+            "Dipl.-Inf. Dipl.-Wirtschafts-Ing."
+        ],
+        [
+            "Ing. civil"
+        ],
+        [
+            "Dipl.-Volksw. Dr. E."
+        ],
+        [
+            "Dr. rer. nat. Dipl.-Phys."
+        ],
+        [
+            "Dipl.-Ing. Dipl.-Wirtsch.-Ing. Dr."
+        ],
+        [
+            "Dipl.-Kaufm."
+        ],
+        [
+            "Dr. Dipl.-Wi.Inf."
+        ],
+        [
+            "Dr. Dipl.-Math."
+        ],
+        [
+            "Dr. Dr. E.h."
+        ],
+        [
+            "Prof. Dr. h.c. Dipl.-Ing."
+        ],
+        [
+            "Dipl. Kffr."
+        ],
+        [
+            "Dipk-Ing."
+        ],
+        [
+            "Dr. jur. Dr.-Ing. E.h."
+        ],
+        [
+            "Dr. Eng. h.c."
+        ],
+        [
+            "Prof. Dr. rer. nat"
+        ],
+        [
+            "Dr, jur."
+        ],
+        [
+            "Prof. Dr. Dipl.-Chem."
+        ],
+        [
+            "Dipl.-Wirtschaftsingenieur"
+        ],
+        [
+            "Ir. Dipl.-Ing."
+        ],
+        [
+            "Dipl.-Bankbetriebsw."
+        ],
+        [
+            "Dr- rer. pol."
+        ],
+        [
+            "Dipl.-Verwaltungswirt"
+        ],
+        [
+            "Dir. Mag."
+        ],
+        [
+            "Dr. rer. oec. publ."
+        ],
+        [
+            "Dr. -Ing. e.h. Dipl. -Ing."
+        ],
+        [
+            "Dr. -Ing. E.h."
+        ],
+        [
+            "Professor"
+        ],
+        [
+            "Prof. Dr. -Ing."
+        ],
+        [
+            "Prof. Dr. Drs."
+        ],
+        [
+            "Prof. Dr. phil. nat. Dr. rer. nat. h. c. Dr-Ing. E.h."
+        ],
+        [
+            "Dr.-Ing.E.h. Dr.h. c."
+        ],
+        [
+            "Prof. Dr.h. c."
+        ],
+        [
+            "Prof. Dr. med."
+        ],
+        [
+            "Fürst"
+        ],
+        [
+            "Dipl. rer.pol. Dr."
+        ],
+        [
+            "Prof. Dr.phil.nat."
+        ],
+        [
+            "Prof. Dr.- Ing."
+        ],
+        [
+            "Prof. Dr.phil.h.c."
+        ],
+        [
+            "Prof. Dr.Dr.h.c.mult. Dr.E.h.mult."
+        ],
+        [
+            "Dr.rer.pol.h.c."
+        ],
+        [
+            "Dipl.-Ing. Dr. jur."
+        ],
+        [
+            "Dipl.-Landwirt"
+        ],
+        [
+            "Dr.-Ing. Dr.rer.pol."
+        ],
+        [
+            "Prof. Dr. phil. nat."
+        ],
+        [
+            "Dr. phil. h. c."
+        ],
+        [
+            "Prof. Dr.-Ing. Dr. h. c."
+        ],
+        [
+            "Prof. Dr.-Ing. Dr. Dr.-Ing. E. h."
+        ],
+        [
+            "Prof.Dr.phil.nat."
+        ],
+        [
+            "Dr.rer.pol.h. c."
+        ],
+        [
+            "Dr.- Ing. Dr.rer.nat.h.c."
+        ],
+        [
+            "Dr.phil.Dr.jur."
+        ],
+        [
+            "Dr.phil.nat."
+        ],
+        [
+            "Dr.-Ing. E. h. Dr. h. c. Dipl.-Ing."
+        ],
+        [
+            "Prof. Dr.-Ing. Dr. phil. Dr.-Ing. E. h."
+        ],
+        [
+            "Senator h.c. Dipl.-Kfm."
+        ],
+        [
+            "Senator h.c. Dr.jur."
+        ],
+        [
+            "Dr.rer.pol. Dipl.-Kfm."
+        ],
+        [
+            "Dr.rer.pol. Dr.-Ing. E. h."
+        ],
+        [
+            "Dr.-Ing.E.h."
+        ],
+        [
+            "Dipl.-Ing. E.T.H. Dr.h. c. Dr.h.c."
+        ],
+        [
+            "Dipl.-Kfm. Dipl.-Brauerei-Ing."
+        ],
+        [
+            "Prof. Dr. h. c."
+        ],
+        [
+            "Dr.-Ing. h.c."
+        ],
+        [
+            "Dr.-Ing. h. c."
+        ],
+        [
+            "Dipl. -Volksw."
+        ],
+        [
+            "Prof. Dr.-Ing. Dr.rer.nat.E.h."
+        ],
+        [
+            "Dr.jur. Dr. phil."
+        ],
+        [
+            "Dr.Dr."
+        ],
+        [
+            "Dr.jur.h. c."
+        ],
+        [
+            "Dr. Ing. E. h."
+        ],
+        [
+            "Ek. lic."
+        ],
+        [
+            "Professor Dr."
+        ],
+        [
+            "Dr. jur. h. c."
+        ],
+        [
+            "Dipl.-Ing. Dr. Ing. E. h."
+        ],
+        [
+            "Prof. Dr.-Ing. Dr. phil. Dres. E. h."
+        ],
+        [
+            "Prof. Dr.-Ing. Dres. h. c."
+        ],
+        [
+            "Prof. Dr. phil. Dres. h. c."
+        ],
+        [
+            "Senator E. h. Dipl.-Ing."
+        ],
+        [
+            "Senator E.h. Dr.-Ing."
+        ],
+        [
+            "Dipl.-Kfm. Dr.rer.oec."
+        ],
+        [
+            "Syndikus"
+        ],
+        [
+            "Dipl.-Hdl."
+        ],
+        [
+            "Prof. Dr.rer.pol."
+        ],
+        [
+            "Dr.E.h."
+        ],
+        [
+            "Jonkheer Dr."
+        ],
+        [
+            "Prof. Dr. Dr. Dr. E. h."
+        ],
+        [
+            "Dr. Karl"
+        ],
+        [
+            "Prof. Dr. Dr. Dr.-Ing. E.h."
+        ],
+        [
+            "Dipl.-Ing., Dr.-Ing. E.h."
+        ],
+        [
+            "Prof. Dr. Dres.h.c."
+        ],
+        [
+            "Prof. Dr.-Ing. Dr.rer.nat. h.c."
+        ],
+        [
+            "Prof. Dr. Dr.h.c."
+        ],
+        [
+            "Prof. Dr. Dr.-Ing. E.h."
+        ],
+        [
+            "Prof. Dr.-Ing"
+        ],
+        [
+            "Dipl.-Ing. ETH"
+        ],
+        [
+            "Prof. Dr. Ir."
+        ],
+        [
+            "Hagen"
+        ],
+        [
+            "Prof. Dr. phil. Dr.-Ing."
+        ],
+        [
+            "Prof. Dr. mult."
+        ],
+        [
+            "Professor Dr.h.c."
+        ],
+        [
+            "Dipl.-Forstw."
+        ],
+        [
+            "Ing. Dvw."
+        ],
+        [
+            "Dr. rer. oec. et techn."
+        ],
+        [
+            "Dr. phil., Dr.-Ing. E. h."
+        ],
+        [
+            "Prof. Dr.-Ing. Dr. phil."
+        ],
+        [
+            "Dipl.-Ing. Dr.h.c."
+        ],
+        [
+            "Dipl.rer.oec.et.techn."
+        ],
+        [
+            "Dr. jur. Dr.h.c."
+        ],
+        [
+            "Dr. jur.h.c."
+        ],
+        [
+            "Dr.sc.pol."
+        ],
+        [
+            "Dr. phil. Drs. med. h. c."
+        ],
+        [
+            "Prof. Dr.-Ing. Dr. h. c. Dipl.-Kfm."
+        ],
+        [
+            "Prof. Dipl.-Kfm."
+        ],
+        [
+            "Dr.rer.oec. publ."
+        ],
+        [
+            "Dr.rer.pol., Graf"
+        ],
+        [
+            "Prof. Dr.phil.nat. Dr.rer.nat.h.c. Dr.-Ing.E.h."
+        ],
+        [
+            "Dr.-Ing.e.h. Dipl.-Ing."
+        ],
+        [
+            "Dr.-Ing. Dr.rer.nat. h.c."
+        ],
+        [
+            "Dr.-Ing.E.h. Dr.h.c."
+        ],
+        [
+            "Prof. Dr.h.c."
+        ],
+        [
+            "Prof. Dr.med."
+        ],
+        [
+            "Dr.-Ing.E.h. Dipl.-Ing."
+        ],
+        [
+            "Dipl.rer.pol. Dr."
+        ],
+        [
+            "Erbprinz"
+        ],
+        [
+            "Dipl-Ing.agr."
+        ],
+        [
+            "Dipl.Ldw."
+        ],
+        [
+            "Dipl.-Ing. Dr.jur."
+        ],
+        [
+            "Dr.med.Dipl.Chem."
+        ],
+        [
+            "Prof. Dr.-Ing. Dr.h.c."
+        ],
+        [
+            "Dr.-Ing. Dr.rer.nat.h.c."
+        ],
+        [
+            "Dr.phil. Dr.jur."
+        ],
+        [
+            "Dr.-Ing.E.h. Dr.h.c. Dipl.-Ing."
+        ],
+        [
+            "Dr.rer.pol. Dr.-Ing.E.h."
+        ],
+        [
+            "Dipl.-Ing. E.T.H. Dr.h.c. Dr.h.c."
+        ],
+        [
+            "Dr.-Ing.h.c."
+        ],
+        [
+            "Dr.h."
+        ],
+        [
+            "Dr.rer.oec. E.h."
+        ],
+        [
+            "Dipl.-Volksw. Dipl.-Kfm."
+        ],
+        [
+            "Dr.jur. Dr.phil."
+        ],
+        [
+            "Dr.jur.h.c."
+        ],
+        [
+            "Dr. Ing. E.h."
+        ],
+        [
+            "Dr.jur.habil."
+        ],
+        [
+            "Prof. Dr.-Ing. Dres.h.c."
+        ],
+        [
+            "Dr.jur"
+        ],
+        [
+            "Senator E.h. Dipl.-Ing."
+        ],
+        [
+            "Dr.Dr.-Ing.E.h."
+        ],
+        [
+            "Prof. Dr.phil."
+        ],
+        [
+            "S.E. Prof. Dr."
+        ],
+        [
+            "Prof. Dr.rer.pol. Dres.h.c."
+        ],
+        [
+            "Dr.h.c.rer.pol."
+        ],
+        [
+            "Dipl.-Ing. Dr.-Ing.E.h."
+        ],
+        [
+            "Prof. Dr.-Ing. Dr.rer.nat.h.c."
+        ],
+        [
+            "Prof. Dr.phil. Dr.-Ing."
+        ],
+        [
+            "Dr.lng."
+        ],
+        [
+            "Dipl.-Ing.Dr.-Ing."
+        ],
+        [
+            "lr."
+        ],
+        [
+            "Dr.phil., Dr.-Ing. E.h."
+        ],
+        [
+            "Prof. Dr.oec."
+        ],
+        [
+            "Freiherr, Dr."
+        ],
+        [
+            "Dr.jur. Dr.h.c."
+        ],
+        [
+            "Dr.phH."
+        ],
+        [
+            "Dr.phil.Drs.med.h.c."
+        ],
+        [
+            "Dr. rer.oec."
+        ],
+        [
+            "JHR."
+        ],
+        [
+            "Dr.rer.oec.et techn."
+        ],
+        [
+            "Prof. Dr. phil. nat. Dr. rer. nat. h. c. Dr.-Ing. E. h."
+        ],
+        [
+            "Dr.-Ing. e. h. Dipl.-Ing."
+        ],
+        [
+            "Dr.-Ing. Dr. rer. nat. h. c."
+        ],
+        [
+            "Dr.-Ing. E. h. Dr. h. c."
+        ],
+        [
+            "Dipl. rer. pol. Dr."
+        ],
+        [
+            "Prof. Dr. phil. h. c."
+        ],
+        [
+            "Dipl.-Kfm Dr. rer. pol."
+        ],
+        [
+            "Dipl-Ing. agr."
+        ],
+        [
+            "Dipl. Ldw."
+        ],
+        [
+            "Dr.-Ing. Dr. rer. pol."
+        ],
+        [
+            "Prof. Dr. rer. nat. Dr.-Ing. E. h."
+        ],
+        [
+            "Dr. med. Dipl. Chem."
+        ],
+        [
+            "Dr. phil. Dr. rer. oec. h. c."
+        ],
+        [
+            "Dr. rer. pol. h. c."
+        ],
+        [
+            "Dr. phil. Dr. jur."
+        ],
+        [
+            "Dr. rer. pol. Dr.-Ing. E. h."
+        ],
+        [
+            "Dipl.-Ing. E. T. H. Dr. h. c. Dr. h. c."
+        ],
+        [
+            "Ihr."
+        ],
+        [
+            "Dr.-Ing. Dr.-Ing. E. h."
+        ],
+        [
+            "Dr. J."
+        ],
+        [
+            "Prof. Dr.-Ing. Dr. rer. nat. E. h."
+        ],
+        [
+            "Dr. jur. Dr. phil."
+        ],
+        [
+            "Ek.lic."
+        ],
+        [
+            "Prof. Dr.rer.nat. Dr.-Ing."
+        ],
+        [
+            "Dr.-Ing. e.h."
+        ],
+        [
+            "Dr.Dr.E.h. Dr.h.c."
+        ],
+        [
+            "S.E. Prof.Dr."
+        ],
+        [
+            "Prof. Dr.rer.pol.Dres.h.c."
+        ],
+        [
+            "Dr. h.c. rer.pol."
+        ],
+        [
+            "Dipl.-Kfm.Dr."
+        ],
+        [
+            "Dr.rer.pol. Dipl.-Volksw."
+        ],
+        [
+            "Dipl.-Volks."
+        ],
+        [
+            "Dipl.-Ing. Dr.rer.pol."
+        ],
+        [
+            "Dr. Raban Frhr. v."
+        ],
+        [
+            "Dr.-Ing.E. h."
+        ],
+        [
+            "Dr. E. h."
+        ],
+        [
+            "Dr. jur. Dr. h. c."
+        ],
+        [
+            "Dr. lng."
+        ],
+        [
+            "Dipl.-Ing. Dr.-Ing.E. h."
+        ],
+        [
+            "Drs"
+        ],
+        [
+            "JHR"
+        ],
+        [
+            "Dipl.rer.oec. et techn."
+        ],
+        [
+            "Dipl.-Ing. Dr. h. c."
+        ],
+        [
+            "M. D."
+        ],
+        [
+            "Prof.Dr.phil.nat. Dr.rer.nat. h.c. Dr.-Ing. E.h."
+        ],
+        [
+            "Fürsprecher"
+        ],
+        [
+            "Dr.-Ing. e.h. Dipl.-Ing."
+        ],
+        [
+            "Kr. jur"
+        ],
+        [
+            "Dr. Ing. E. h. Dipl.-Ing."
+        ],
+        [
+            "lic.jur."
+        ],
+        [
+            "Dr. Dr. Dr. E. h."
+        ],
+        [
+            "Prof. Dr.-Ing. Dr. rer. nat. E.h."
+        ],
+        [
+            "Prof. Dr. rer. nat. Dr.-Ing."
+        ],
+        [
+            "Dr. Dr. E.h. Dr. h.c."
+        ],
+        [
+            "Dr. E.h."
+        ],
+        [
+            "Prof. Dr. rer. pol. Dres. h. c."
+        ],
+        [
+            "Dr. h. c. rer. pol."
+        ],
+        [
+            "Dipl.-Ing,"
+        ],
+        [
+            "Prof. Dr.-Ing. Dr. rer. nat. h. c."
+        ],
+        [
+            "Dipl.-Ing. Dr. rer. pol."
+        ],
+        [
+            "Dipl:-Kfm."
+        ],
+        [
+            "Dr. Dr. hc."
+        ],
+        [
+            "Dr. jur. h.c."
+        ],
+        [
+            "Dr.phil. Drs.med.h.c."
+        ],
+        [
+            "Dr. phil.h.c."
+        ],
+        [
+            "Ass.jur."
+        ],
+        [
+            "Dr.-Ing. Dr. rer. nat. h.c."
+        ],
+        [
+            "Dr. Ing. E.h. Dipl.-Ing."
+        ],
+        [
+            "Prof. Dr. phil. h.c."
+        ],
+        [
+            "Senator Dr. E. h."
+        ],
+        [
+            "Ehrensenator"
+        ],
+        [
+            "Dr.-Ing. Dr.rer.pol. Dr.-Ing. E.h."
+        ],
+        [
+            "Prof. Dr.rer.nat. Dr.-Ing. E.h."
+        ],
+        [
+            "Dr.rer.pol. Dr.-Ing. E.h."
+        ],
+        [
+            "Ing. (FH)"
+        ],
+        [
+            "Dr.-Ing. Dr.-Ing."
+        ],
+        [
+            "Dr.-Ing. e. h."
+        ],
+        [
+            "Dr. Dr. E. h. Dr. h. c."
+        ],
+        [
+            "Dr Dr.h.c."
+        ],
+        [
+            "Prof. Dr.-Ing. Dr. rer. nat. h.c."
+        ],
+        [
+            "Frhr., Dr."
+        ],
+        [
+            "Dr. Dr. Dr. E.h."
+        ],
+        [
+            "Dr., Prinz"
+        ],
+        [
+            "Dr. Dr.-Ing. E. h."
+        ],
+        [
+            "Prof. Dr. oec. Dr. h. c."
+        ],
+        [
+            "Freiherr, Dr.-Ing."
+        ],
+        [
+            "Prod. Dr. Jr."
+        ],
+        [
+            "Dr. Dr.-Ing. E.h. Dr. h.c."
+        ],
+        [
+            "Prof. Dr. jur. Dr.-Ing."
+        ],
+        [
+            "Prof. Dr. jur. Dr. Ing. E.h."
+        ],
+        [
+            "Dr.-lng. E.h."
+        ],
+        [
+            "Prof. Dr. rer. nat. habil."
+        ],
+        [
+            "Dip.-Ing. Dipl.-Kfm."
+        ],
+        [
+            "Dr.-Inh. E.h."
+        ],
+        [
+            "Dr. med. Dipl.Chem."
+        ],
+        [
+            "Ehrensenator Prof. Dr."
+        ],
+        [
+            "Prof. Dr. rer. nat. Dr. med."
+        ],
+        [
+            "Dr. rer. pol. Dr.-Ing. E.h."
+        ],
+        [
+            "Freiherr, Dr. jur."
+        ],
+        [
+            "Dr. Dr.-Ing. E.h. Dr. phil. h.c."
+        ],
+        [
+            "Dipl.-Ing. E.T.H. Dr. h.c. Dr. h.c."
+        ],
+        [
+            "Frof. Dr."
+        ],
+        [
+            "Dipl.-Volksw. u. Dipl.-Kfm."
+        ],
+        [
+            "Dr. rer. s.c."
+        ],
+        [
+            "Senator E.h. Dr. h.c."
+        ],
+        [
+            "Dipl.-Kfm., Dipi.-Brau-Ing."
+        ],
+        [
+            "J.D."
+        ],
+        [
+            "Lic. oec. publ."
+        ],
+        [
+            "Dr. jur., Graf"
+        ],
+        [
+            "Prinz, Dr."
+        ],
+        [
+            "Dipl.-Chem. Ing."
+        ],
+        [
+            "Berlin 51"
+        ],
+        [
+            "Bodenwerder"
+        ],
+        [
+            "Dipl.-Inform."
+        ],
+        [
+            "Dr. phil. Drs. med. h.c."
+        ],
+        [
+            "Dr. rer. pol. Dr.-Ing. E.h. Dr. phil. h.c."
+        ],
+        [
+            "Dt."
+        ],
+        [
+            "Dipl.-Ing. Dipl.-Wirt.-Ing."
+        ],
+        [
+            "Freiherr, Dr.-ing."
+        ],
+        [
+            "E.h."
+        ],
+        [
+            "Prof. Dr. mont."
+        ],
+        [
+            "Prof: Dr."
+        ],
+        [
+            "Dr.-Ing. Dr. rer. pol. Dr.-Ing. E.h."
+        ],
+        [
+            "Dr. sc. agr."
+        ],
+        [
+            "Prof, Dr. rer. nat."
+        ],
+        [
+            "J. D."
+        ],
+        [
+            "Prof. Dr. rer. pol. Dres. h.c."
+        ],
+        [
+            "S.E. Dr.-Ing."
+        ],
+        [
+            "Dipl.-Kfm., Freiherr von Girsewald"
+        ],
+        [
+            "Dr. phil., Dr.-Ing. E.h."
+        ],
+        [
+            "Konsul Dr."
+        ],
+        [
+            "Dr.-Ing., Freiherr"
+        ],
+        [
+            "Dipl.-Holzwirt"
+        ],
+        [
+            "Jhr. Mr."
+        ],
+        [
+            "Dr. phil. Dr. Jur."
+        ],
+        [
+            "Dipl. Ing. Dr.-Ing. E.h."
+        ],
+        [
+            "Prof. Dr. Dr. h.c"
+        ],
+        [
+            "Prof. Dr.-Ing. h.c."
+        ],
+        [
+            "General a.D."
+        ],
+        [
+            "Prot Dr."
+        ],
+        [
+            "Dr. iur. h.c."
+        ],
+        [
+            "Dipf.-Volksw."
+        ],
+        [
+            "Dipl.-Ing. E.T.H."
+        ],
+        [
+            "Dipl.-Volksw., Dipl.-Volksw."
+        ],
+        [
+            "Dipl.-Sozw."
+        ],
+        [
+            "Ira"
+        ],
+        [
+            "Dr.-lng. Dr.-lng. E.h."
+        ],
+        [
+            "Dr. F."
+        ],
+        [
+            "Prof. Dr. rer. pol. C."
+        ],
+        [
+            "S. D. Erbprinz"
+        ],
+        [
+            "Rotterdam"
+        ],
+        [
+            "Dr. rer. pol. Dr. h.c."
+        ],
+        [
+            "Dipl. Wirtsch.-Ing."
+        ],
+        [
+            "Dipl.-Ing. agr. (FH)"
+        ],
+        [
+            "Dr.-Ing. Dipl.-Ing"
+        ],
+        [
+            "Prof. Dr. rer pol."
+        ],
+        [
+            "lic. oec."
+        ],
+        [
+            "Prof. Dr. phil. Dr. jur."
+        ],
+        [
+            "Dipl.-Kfm. Dipl.-Dr.-Ing."
+        ],
+        [
+            "Graf, Dr."
+        ],
+        [
+            "Dr. jun."
+        ],
+        [
+            "Dr.- Ing. E.h."
+        ],
+        [
+            "Dipl.-Kfm. Ing."
+        ],
+        [
+            "Prof. Dr. Dr.-lng. E.h."
+        ],
+        [
+            "Prof Dr.-Ing."
+        ],
+        [
+            "Dr. phii. Drs. med. h.c."
+        ],
+        [
+            "Prof. DDr."
+        ],
+        [
+            "Dr. rer. pol., Freiherr"
+        ],
+        [
+            "Dip.-lng. Dipl.-Kfm."
+        ],
+        [
+            "Dipl. rer. oec."
+        ],
+        [
+            "Dr. Fr."
+        ],
+        [
+            "Prof. Dr. rer. pol. Dr. h.c. mult."
+        ],
+        [
+            "Prof. Dr. rer. nat. Dr. h.c. mult."
+        ],
+        [
+            "Dipl.-Kfm., Dipl.-Brau.-Ing."
+        ],
+        [
+            "Dipl.-Kfm., Dipl.-Brauerei-Ing."
+        ],
+        [
+            "Dipl.-Kfm. Dipl. Brau-Ing."
+        ],
+        [
+            "Dr. jur. Dr. h.c. mult."
+        ],
+        [
+            "Senator h.c."
+        ],
+        [
+            "Prof. Dr.-Ing. E.h. Dipl.-Ing."
+        ],
+        [
+            "Dipl.-lng. Dr.-lng. E.h."
+        ],
+        [
+            "Prof. Dr.-Ing. Dr.-lng. E.h."
+        ],
+        [
+            "Dipl.-Finanzw."
+        ],
+        [
+            "Dr. rer. pol. Dr.-Ing. E.h. Dr. phil. hc."
+        ],
+        [
+            "MdB"
+        ],
+        [
+            "Prof. h.c."
+        ],
+        [
+            "Dkfm. Fr."
+        ],
+        [
+            "Prof. Dr. DDr. h.c."
+        ],
+        [
+            "Prof. Dr. Ing. E.h."
+        ],
+        [
+            "Dr. Iur. h.c."
+        ],
+        [
+            "Prof. Dr. rer. nat. Dr. med. Dr. phil. h.c."
+        ],
+        [
+            "Dipl. sc. pol. Dr.-Ing. E.h."
+        ],
+        [
+            "Dr. Dr.-lng. E.h. Dr. phil. h.c."
+        ],
+        [
+            "Dipl.-Kfm., Dipl.-Brauereilng."
+        ],
+        [
+            "Senator E.h. Dr. jur."
+        ],
+        [
+            "Prof. Dr.-lng. Dr.-lng. E.h."
+        ],
+        [
+            "Dr. Ing. h.c."
+        ],
+        [
+            "Dipl.-Ing., Frhr."
+        ],
+        [
+            "Dipl.-Holzw. Dr."
+        ],
+        [
+            "Msgr."
+        ],
+        [
+            "Prof.h.c."
+        ],
+        [
+            "Dipl Volksw."
+        ],
+        [
+            "Kaufm."
+        ],
+        [
+            "Dr. Graf"
+        ],
+        [
+            "Dr., Sir"
+        ],
+        [
+            "Prof. Dipl. Volksw."
+        ],
+        [
+            "Diederik"
+        ],
+        [
+            "Prof. Dr. Dr. h.c. mult."
+        ],
+        [
+            "Prof. Dr. rer. pol. Dr. h.c."
+        ],
+        [
+            "Dr. theol."
+        ],
+        [
+            "Senator Prof. Dr.-Ing."
+        ],
+        [
+            "Dr. rer. poi."
+        ],
+        [
+            "Dipl.-Volkswir"
+        ],
+        [
+            "Dipl.-Kfn."
+        ],
+        [
+            "Dipl.-Forstwirt"
+        ],
+        [
+            "Senator E.h."
+        ],
+        [
+            "Prof. A."
+        ],
+        [
+            "Dipl.-Volksw. Dr. h.c."
+        ],
+        [
+            "Prof. Dr.-Ing. Dr. h.c. Dr.-Ing. E.h."
+        ],
+        [
+            "Dr. rer. pol., h.c."
+        ],
+        [
+            "Prof. Dipl.-Ing. Dr.-Ing. E.h."
+        ],
+        [
+            "Konsul Dipl.-Kfm."
+        ],
+        [
+            "Dipl.-Ing. (FM)"
+        ],
+        [
+            "Dipl.-Kfm. Dr. oec. publ."
+        ],
+        [
+            "Prof. Dr.-Ing. Dipl.-Wirt.-Ing."
+        ],
+        [
+            "Consul"
+        ],
+        [
+            "Dr. rer. pol. Dr."
+        ],
+        [
+            "Dr. jur. Dr."
+        ],
+        [
+            "Dipl.-Vw. Dr."
+        ],
+        [
+            "dr."
+        ],
+        [
+            "Dr. Dr. h .c."
+        ],
+        [
+            "Dr. rer. pol. Freiherr"
+        ],
+        [
+            "Constantin Freiherr"
+        ],
+        [
+            "Dr. h .c."
+        ],
+        [
+            "DipL-Kfm."
+        ],
+        [
+            "Senator e. h. Prof. Dr.-Ing."
+        ],
+        [
+            "Dipl .-Kfm. Dipl.-Br.-Ing."
+        ],
+        [
+            "Dipl .- Kfm."
+        ],
+        [
+            "Grünenplan"
+        ],
+        [
+            "Prof. Dr.jur. Dr.-Ing. E.h."
+        ],
+        [
+            "Dipl.- Volksw."
+        ],
+        [
+            "Dr. med"
+        ],
+        [
+            "Dr.-Ing E.h."
+        ],
+        [
+            "Dr. jur. h .c."
+        ],
+        [
+            "Senator Dr."
+        ],
+        [
+            "Freiherr, Prof. Dr."
+        ],
+        [
+            "Dipl.-Betrw."
+        ],
+        [
+            "Konsul, Dr."
+        ],
+        [
+            "Konsul"
+        ],
+        [
+            "Dipl .-Ing., Freiherr"
+        ],
+        [
+            "Ing. Com."
+        ],
+        [
+            "Dipl.-Phys. Dr.-Ing."
+        ],
+        [
+            "Dipl .-Betriebswirt (FH)"
+        ],
+        [
+            "Dr.jur. h.c."
+        ],
+        [
+            "Betriebsw. (grad.)"
+        ],
+        [
+            "Dr.jur., Graf"
+        ],
+        [
+            "Dipl.- Finanzw."
+        ],
+        [
+            "Dipl. Math."
+        ],
+        [
+            "Dipl .-Kffr."
+        ],
+        [
+            "Senator h.c. Dr. Dr.-Ing. E.h."
+        ],
+        [
+            "Dipl .-Kfm. MBA"
+        ],
+        [
+            "Frhr. , Dr."
+        ],
+        [
+            "Bank-Dir."
+        ],
+        [
+            "Prof. Dr. Th."
+        ],
+        [
+            "Prof, Dipl.-Kfm."
+        ],
+        [
+            "Dipl.-ing. ETH, MBA"
+        ],
+        [
+            "Komm.Rat lng."
+        ],
+        [
+            "Komm.Rat Dr."
+        ],
+        [
+            "Komm.Rat Dkfm. Dr."
+        ],
+        [
+            "Prof.Dr. rer. nat."
+        ],
+        [
+            "Dipl.-Br.-lng."
+        ],
+        [
+            "Dipl .-Kfm"
+        ],
+        [
+            "Senator e.h. Dipl.-Kfm."
+        ],
+        [
+            "Dipl.- Volkswirt"
+        ],
+        [
+            "Dipl.-Fin.-Wirt"
+        ],
+        [
+            "Dr,"
+        ],
+        [
+            "Prof. Dr., Freiherr"
+        ],
+        [
+            "Senator E.h. Dr. rer. pol."
+        ],
+        [
+            "Dipl:-Betriebsw."
+        ],
+        [
+            "Dipl.-Ing. Prof."
+        ],
+        [
+            "Dipl .-Ing"
+        ],
+        [
+            "Dipl.-Kfm., Dipl.-Volksw."
+        ],
+        [
+            "Prof. Dr. rer nat."
+        ],
+        [
+            "Dr. Dr. rer. pol. h.c."
+        ],
+        [
+            "Prof. Dipl.-Ing. E.h."
+        ],
+        [
+            "Dipl.-Soziologe"
+        ],
+        [
+            "Dipl. rer. pol. techn."
+        ],
+        [
+            "Dipl.-Kffr."
+        ],
+        [
+            "Senator E.h. Dipl. rer. pol."
+        ],
+        [
+            "Dipl.-Landw."
+        ],
+        [
+            "Dipl.-Kfm. MBA"
+        ],
+        [
+            "Prof. Dr. Dr.h.c. mult."
+        ],
+        [
+            "Dipl.-Ing., Dipl.-Wirtsch.-lng."
+        ],
+        [
+            "Prof. Drs."
+        ],
+        [
+            "Oberbürgermeister"
+        ],
+        [
+            "Bürgermeister"
+        ],
+        [
+            "Dipl. Berg-Ing."
+        ],
+        [
+            "Ing. Dkfm."
+        ],
+        [
+            "Dipl .-Bankbeamter"
+        ],
+        [
+            "Komm.Rat Ing."
+        ],
+        [
+            "Dipl.-Kfm., Freiherr"
+        ],
+        [
+            "Dlpl.-Kfm. Dr."
+        ],
+        [
+            "Dipl-Br.-Ing."
+        ],
+        [
+            "Prof Dr."
+        ],
+        [
+            "Dipl. oec."
+        ],
+        [
+            "Senator E.h. Dr. med. h.c."
+        ],
+        [
+            "Dr. rer. nat. Dipl.-Chemiker"
+        ],
+        [
+            "Prof. Dr. oec publ."
+        ],
+        [
+            "Dipl.-Ökon."
+        ],
+        [
+            "RA Dr."
+        ],
+        [
+            "Prof. Dr.-Ing. E. h."
+        ],
+        [
+            "Dr. reh pol. Dr.-Ing. E.h. Dr. phil. hc."
+        ],
+        [
+            "Mw. Drs."
+        ],
+        [
+            "Prof. Mr."
+        ],
+        [
+            "Dipl.-Hh. oec."
+        ],
+        [
+            "Dipl.-lng. ETH"
+        ],
+        [
+            "Rrof. Dr."
+        ],
+        [
+            "Dr. rer.pol. Dr.-Ing. E.h."
+        ],
+        [
+            "Prof. Dr. h.c. Dr.-Ing."
+        ],
+        [
+            "C. F."
+        ],
+        [
+            "Prof. Dr. rer.nat. Dr.-Ing. E.h."
+        ],
+        [
+            "Oberbergrat a.D. Dr."
+        ],
+        [
+            "Senator E.h. Prof. Dr. Ing."
+        ],
+        [
+            "Dr.-Ing"
+        ],
+        [
+            "Prof. Dipl.-Wirtsch.-Ing."
+        ],
+        [
+            "Betriebsw. VWA"
+        ],
+        [
+            "Dr.-Ing. E.H."
+        ],
+        [
+            "Prof. Dr.-Ing. Dipl.-Wirt.-lng."
+        ],
+        [
+            "Eric Th. A.C."
+        ],
+        [
+            "Dipl.-Ing. Dipl.-Architekt"
+        ],
+        [
+            "Dr.-lng. E.h. Dipl.-Ing."
+        ],
+        [
+            "Dr. techn. b.c."
+        ],
+        [
+            "Dipl.-lng. Dr.-lng."
+        ],
+        [
+            "Ing. (HTL)"
+        ],
+        [
+            "Prof. DrProf. Dr. oec. publ."
+        ],
+        [
+            "Prof Dr. rer. nat. Dr.-Ing. E.h."
+        ],
+        [
+            "Dr. med. h.c."
+        ],
+        [
+            "E.h. Dr. rer. pol."
+        ],
+        [
+            "Dipl.-Kfm. Dipl.-Braumeister Dr."
+        ],
+        [
+            "Senator E.h. Prof. Dipl.-Ing."
+        ],
+        [
+            "Prof. Dr.-Ing. Dr. h.c. Dr.-Ing. E.h. Dr.-Ing. E.h."
+        ],
+        [
+            "Konsul, Graf"
+        ],
+        [
+            "Prof. Dipl. Ing."
+        ],
+        [
+            "Prof. Dr. Ing. h.c."
+        ],
+        [
+            "Prof., Graf"
+        ],
+        [
+            "Prof. Dr. Dres. h.c."
+        ],
+        [
+            "Dipl.-Bergirtg."
+        ],
+        [
+            "Prof Dr"
+        ],
+        [
+            "Diol.-Betriebsw."
+        ],
+        [
+            "Dr. h.c. techn."
+        ],
+        [
+            "Prof. Dr"
+        ],
+        [
+            "Dr. sc.agr."
+        ],
+        [
+            "Dr.Ing."
+        ],
+        [
+            "Prof.-Dr. Ing. Dr. h.c."
+        ],
+        [
+            "Dr.-Ing. Dr. jur."
+        ],
+        [
+            "Prof. Dr.-med."
+        ],
+        [
+            "E.h. Dipl.-Kfm."
+        ],
+        [
+            "Dr. rer. comm."
+        ],
+        [
+            "E.h. Prof. Dipl.-Ing."
+        ],
+        [
+            "Dipl. Betriebswirt"
+        ],
+        [
+            "E.h. Dipl.-Ing."
+        ],
+        [
+            "Dipl. Wirtsch.-Ing"
+        ],
+        [
+            "Dipl.-Geogr."
+        ],
+        [
+            "Dipl.-Bibliothekarin"
+        ],
+        [
+            "Prof. Dr.-Ing. Dr. techn. E.h."
+        ],
+        [
+            "Senator E. h. Prof. Dr.-Ing."
+        ],
+        [
+            "Prof. Dr.-Ing. Dr. h.c. Dr.-Ing. E.h. Dr.-Ing. E.h. D.sc.(hon)"
+        ],
+        [
+            "Prof. Dr, h.c. Dr. Ing. E.h. Dr."
+        ],
+        [
+            "Dr. Dr. h.c. mult."
+        ],
+        [
+            "Prof. Dr. Dipl.-Ing."
+        ],
+        [
+            "Dipl.-Handelsl."
+        ],
+        [
+            ".."
+        ],
+        [
+            "Lic.oec."
+        ],
+        [
+            "Dipl. rer. pol.-techn Dr."
+        ],
+        [
+            "Dr. rer. pol. Dr.-Ing. E. h. Dr. phil. h. c."
+        ],
+        [
+            "Dipl.-Kauffrau"
+        ],
+        [
+            "Dipl.-Ing. E.h. Dipl.-Wirtsch.-Ing."
+        ],
+        [
+            "Rfrhr.v.u.z."
+        ],
+        [
+            "Dipl.Wirtschaftsing."
+        ],
+        [
+            "Dipl. rer. pol. (techn.) Dipl.-Kfm. Dr."
+        ],
+        [
+            "Dr. rer. oec"
+        ],
+        [
+            "Dr. Dipl.-Ing. rer. pol."
+        ],
+        [
+            "Prof. Dr. Dipl.-Wirt.-Ing."
+        ],
+        [
+            "Wachenheim"
+        ],
+        [
+            "Dipl.-.Kfm."
+        ],
+        [
+            "Dipl.-Ing. Dipl. Wirt.-Ing."
+        ],
+        [
+            "Prof. Dr. h.c. mult. Dr."
+        ],
+        [
+            "Prof. Dr. iur."
+        ],
+        [
+            "Dipl.-oec"
+        ],
+        [
+            "S.K.H."
+        ],
+        [
+            "Dr., Frhrv."
+        ],
+        [
+            "Dr. Dipl.-Ing E. h."
+        ],
+        [
+            "Ferrer"
+        ],
+        [
+            "Dr. h.c. Prof."
+        ],
+        [
+            "Dipl.-Vwt. Dr."
+        ],
+        [
+            "Dipl.-Ing. Dr. rer. nat"
+        ],
+        [
+            "Dr. Dipl.-Ing. e.h."
+        ],
+        [
+            "Dipl.-Wirtsch.-Sng."
+        ],
+        [
+            "Dipl.-Chem. Dr. phil. nat."
+        ],
+        [
+            "Dr. rer. oec. Dipl.-Kfm."
+        ],
+        [
+            "Dr .rer. nat. Dipl.-Phys."
+        ],
+        [
+            "Lic. oec"
+        ],
+        [
+            "Prof. Dr.-Ing. e.h. Dipl.-Ing."
+        ],
+        [
+            "Dipl.-Volksv"
+        ],
+        [
+            "WP-Kenn-Nr."
+        ],
+        [
+            "Dipl.-Kfm. Dipl.-Ing"
+        ],
+        [
+            "DR., Graf"
+        ],
+        [
+            "Prof. Dr. rer.pol."
+        ],
+        [
+            "Dipl.-Geophys."
+        ],
+        [
+            "Senator E.h. Dipl.-Kfm."
+        ],
+        [
+            "Senator E.h. Dipi.-Ing."
+        ],
+        [
+            "Dipl.- Volksw. Dr."
+        ],
+        [
+            "Dr., Graf Graf"
+        ],
+        [
+            "div.-ber. ab 1.4. 1986 Bezugsrecht DM 95 Mio Im März aus gen. Kap. (ao. HV 22.3."
+        ],
+        [
+            "Div.Sch.Nr. 2 Bezugsrecht DM 110 Mio Im Dezember aus gen. Kap. (HV 25.3."
+        ],
+        [
+            "Div.Sch.Nr. 4. 1990 Bezugsrecht DM 134545450 Im August aus gen. Kap. (HV 25.3.1986 und HV 25.3."
+        ],
+        [
+            "i.V."
+        ],
+        [
+            "Div.Sch.Nr. 10 Besondere Bezugsrechte 1989 Bezugsrecht i.V."
+        ],
+        [
+            "1."
+        ],
+        [
+            "Div.Sch.Nr. 8."
+        ],
+        [
+            "Prof. Dr. h.c. mult."
+        ],
+        [
+            "Prof. Dr.-Ing. Dr. h.c. Dr.-Ing. E.h. Dr.-Ing. E.h. D.sc. (hon)"
+        ],
+        [
+            "Dipl.-Kfm. Dr. rer. pol ."
+        ],
+        [
+            "Dr. Eng.h.c."
+        ],
+        [
+            "Prof. Dr.-Ing. E.h. Dr.-Ing."
+        ],
+        [
+            "lic.oec."
+        ],
+        [
+            "Dipl.-Math"
+        ],
+        [
+            "Dipl.-Kfm. Prof. Dr."
+        ],
+        [
+            "Rfrhr."
+        ],
+        [
+            "Dipl.-Päd."
+        ],
+        [
+            "Mag.Pharm."
+        ],
+        [
+            "Dipl. rer. pol. (techn.). Dipl.-Kfm. Dr."
+        ],
+        [
+            "Dipl.-Ökonom Dr."
+        ],
+        [
+            "Dipl.-Ing. (ETH) Dr."
+        ],
+        [
+            "Konsul E.h. Prof. Dr. Dr. h. c."
+        ],
+        [
+            "Dipl.-Kfm. Dr. rer pol."
+        ],
+        [
+            "Dipl.-Ing., Dipl.-Betriebsw."
+        ],
+        [
+            "Dipl.-Betriebsw, (FH)"
+        ],
+        [
+            "Dipl.-Kfm. Dipl.-Math."
+        ],
+        [
+            "Dipl.-oec. Dr."
+        ],
+        [
+            "Dipl.-Kfm., Baron"
+        ],
+        [
+            "Dr. habil."
+        ],
+        [
+            "Dipl.-Wirtsch.-Inform."
+        ],
+        [
+            "Dr. rer, nat. Dipl.-Phys."
+        ],
+        [
+            "Prof. Dr. oe.c. publ."
+        ],
+        [
+            "Dipl.-Chem. Dr. rer. nat."
+        ],
+        [
+            "Dipl.-Finanzw. (FH)"
+        ],
+        [
+            "Dipl.-lng., Freiherr"
+        ],
+        [
+            "Dipl.-Wirtschaftsprüfer"
+        ],
+        [
+            "Dr. rer. nat. h.c."
+        ],
+        [
+            "Dr. jur. Dr. rer. pol. h.c."
+        ],
+        [
+            "Dipl.-Wirtschaftsinformatiker"
+        ],
+        [
+            "Prof. Dr. Dipl.-Kfm."
+        ],
+        [
+            "Dr.-lng. E.H."
+        ],
+        [
+            "lic. rer. pol."
+        ],
+        [
+            "Prof. em. Dr.-Ing."
+        ],
+        [
+            "Dipl.-Wirtsch. Ing. Dr."
+        ],
+        [
+            "Prof. Dr.-Ing. Dr.-Ing. e.h."
+        ],
+        [
+            "Mag. Pharm."
+        ],
+        [
+            "Dipl.-Kfm, Dr."
+        ],
+        [
+            "Dr. jur. Dipl.-Kfm."
+        ],
+        [
+            "Dr. h.c. mult."
+        ],
+        [
+            "Dr.-Ing. Dipl.-Phys."
+        ],
+        [
+            "Dipl.-Volkswirt Dr. rer pol."
+        ],
+        [
+            "Konsul E.h. Prof. Dr. Dr. h.c."
+        ],
+        [
+            "Prof. Dr. med. vet. Dr. med. vet. h.c."
+        ],
+        [
+            "Prof. Dr. med. vet. Dr. med. vet. h.c. mult."
+        ],
+        [
+            "Dr. med. vet."
+        ],
+        [
+            "Dir.Mag."
+        ],
+        //From here newly added entries start
+        [
+            "WP"
+        ],
+        [
+            "StB"
+        ]
+
+        
+    ]
+}
