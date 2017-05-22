@@ -7,36 +7,126 @@ const async   = require('async')
 
 Program
     .option('-o, --outputdir <dir>', 'Output directory', './output')
+    .option('-i, --inputdir <dir>','Input directory with html files')
     .option('-p, --print', 'Print to STDOUT', false)
     .option('-n, --parallel <num>', 'Parallel conversions', parseInt, 5)
-    .arguments('[htmlFiles...]')
-    .action((htmlFiles) => {
+    .option('-f, --inputfiles <files>','Input files ' ) 
+    .parse(process.argv); 
+
+var inputFolver_isGiven = false;      //indicator if there is some valid inputfolder or files given 
+var fileslist;                      //list of files which will get parsed 
+
+
+if(Program.inputdir){
+    console.log('Specified input directory is: %j', Program.inputdir);
+    if(!fs.lstatSync(Program.inputdir).isDirectory()){
+        console.log("Specified path is not a directory");    
+    }else{
+        var files = walk(Program.inputdir); //Get all files in directory and subdirectories 
+        fileslist = files.filter( function( elm ) {
+            return elm.match(/.*\.(html)/ig);
+        });
+        if(fileslist.length>0){
+            console.log("Valid input directory was specified, continuing with parsing"); 
+            inputFolver_isGiven = true; 
+        }
+    }
+}
+
+
+if(inputFolver_isGiven && Program.inputfiles){
+    console.log("Ignoring specfied files from -i or --inputfiles option, because files are already specified via --inputdir option ");
+}else{
+    if(!inputFolver_isGiven && !Program.inputfiles){
+        console.log("No input data specified at all, please specify with --inputfiles or --inputdir option, exit process");
+        process.exit();
+    }
+    if(!inputFolver_isGiven && Program.inputfiles ){
+        console.log('Specified input-files are: %j', Program.inputfiles);
+        fileslist = Program.inputfiles; 
+    }
+}
+
+
+//Inputdir paths
+//"test\fixtures\html\2005\0003.html.utf8.html"
+//"test\fixtures\html\2005\0004.html.utf8.html"
+//Inputfiles
+//"test\fixtures\html\2005\0005_2017.html.utf8.html"
+
+
+
+
+mkdirp.sync(Program.outputdir);
+parseHTMLfiles(fileslist);
+
+
+function parseHTMLfiles(htmlFiles){
         const parser = new(require('../lib/parser'))()
         const failed = []
-        mkdirp.sync(Program.outputdir)
         async.eachLimit(htmlFiles, 5, (htmlFile, done) => {
-            const outname = path.join(Program.outputdir, path.basename(htmlFile) + '.json')
-            try {
-                const json = parser.parseFile(htmlFile)
-                if (Program.print) {
-                    console.log(json)
-                } else {
-                    console.error(`${htmlFile} -> ${outname}`)
-                }
-                fs.writeFile(outname, JSON.stringify(json, null, 2), done)
-            } catch (e) {
-                console.log("*** ERROR ERROR ERROR ***")
-                failed.push([htmlFile, e])
-                done()
-            }
-        }, () => {
-            if (failed.length) {
-                console.log(failed)
-            }
-        })
-    })
 
+        var basenameHtml = path.basename(htmlFile);
+        var dirnameHTML = path.dirname(htmlFile);
+        var outputDir = Program.outputdir+"\\"+dirnameHTML;
+        mkdirs(outputDir);
+        const outname = path.join(outputDir, path.basename(htmlFile) + '.json')
+        try {
+            const json = parser.parseFile(htmlFile)
+            if (Program.print) {
+                console.log(json)
+            } else {
+                console.error(`${htmlFile} -> ${outname}`)
+            }
+            fs.writeFile(outname, JSON.stringify(json, null, 2), done)
+        } catch (e) {
+            console.log("*** ERROR ERROR ERROR ***")
+            failed.push([htmlFile, e])
+            done()
+        }
+    }, () => {
+        if (failed.length) {
+            console.log(failed)
+        }
+    })
+}
 if (process.argv.length <= 2) process.argv.push('--help')
 Program.parse(process.argv)
 
 // vim: ft=javascript
+
+
+/**
+ * Reads the folderstructure of a given directory and all the subfolders 
+ * @param {string} dir path to directory  
+ * @returns list of files to the directories 
+ */
+function walk(dir) {
+    var results = []
+    var list = fs.readdirSync(dir)
+    list.forEach(function(file) {
+        file = dir + '\\' + file
+        var stat = fs.statSync(file)
+        if (stat && stat.isDirectory()) results = results.concat(walk(file))
+        else results.push(file)
+    })
+    return results
+}
+
+
+/**
+ * Creates all subdirectories for a given path, if they don't exist 
+ * @param {string} path to which the subdirectories are set. 
+ */
+function mkdirs(path) {
+    path = path.replace(/\\/g,'/');
+    var dirs = path.split('/');
+    var prevDir = dirs.splice(0,1)+"/";
+    while(dirs.length > 0) {
+        var curDir = prevDir + dirs.splice(0,1);
+        if (! fs.existsSync(curDir) ) {
+            fs.mkdirSync(curDir);
+        }
+        prevDir = curDir + '/';
+    }
+}
