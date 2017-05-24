@@ -9,14 +9,15 @@
     "test:spec": "tap --reporter=spec test/*.test.js"
   },
   "bin": {
-      "akf-json2html": "./bin/akf-html2json",
-      "akf-json-validate": "./bin/akf-json-validate"
+    "akf-json2html": "./bin/akf-html2json",
+    "akf-json-validate": "./bin/akf-json-validate"
   },
   "author": "kba",
   "license": "MIT",
   "dependencies": {
     "ajv": "^4.10.4",
     "async": "^2.1.4",
+    "fast-levenshtein": "^2.0.6",
     "js-yaml": "^3.7.0",
     "mkdirp": "^0.5.1"
   },
