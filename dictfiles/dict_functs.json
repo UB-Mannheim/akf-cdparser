@@ -1,0 +1,6939 @@
+{
+    "type": "table",
+    "database": null,
+    "name": "FunctExported_distinct",
+    "withoutRowId": true,
+    "ddl": "CREATE TABLE FunctExported_distinct (Funct VARCHAR);",
+    "columns": [
+        {
+            "name": "Funct",
+            "type": "VARCHAR"
+        }
+    ],
+    "rows": [
+        [
+            "Vors."
+        ],
+        [
+            "stellv."
+        ],
+        [
+            "Vorstandssprecher"
+        ],
+        [
+            "stellv. Vors."
+        ],
+        [
+            "Ehrenvorsitzender"
+        ],
+        [
+            "Sekretär"
+        ],
+        [
+            "Berater des Vorstandes"
+        ],
+        [
+            "Direktion"
+        ],
+        [
+            "stellv. Direktoren"
+        ],
+        [
+            "Präsident; Arbeitnehmervertreter"
+        ],
+        [
+            "Vize-Präsident"
+        ],
+        [
+            "Arbeitnehmervertreter"
+        ],
+        [
+            "geschäftsf. Direktor"
+        ],
+        [
+            "Präsident"
+        ],
+        [
+            "Sprecher"
+        ],
+        [
+            "Stellv."
+        ],
+        [
+            "leitender Direktor\/ Konzern"
+        ],
+        [
+            "Direktoren"
+        ],
+        [
+            "Sekretär, Direktoren"
+        ],
+        [
+            "Ehrenvors."
+        ],
+        [
+            "Vors. und Generaldirektor"
+        ],
+        [
+            "Generaldirektor, Vors."
+        ],
+        [
+            "Generaldirektor"
+        ],
+        [
+            "Ehrenvors., Generaldirektor"
+        ],
+        [
+            "Präsident, Generaldirektor"
+        ],
+        [
+            "Präsident und Generaldirektor"
+        ],
+        [
+            "Vizepräsident"
+        ],
+        [
+            "Vizepräsident, ständiger Vertreter"
+        ],
+        [
+            "stellv. Vors. und geschäftf. Direktor"
+        ],
+        [
+            "geschäftf. Direktor"
+        ],
+        [
+            "Major-General"
+        ],
+        [
+            "Ehrenvorsitzer"
+        ],
+        [
+            "Assessor"
+        ],
+        [
+            "Geschäftsf. Mitglied"
+        ],
+        [
+            "geschäftsführendes Mitglied"
+        ],
+        [
+            "Sekretär des Verwaltungsrates"
+        ],
+        [
+            "Vors., Geschäftsf."
+        ],
+        [
+            "stellv. Vors., Geschäftsf."
+        ],
+        [
+            "1. stellv. Vors., Geschäftsf."
+        ],
+        [
+            "Geschäftsf."
+        ],
+        [
+            "Nichtgeschäftsf."
+        ],
+        [
+            "Ehrenpräsident"
+        ],
+        [
+            "stellv.Vors."
+        ],
+        [
+            "stellv. Vors. und Generaldirektor"
+        ],
+        [
+            "stellv. Sprecher"
+        ],
+        [
+            "Geschäftsinhaber und Persönlich haftender Gesellschafter"
+        ],
+        [
+            "Ass."
+        ],
+        [
+            "Präsident und geschäftsführendes Mitglied"
+        ],
+        [
+            "Ehrenvorsitzender des Aufsichtsrats"
+        ],
+        [
+            "Vors., Generaldirektor"
+        ],
+        [
+            "Geschäftsf. Vizepräsidenten"
+        ],
+        [
+            "1. leitende Direktoren"
+        ],
+        [
+            "Leitende Direktoren"
+        ],
+        [
+            "Vorstandsberater, Direktoren"
+        ],
+        [
+            "Persönlich haftende Gesellschafter"
+        ],
+        [
+            "Stellv. Vors."
+        ],
+        [
+            "Delegierter "
+        ],
+        [
+            "Mitglieder des V.-R.-Ausschusses"
+        ],
+        [
+            "Vors. (Chairman)"
+        ],
+        [
+            "Prasident"
+        ],
+        [
+            "Mitglied des Vorstandes"
+        ],
+        [
+            "Direktor (Sekretär)"
+        ],
+        [
+            "stellv. Direktor"
+        ],
+        [
+            "geschäftsf. Mitglied"
+        ],
+        [
+            "Präsident und Delegierter"
+        ],
+        [
+            "stellv. Generaldirektion"
+        ],
+        [
+            "stellv. Generaldirektor"
+        ],
+        [
+            "I. Vizepräsident"
+        ],
+        [
+            "II. Vizepräsident"
+        ],
+        [
+            "Leiter von Unternehmens- und Zentralbereichen"
+        ],
+        [
+            "Leiter von Geschäfts- und Hauptbereichen"
+        ],
+        [
+            "Vors. und geschäftsf. Verwaltungsratsmitglied"
+        ],
+        [
+            "Vors., Exekutivausschuß"
+        ],
+        [
+            "Exekutivausschuß"
+        ],
+        [
+            "Vors. des Verw.-R. und 1. Generaldirektor"
+        ],
+        [
+            "Senior-Vizepräsident und Leiter des Finanzressorts"
+        ],
+        [
+            "Group Executive-Vizepräsident"
+        ],
+        [
+            "Executive-Vizepräsidenten"
+        ],
+        [
+            "Vizepräsidenten"
+        ],
+        [
+            "Vizepräsident und Finanzdirektor"
+        ],
+        [
+            "Vizepräsident und Leiter des Rechnungswesens"
+        ],
+        [
+            "Vorstandssekretär, Vizepräsidenten"
+        ],
+        [
+            "Vors. des Verw.-R."
+        ],
+        [
+            "Persönlich haftender Gesellschafter"
+        ],
+        [
+            "Generaldirektor-Stellvertreter"
+        ],
+        [
+            "Delegierter"
+        ],
+        [
+            "stellv. Vors. und leitender Direktor"
+        ],
+        [
+            "leitender Direktor"
+        ],
+        [
+            "Vors. des A.-R. (Chairman, Board of Directors)"
+        ],
+        [
+            "Vors. (President)"
+        ],
+        [
+            "Stellv. gesehäftsführende Direktoren (Executive Vice Presidents)"
+        ],
+        [
+            "1. stellv. Vors. (Senior Vice Presidents)"
+        ],
+        [
+            "Stellv. Vors. (Vice Presidents)"
+        ],
+        [
+            "1. stellv. Vors., Haupt- finanzleiter und Leiter der Finanzabteilung (Senior Vice President, Chief Financial Officer and Treasurer)"
+        ],
+        [
+            "stellv. Vors. und Syndikus (Vice President and General Counsel)"
+        ],
+        [
+            "stellv. Vors. und Leiter des Rechnungswesens (Vice President and Controller)"
+        ],
+        [
+            "Sekretär (Secretary)"
+        ],
+        [
+            "Vors. und 1. Generaldirektor"
+        ],
+        [
+            "stellv. 1.Generaldirektor"
+        ],
+        [
+            "Stellv. Präsidenten"
+        ],
+        [
+            "Geschäftsführende Direktoren, Vors."
+        ],
+        [
+            "Geschäftsführende Direktoren"
+        ],
+        [
+            "Generaldirektor, Vors. des Verwaltungsrats und Präsident"
+        ],
+        [
+            "Vors., Präsidium"
+        ],
+        [
+            "stellv. Vors., Präsidium"
+        ],
+        [
+            "Präsidium"
+        ],
+        [
+            "1. stellv. Vors."
+        ],
+        [
+            "2. stellv. Vors."
+        ],
+        [
+            "Chefmathematiker"
+        ],
+        [
+            "stellv., Leiter von Geschäfts- und Hauptbereichen"
+        ],
+        [
+            "Berater des Vorstands"
+        ],
+        [
+            "Von der Belegschaft beauftragt"
+        ],
+        [
+            "leitender Direktor\/Konzern"
+        ],
+        [
+            "Generaldirektor, Vizepräsident, ständiger Vertreter"
+        ],
+        [
+            "Sekretär, Vizepräsident, ständiger Vertreter"
+        ],
+        [
+            "stellv. Vors. und geschäftsf. Direktor"
+        ],
+        [
+            "geschäftf. Direktor, Direktoren"
+        ],
+        [
+            "geschäftsf. und leitender Direktor"
+        ],
+        [
+            "geschäftjf. Direktor"
+        ],
+        [
+            "Vizepräsident und geschäftsf. Mitglied"
+        ],
+        [
+            "Vors., Geschäftsf. Direktorium"
+        ],
+        [
+            "stellv. Vors., Geschäftsf. Direktorium"
+        ],
+        [
+            "1. stellv. Vors., Geschäftsf. Direktorium"
+        ],
+        [
+            "Geschäftsf. Direktorium"
+        ],
+        [
+            "Nichtgeschäftsf. Direktorium"
+        ],
+        [
+            "Vors., Deleg. des Verwaltungsrats"
+        ],
+        [
+            "Generaldirektor, stellv. Vors."
+        ],
+        [
+            "Direktoren, Vorstandsberater"
+        ],
+        [
+            "Präsident,"
+        ],
+        [
+            "Präsident und Hauptabteilungsleiter"
+        ],
+        [
+            "Vizepräsident und Finanzdirektor, Vizepräsidenten"
+        ],
+        [
+            "Vizepräsident und Leiter des Rechnungswesens, Vizepräsidenten"
+        ],
+        [
+            "Vorstandssekretär, Verzepräsidenten"
+        ],
+        [
+            "Vors. des A,-R. (Chairman, Board of Directors)"
+        ],
+        [
+            "Stellv. geschäftsführende Direktoren (Executive Vice Presidents)"
+        ],
+        [
+            "Hauptfinanzleiter und Leiter der Finanzabteilung (Chief Financial Officerand Treasurer), Stellv. Vors. (Vice Presidents)"
+        ],
+        [
+            "stellv. Vors. und Syndikus (Vice President and General Counsel), Stellv. Vors. (Vice Presidents)"
+        ],
+        [
+            "stellv. Vors. und Leiter des Rechnungswesens (Vice President and Controller), Stellv. Vors. (Vice Presidents)"
+        ],
+        [
+            "stellv. Vors. und Sekretär (Vice President and Secretary), Stellv. Vors. (Vice Presidents)"
+        ],
+        [
+            "stellv. Vors. und 1. Generaldirektor"
+        ],
+        [
+            "Geschäftsführender Direktor"
+        ],
+        [
+            "Vors. des Verwaltungsrats und Präsident, Generaldirektor"
+        ],
+        [
+            "stellv"
+        ],
+        [
+            "Eschweiler stellv."
+        ],
+        [
+            "Vors"
+        ],
+        [
+            "Ehrenvorsitzender der Deutschen Bank AG"
+        ],
+        [
+            "stelv."
+        ],
+        [
+            "Generalbevollmächtigter"
+        ],
+        [
+            "Sekretär\/Gruppe, Direktoren"
+        ],
+        [
+            "vertreten durch, W. R. Grace & Co."
+        ],
+        [
+            "vertreten durch, Caisse Centrale des Mutuelles Agricoles"
+        ],
+        [
+            "vertreten durch, Caisse des Dépôts et Consignations"
+        ],
+        [
+            "vertreten durch, OPFI-Paribas"
+        ],
+        [
+            "vertreten durch, Omnium de l'Union Européenne"
+        ],
+        [
+            "vertreten durch, Union des Assurances de Paris-Vie"
+        ],
+        [
+            "vertreten durch, Crédit du Nord"
+        ],
+        [
+            "Generaldirektor, Ehrenpräsident"
+        ],
+        [
+            "Generaldirektor, Präsident"
+        ],
+        [
+            "Major-General, Direktoren"
+        ],
+        [
+            "Präsident; Direktor"
+        ],
+        [
+            "Geschäftsf. Direktorium, Vors."
+        ],
+        [
+            "Geschäftsf. Direktorium, stellv. Vors."
+        ],
+        [
+            "Geschäftsf. Direktorium, 1. stellv. Vors."
+        ],
+        [
+            "stellv. Vors., Generaldirektor"
+        ],
+        [
+            "Präsident, Mitglieder des V.-R.-Ausschusses"
+        ],
+        [
+            "Delegierter, Mitglieder des V.-R.-Ausschusses"
+        ],
+        [
+            "Vizepräsident, Mitglieder des V.-R.-Ausschusses"
+        ],
+        [
+            "Generalsekretär"
+        ],
+        [
+            "Ehrenpräsidenten"
+        ],
+        [
+            "Präsident, Generaldirektion"
+        ],
+        [
+            "Vizepräsident, Generaldirektion"
+        ],
+        [
+            "Generaldirektor, Generaldirektion"
+        ],
+        [
+            "stellv. Generaldirektor, Generaldirektion"
+        ],
+        [
+            "Generaldirektor, Vizepräsident"
+        ],
+        [
+            "stellv. Vors. des Verw.-R."
+        ],
+        [
+            "stellv. Vors. des Verw.-R. und Leiter des Finanzressorts"
+        ],
+        [
+            "Executive-Vizepräsident"
+        ],
+        [
+            "Senior-Vizepräsident, Rechtswesen"
+        ],
+        [
+            "Senior-Vizepräsident, Organisation"
+        ],
+        [
+            "Leiter des Rechnungswesens, Vizepräsidenten"
+        ],
+        [
+            "Finanzdirektor, Vizepräsidenten"
+        ],
+        [
+            "stellv. Vors., Generaldirektor-Stellvertreter"
+        ],
+        [
+            "Vors., Direktorium"
+        ],
+        [
+            "stellv. Vors., Direktorium"
+        ],
+        [
+            "Vors. des A.-R. und 1. Generaldirektor (Chairman, Board of Directors and Chief Executive Officer)"
+        ],
+        [
+            "Stellv. Vors. des A.-R. (Vice Chairmen)"
+        ],
+        [
+            "stellv. geschäftsf. Direktor, Hauptfinanzleiter und Leiter der Finanzabteilung (Executive Vice Präsident, Chief Financial Officer and Treasurer), Stellv. Vors. des A.-R. (Vice Chairmen)"
+        ],
+        [
+            "Syndikus (General Counsel)"
+        ],
+        [
+            "Vors., Geschäftsführende Direktoren"
+        ],
+        [
+            "Frankfurt"
+        ],
+        [
+            "Ehrenvorsitzender der Gesellschaft"
+        ],
+        [
+            "Wuppertal 2-Barmen"
+        ],
+        [
+            "Ehren-Vizepräsident"
+        ],
+        [
+            "1. Vizepräsident"
+        ],
+        [
+            "2. Vizepräsident"
+        ],
+        [
+            "geschäftsf Vors."
+        ],
+        [
+            "stellv. Vors"
+        ],
+        [
+            "Direktoren, Sekretär"
+        ],
+        [
+            "Ehrenpräsident, Generaldirektor"
+        ],
+        [
+            "1. stellv. Vors. (Senior Vice President)"
+        ],
+        [
+            "geschäftsf. Direktor (Executive Vice President)"
+        ],
+        [
+            "geschäftsf. Vors. und geschäftsf. Direktor"
+        ],
+        [
+            "stellv. Vors. des A.-R. (Vice Chairman)"
+        ],
+        [
+            "Geschäftsf, Vizepräsidenten"
+        ],
+        [
+            "Adjunktdirektor"
+        ],
+        [
+            "Präsident und Hauptfinanzleiter"
+        ],
+        [
+            "Senior-Vizepräsident und Leiter Rechtswesen"
+        ],
+        [
+            "Senior-Vizepräsident, Organisation und Personalwesen"
+        ],
+        [
+            "Finanzdirektor"
+        ],
+        [
+            "Vorstandssekretär"
+        ],
+        [
+            "Vors.,"
+        ],
+        [
+            "Vors. und Hauptabteilungsleiter (President and Chief Operating Officer)"
+        ],
+        [
+            "stellv. Vors. des A.-R., Hauptfinanzleiter und Leiter der Finanzabteilung (Vice Chairman, Chief Financial Officer and Treasurer)"
+        ],
+        [
+            "hauptgeschäftsf. Vors. (Senior Executive Vice President)"
+        ],
+        [
+            "Sekretär\/Secretary, Stellv. geschäftsf. Direktoren (Executive Vice Presidents)"
+        ],
+        [
+            "Stellv. geschäftsf. Direktoren (Executive Vice Presidents)"
+        ],
+        [
+            "Sprecher Finanzen"
+        ],
+        [
+            "Sprecher Verkehr"
+        ],
+        [
+            "geschäftsf. Vors."
+        ],
+        [
+            "Vors. und geschäftsf. Direktor der Gruppe"
+        ],
+        [
+            "geschäftsf. Direktor, Sekretär, Leiter der Finanzabteilung (Executive Vice President, Secretary, Treasurer)"
+        ],
+        [
+            "Geschäftsführer, Geschäftsf. Direktorium"
+        ],
+        [
+            "Stellvertreter, Geschäftsf. Direktorium"
+        ],
+        [
+            "Vors. und Direktor"
+        ],
+        [
+            "Deleg. des Verwaltungsrats"
+        ],
+        [
+            "Generaldirektor, geschäftsführendes Mitglied"
+        ],
+        [
+            "Chairman"
+        ],
+        [
+            "Generaldirektion, Präsident"
+        ],
+        [
+            "Generaldirektion, Vizepräsident"
+        ],
+        [
+            "Generaldirektor,Generaldirektion"
+        ],
+        [
+            "hauptgeschäftsf. Vors. und Hauptfinanzleiter (Senior Executive Vice President und Chief Financial Officer)"
+        ],
+        [
+            "Leiter des Rechnungswesens\/Controller, Stellv. Vors. (Vice Presidents)"
+        ],
+        [
+            "Leiter der Finanzabteilung\/Treasurer, Stellv. Vors. (Vice Presidents)"
+        ],
+        [
+            "Sekretär (Sekretary)"
+        ],
+        [
+            "stellv. Präsident"
+        ],
+        [
+            "Senator E.h."
+        ],
+        [
+            "Ehren-Präsident"
+        ],
+        [
+            "Vors. des A.-R. und 1. Generaldirektor"
+        ],
+        [
+            "Vors., Präsident und 1. Generaldirektor"
+        ],
+        [
+            "Generaldirektoren"
+        ],
+        [
+            "Leiter von Konzernbereichen"
+        ],
+        [
+            "Vizepräsident und Syndikus"
+        ],
+        [
+            "Leiter der Finanzabteilung, Vizepräsidenten"
+        ],
+        [
+            "Sekretär, Vizepräsidenten"
+        ],
+        [
+            "Direktoren, stellv."
+        ],
+        [
+            "Generaldirektion, Generaldirektor"
+        ],
+        [
+            "Vors. u. Generaldirektor"
+        ],
+        [
+            "geschäftsf. stellv. Vors. u.Leiter der Finanzabteilung"
+        ],
+        [
+            "stellv. Vors. Gruppe"
+        ],
+        [
+            "Vors. und Hauptabteilungsleiter"
+        ],
+        [
+            "stellv. geschäftsf. Direktor und Hauptfinanzleiter"
+        ],
+        [
+            "stellv. Vors.\/Gruppe"
+        ],
+        [
+            "Rechnungsprüfer, Stellv. Vors."
+        ],
+        [
+            "Leiter des Finanzwesens, Stellv. Vors."
+        ],
+        [
+            "Leiter des Rechnungswesens, Stellv. Vors."
+        ],
+        [
+            "Generaldirektor-Stellvertreter, stellv. Vors."
+        ],
+        [
+            "1. stellv. Vors. (Senior Vice Presidents), Sekretär\/Secretary"
+        ],
+        [
+            "1. stellv. Vors. (Senior Vice Presidents), Syndikus\/General Counsel"
+        ],
+        [
+            "Stellv. Vors. (Vice Presidents), Leiter des Rechnungswesens\/Controller"
+        ],
+        [
+            "Stellv. Vors. (Vice Presidents), Leiter der Finanzabteilung\/Treasurer"
+        ],
+        [
+            "stellv. 1. Generaldirektor"
+        ],
+        [
+            "1. Leitende Direktoren"
+        ],
+        [
+            "stellv. Vors., Vors. des Verwaltungsrats und Präsident"
+        ],
+        [
+            "Vors. des Verwaltungsrats und Präsident"
+        ],
+        [
+            "Kaufbeuren"
+        ],
+        [
+            "Arbeitsdirektor"
+        ],
+        [
+            "Geschäftsführende Vizepräsidenten"
+        ],
+        [
+            "1. Stellv. Vors."
+        ],
+        [
+            "Konzern-Vice-Presidenten"
+        ],
+        [
+            "Vice-Präsidenten, Vice-Präsident und Leiter des Rechnungswesens"
+        ],
+        [
+            "Vice-Präsidenten"
+        ],
+        [
+            "Vice-Präsidenten, Vice-Präsident und Leiter der Finanzabteilung"
+        ],
+        [
+            "Vice-Präsidenten, Sekretär"
+        ],
+        [
+            "Präsident und Finanzdirektor"
+        ],
+        [
+            "Managing Director"
+        ],
+        [
+            "Vizepräsident und Sekretär"
+        ],
+        [
+            "Präsident und 1. Generaldirketor"
+        ],
+        [
+            "1.Vizepräsident"
+        ],
+        [
+            "geschäftsführender Generaldirektor"
+        ],
+        [
+            "Stellv. Vizepräsidenten"
+        ],
+        [
+            "Nicht geschäftsführende Direktoren"
+        ],
+        [
+            "Vors. und geschäftsführender Direktor der Gruppe"
+        ],
+        [
+            "geschäftsführende Direktoren"
+        ],
+        [
+            "nicht geschäftsführende Direktoren"
+        ],
+        [
+            "Vors. des A.-R"
+        ],
+        [
+            "Präsident und 1. Generaldirektor"
+        ],
+        [
+            "Vize-Präsident (Produktion)"
+        ],
+        [
+            "Direktor"
+        ],
+        [
+            "Stellv. Generaldirektoren"
+        ],
+        [
+            "Stellv. Generaldirektoren, Sekretär"
+        ],
+        [
+            "Deputy Chairman"
+        ],
+        [
+            "Directors"
+        ],
+        [
+            "Chief Executives, Group Chief Executive"
+        ],
+        [
+            "Chief Executives, Deputy Group Chief Executive"
+        ],
+        [
+            "Divisional General Managers"
+        ],
+        [
+            "Divisional General Managers, Sekretary"
+        ],
+        [
+            "Vize- präsident"
+        ],
+        [
+            "President"
+        ],
+        [
+            "Executive Vice Presidents"
+        ],
+        [
+            "Senior Managing Directors"
+        ],
+        [
+            "Managing Directors"
+        ],
+        [
+            "Vice Chairman"
+        ],
+        [
+            "Direcotrs"
+        ],
+        [
+            "Generaldirektor, Vizepräsident und stellv. geschäftsf. Direktor"
+        ],
+        [
+            "1. stellv. Vors. und Syndikus"
+        ],
+        [
+            "geschäftsf. stellv. Vors. u. Hauptfinanzleiter"
+        ],
+        [
+            "stellv. geschäftsf. Direktor"
+        ],
+        [
+            "Stellv. Vors.\/Gruppe"
+        ],
+        [
+            "stellv. Vors. und Leiter des Rechnungswesens"
+        ],
+        [
+            "stellv. Vors. und Leiter der Finanzabteilung"
+        ],
+        [
+            "stellv. Vors. und Sekretär"
+        ],
+        [
+            "Stellv. Leiter des Rechnungswesens"
+        ],
+        [
+            "Stellv. Leiter der Finanzabteilung"
+        ],
+        [
+            "Stellv. Sekretäre"
+        ],
+        [
+            "haupgeschäftsf. Vors. und Hauptfinanzleiter (Senior Executive Vice President und Chief Financial Officer)"
+        ],
+        [
+            "Syndikus\/Genral Counsel, 1. stellv. Vors. (Senior Vice Presidents)"
+        ],
+        [
+            "Sekretär (Secretary), Stellv. Vors. (Vice Presidents)"
+        ],
+        [
+            "Chairman of the Board"
+        ],
+        [
+            "Senior Executive Vice President"
+        ],
+        [
+            "President and Chief Executive Officer"
+        ],
+        [
+            "Senior Vice President"
+        ],
+        [
+            "Regional Executive Vive Presidents"
+        ],
+        [
+            "Vice Presidents"
+        ],
+        [
+            "Vice Presidents, Chief Legal Officer and Secretary"
+        ],
+        [
+            "Vice Presidents, Chief Financial Officer"
+        ],
+        [
+            "Vice Presidents,Treasurer"
+        ],
+        [
+            "Chairman of the Managing Board"
+        ],
+        [
+            "Deputy President"
+        ],
+        [
+            "Senior Vice Presidents"
+        ],
+        [
+            "Chairman of the Board and Chief Executive Officer"
+        ],
+        [
+            "Vice Chairman of the Board"
+        ],
+        [
+            "Executive Vice President"
+        ],
+        [
+            "Group Vice Presidents"
+        ],
+        [
+            "Vice Presidents, Secretary"
+        ],
+        [
+            "Vice Presidents, Controller"
+        ],
+        [
+            "Chairman of the Board and President"
+        ],
+        [
+            "Senior Executive Vice Presidents"
+        ],
+        [
+            "Executive Vice Presidents, General Counsel"
+        ],
+        [
+            "Vice Presidents, Associated General Counsel"
+        ],
+        [
+            "Vice Presidents, Senior Vice President and Secretary"
+        ],
+        [
+            "Vice Presidents, Treasurer"
+        ],
+        [
+            "Vice Presidents, Senior Vice President and Controller"
+        ],
+        [
+            "Chairman of Board and President"
+        ],
+        [
+            "President and Chief Operating Officer"
+        ],
+        [
+            "Senior Vice Presidents, General Counsel"
+        ],
+        [
+            "Senior Vice Presidents, Chief Financial Officer"
+        ],
+        [
+            "Chairman of the Board, President and Chief Executive Officer"
+        ],
+        [
+            "General Counsel, Vice Presidents"
+        ],
+        [
+            "Treasurer"
+        ],
+        [
+            "Controller"
+        ],
+        [
+            "Secretary"
+        ],
+        [
+            "Vice Chairman of the Baord"
+        ],
+        [
+            "Chairman and Chief Executive Officer"
+        ],
+        [
+            "Chairman of the Executive Committee"
+        ],
+        [
+            "Chief Executive Officers"
+        ],
+        [
+            "Executive Vice Presidents, Treasurer"
+        ],
+        [
+            "Beraterdes Vorstandes"
+        ],
+        [
+            "alternate Directors"
+        ],
+        [
+            "Vice President and Secretary"
+        ],
+        [
+            "President and Treasurer"
+        ],
+        [
+            "President and Representative Director"
+        ],
+        [
+            "Executive Vice Presidents and Representative Directors"
+        ],
+        [
+            "Executive Chairman"
+        ],
+        [
+            "Chief Executive"
+        ],
+        [
+            "Secretary General"
+        ],
+        [
+            "General Managers"
+        ],
+        [
+            "General Controller"
+        ],
+        [
+            "Joint General Managers"
+        ],
+        [
+            "Honorary Chairman"
+        ],
+        [
+            "Secretary of the Board"
+        ],
+        [
+            "First Deputy Chairman and Managing Directors"
+        ],
+        [
+            "Second Deputy Chairman and Managing Director"
+        ],
+        [
+            "Honorary Chairman and Director"
+        ],
+        [
+            "Vice-Chairman and Managing Director"
+        ],
+        [
+            "Secretary to the Board"
+        ],
+        [
+            "Chief Operations Officer"
+        ],
+        [
+            "Executive Directors"
+        ],
+        [
+            "Nonexecutive Directors"
+        ],
+        [
+            "Non Executive Directors"
+        ],
+        [
+            "Secretary, Non Executive Directors"
+        ],
+        [
+            "Chairman and Managing Director"
+        ],
+        [
+            "Finance Director"
+        ],
+        [
+            "Deputy Chairman, Nonexecutives"
+        ],
+        [
+            "Nonexecutives"
+        ],
+        [
+            "President Directeur Général"
+        ],
+        [
+            "Directeur Général"
+        ],
+        [
+            "Senior Executive and Representative Directors"
+        ],
+        [
+            "Chairman, Board of Directors and Chief Executive Officer"
+        ],
+        [
+            "Vicepräsident"
+        ],
+        [
+            "geschäftsführender Direktor"
+        ],
+        [
+            "von der Regierung entsandt"
+        ],
+        [
+            "Chairman and Group Chief Executive"
+        ],
+        [
+            "Executive Vice President and Chief Financial Officer"
+        ],
+        [
+            "Chairman, President and Chief Executive Officer"
+        ],
+        [
+            "Senior Managing Director"
+        ],
+        [
+            "Senior Advisory Directors"
+        ],
+        [
+            "Senior Vicepresident"
+        ],
+        [
+            "Vizepresident"
+        ],
+        [
+            "Finance Manager"
+        ],
+        [
+            "Group Accountant"
+        ],
+        [
+            "Vice Presidents, General Counsel"
+        ],
+        [
+            "Vice Presidents, Comptroller"
+        ],
+        [
+            "Executive Vice Presidents, Senior Vice President"
+        ],
+        [
+            "Vice Presidents, Finance"
+        ],
+        [
+            "Assistant Treasuerers"
+        ],
+        [
+            "Assistant Secretaries"
+        ],
+        [
+            "Assistant Secretaries, Auditor"
+        ],
+        [
+            "Chairman of the Board of Directors"
+        ],
+        [
+            "Vice Chairman and Chief Administrative Officer"
+        ],
+        [
+            "Group Presidents"
+        ],
+        [
+            "Chief Executive Officer and President"
+        ],
+        [
+            "Chairman of the Bord and Chief Executive Officer"
+        ],
+        [
+            "Vice Presidents, Erdölprodukte"
+        ],
+        [
+            "Vice Presidents, Sekretär"
+        ],
+        [
+            "Vice Presidents, Produktion"
+        ],
+        [
+            "Vice Presidents, Planung"
+        ],
+        [
+            "Vice Presidents, Rechtsberater"
+        ],
+        [
+            "Vice Presidents, Mitarbeiterangelegenheiten"
+        ],
+        [
+            "Vice Presidents, Medizin und Umwelt"
+        ],
+        [
+            "Vice Presidents, Rechnungswesen"
+        ],
+        [
+            "Vice Presidents, Kommunikations- und Computerwissenschaften"
+        ],
+        [
+            "Vice Presidents, Erdgas"
+        ],
+        [
+            "Vice Presidents, Finanzabteilung"
+        ],
+        [
+            "Vice Presidents, Steuerberater"
+        ],
+        [
+            "Vice Presidents, Öffentlichkeitsarbeit"
+        ],
+        [
+            "Chairman and Chief Executive"
+        ],
+        [
+            "Nonexecutive Directors, Secretary"
+        ],
+        [
+            "Vice President and Controller"
+        ],
+        [
+            "General Counsel"
+        ],
+        [
+            "Vice President and Treasurer"
+        ],
+        [
+            "Chairman and Representative Director"
+        ],
+        [
+            "Executive Vice Presidents and Directors"
+        ],
+        [
+            "Mining Directors"
+        ],
+        [
+            "Chief Executives"
+        ],
+        [
+            "Alternate Directors"
+        ],
+        [
+            "Vice Presidents and Group Executives"
+        ],
+        [
+            "Comptroller"
+        ],
+        [
+            "stellv. Vors. und Deleg. des Verwaltungsrats"
+        ],
+        [
+            "President and Operating Officer"
+        ],
+        [
+            "Vice President, General Counsel and Secretary"
+        ],
+        [
+            "Vice President and Comptroller"
+        ],
+        [
+            "Assistant Treasurers"
+        ],
+        [
+            "Assistant Comptrollers"
+        ],
+        [
+            "Vice Chairman and Group Executive"
+        ],
+        [
+            "Chairman of the Executive Comitee"
+        ],
+        [
+            "Vice Presidents, General Counsel and Secretary"
+        ],
+        [
+            "Executive Vice Presidents, Vice Chairman"
+        ],
+        [
+            "Chairman of the Executive Comittee"
+        ],
+        [
+            "Non-Executive Directors"
+        ],
+        [
+            "Non-Executive Directors, Secretary"
+        ],
+        [
+            "Alternate Directors, Secretary"
+        ],
+        [
+            "Executive Vice-Presidents and Direktors"
+        ],
+        [
+            "Senior Executive Managing Directors"
+        ],
+        [
+            "Executive Managing Directors"
+        ],
+        [
+            "Chairman of the Board, President and and Chief Executive Officer"
+        ],
+        [
+            "Vice Presidents, Assistant Controller"
+        ],
+        [
+            "Vice Presidents, Assistant Secretary and Assistant Treasurer"
+        ],
+        [
+            "Vice Presidents, Senior Consultant for Chairman of the Board and Chief Executive Officer"
+        ],
+        [
+            "Vice Presidents, Assistant Sekretary"
+        ],
+        [
+            "Vice Presidents, Assistant Treasurer"
+        ],
+        [
+            "Senior Executives"
+        ],
+        [
+            "General Managers, Secretary"
+        ],
+        [
+            "General Managers, Treasurer"
+        ],
+        [
+            "General Managers, Solicitor"
+        ],
+        [
+            "Chairman, President and Chief Executive"
+        ],
+        [
+            "Advisory Director"
+        ],
+        [
+            "Advisor and Director"
+        ],
+        [
+            "Executive Vice President and Representative Director"
+        ],
+        [
+            "Director and Executive Advisor"
+        ],
+        [
+            "Président Directeur Général"
+        ],
+        [
+            "Vice Président Directeur Général"
+        ],
+        [
+            "Directeurs Généraux Adjoints"
+        ],
+        [
+            "Corporate Management Adviser"
+        ],
+        [
+            "Distinguished Visiting Professor and Executive- in-Residence"
+        ],
+        [
+            "Director"
+        ],
+        [
+            "Directors and Executive Advisor"
+        ],
+        [
+            "Vice Chairman of The Board and Chief Administrative Officer"
+        ],
+        [
+            "Chairman of the Board and Chie Executive Officer"
+        ],
+        [
+            "Retired Chairman of the Board"
+        ],
+        [
+            "Vice President"
+        ],
+        [
+            "Director and Retired Chairman"
+        ],
+        [
+            "Chairman and Director"
+        ],
+        [
+            "President and Director"
+        ],
+        [
+            "Executive Vice President and Director"
+        ],
+        [
+            "Director and Counsellor"
+        ],
+        [
+            "Counsellors"
+        ],
+        [
+            "Executive Senior Managing Directors"
+        ],
+        [
+            "Vice President and GeneralCounsel"
+        ],
+        [
+            "Chief Scientist and Vice President"
+        ],
+        [
+            "Former Chairman and Chief Executive Officer"
+        ],
+        [
+            "Former Governor of Pennsylvania"
+        ],
+        [
+            "Former President"
+        ],
+        [
+            "Senior Executive Director and Representative Director"
+        ],
+        [
+            "Senior Executive Directors"
+        ],
+        [
+            "Associate Senior Vice Presidents"
+        ],
+        [
+            "Executive Vice-Presidents"
+        ],
+        [
+            "Senior Manging Directors"
+        ],
+        [
+            "Directors and Members of the Board"
+        ],
+        [
+            "Directors, Arbeitnehmervertreter"
+        ],
+        [
+            "Direktor und Sekretär"
+        ],
+        [
+            "Vice-Chairman"
+        ],
+        [
+            "Vice President and Director"
+        ],
+        [
+            "Président du Conseil"
+        ],
+        [
+            "Administrateur"
+        ],
+        [
+            "Directeur Administratif et Financier"
+        ],
+        [
+            "Secretary, Directors"
+        ],
+        [
+            "President and Chief Executive"
+        ],
+        [
+            "Director and Advisor"
+        ],
+        [
+            "Chief Executive and deputy chairman"
+        ],
+        [
+            "Vice President and President"
+        ],
+        [
+            "Senior Vice President and Chief Financial Officer"
+        ],
+        [
+            "Senior Vice President, General Counsel and Secretary"
+        ],
+        [
+            "Senior Vice President Gouvernment Relations"
+        ],
+        [
+            "Senior Vice President Operations"
+        ],
+        [
+            "Vice President and Executive Vice President"
+        ],
+        [
+            "Senior Vice President and Assistant to the Chairman and Chief Executive Officer"
+        ],
+        [
+            "General Tax Counsel"
+        ],
+        [
+            "General Auditor"
+        ],
+        [
+            "Chairmain and Chief Executive Officer"
+        ],
+        [
+            "Chairman of the Board and Representative Director"
+        ],
+        [
+            "Director and Counselor"
+        ],
+        [
+            "Auditors"
+        ],
+        [
+            "Chairman and President"
+        ],
+        [
+            "Deputy Presidents"
+        ],
+        [
+            "Chairmann of the Board and Chief Executive Officer"
+        ],
+        [
+            "Vice Chairman of the Board, Chief Financial Officer"
+        ],
+        [
+            "Vice Presidents, Corporate Treasurer"
+        ],
+        [
+            "Vice Presidents, Corporate General Counsel"
+        ],
+        [
+            "Vice Presidents, Corporate Comptroller"
+        ],
+        [
+            "Senior Managing Directors, Representative Director"
+        ],
+        [
+            "Managing Directors, Chairman"
+        ],
+        [
+            "Sekretär, Directors"
+        ],
+        [
+            "Honorary Chairman and Director of the Company"
+        ],
+        [
+            "Chairman and Representative Director (Chief Executive Officer)"
+        ],
+        [
+            "Vice Chairman and Representative Director"
+        ],
+        [
+            "President and Representative Director (Chief Operating Officer)"
+        ],
+        [
+            "Deputy President and Representative Director"
+        ],
+        [
+            "Senior Vice President and General Counsel"
+        ],
+        [
+            "Vice President, Controller"
+        ],
+        [
+            "Honorary Chairman of the Baord"
+        ],
+        [
+            "Executive Vice Presidents, Executive Managing Director"
+        ],
+        [
+            "Vice Presidents, General Auditor"
+        ],
+        [
+            "Directors, Full-Time statutory Auditor"
+        ],
+        [
+            "Directors, Auditor"
+        ],
+        [
+            "Senior Vice President and Group Executive"
+        ],
+        [
+            "Vice President and Deputy General Counsel"
+        ],
+        [
+            "Chairman & Chief Executive"
+        ],
+        [
+            "Senior Managing Director and Representative Director"
+        ],
+        [
+            "vertreten durch"
+        ],
+        [
+            "Director and Counseller"
+        ],
+        [
+            "Vice President and General Counsel"
+        ],
+        [
+            "Senior Vice Presidents, Treasurer"
+        ],
+        [
+            "Senior Vice Presidents, Controller"
+        ],
+        [
+            "Vice Presidents, Syndikus"
+        ],
+        [
+            "Präsidium, Vors."
+        ],
+        [
+            "Präsidium, stellv. Vors."
+        ],
+        [
+            "Chief Executive Officer, Chairman"
+        ],
+        [
+            "President, Vice Chairman"
+        ],
+        [
+            "Office of the President"
+        ],
+        [
+            "Office of the President and Chief Financial Officer"
+        ],
+        [
+            "Executive President and General Counsel"
+        ],
+        [
+            "Senior Vice President and Treasurer"
+        ],
+        [
+            "Vice Presidents; Controller"
+        ],
+        [
+            "President Chief Executive and Chief Operating"
+        ],
+        [
+            "Secretary, Vice Presidents"
+        ],
+        [
+            "Treasurer, Vice Presidents"
+        ],
+        [
+            "President Chief Executive and Chief Operating Officer"
+        ],
+        [
+            "Senior Vice President, Chief Counsel and Secretary"
+        ],
+        [
+            "Senior Vice President and Chief Loan Examiner"
+        ],
+        [
+            "Senior Vice President and Director of Taxes"
+        ],
+        [
+            "Senior Vice President and General Auditor"
+        ],
+        [
+            "Senior Vice President and Controller"
+        ],
+        [
+            "Senior Vice President and Director of Investor Relations"
+        ],
+        [
+            "Assistant Controller"
+        ],
+        [
+            "Assistant Treasurer"
+        ],
+        [
+            "Delegierter des Verwaltungsrats"
+        ],
+        [
+            "President and Chief Executive Vice Officer"
+        ],
+        [
+            "Executive Vive Presidents"
+        ],
+        [
+            "Senior Vice President and Chief Legal Officer"
+        ],
+        [
+            "Vice Presidents; Chief Financial Officer"
+        ],
+        [
+            "Vice Presidents; Treasurer"
+        ],
+        [
+            "Vice Presidents; Secretary"
+        ],
+        [
+            "Secretary and Assistant General Counsel"
+        ],
+        [
+            "Senior Vice Presidents, Secretary"
+        ],
+        [
+            "Vice Presidents, Assistant Secretary"
+        ],
+        [
+            "Controller, Vice Presidents"
+        ],
+        [
+            "Executive Vice Presidents, Chief Financial Officer"
+        ],
+        [
+            "Vors. der Generaldirektion"
+        ],
+        [
+            "Direktor (Verkauf)"
+        ],
+        [
+            "Direktor (Finanzen)"
+        ],
+        [
+            "Direktor (Produktion)"
+        ],
+        [
+            "Direktor (Planung)"
+        ],
+        [
+            "Deputy Chairmen"
+        ],
+        [
+            "Director-General Manager"
+        ],
+        [
+            "General Management"
+        ],
+        [
+            "Honorary Deputy Chairman"
+        ],
+        [
+            "Deputy Chairman and Managing Director"
+        ],
+        [
+            "Chief Executive Officer"
+        ],
+        [
+            "Deputy Secretary"
+        ],
+        [
+            "Deputy General Mamagers"
+        ],
+        [
+            "General Manager"
+        ],
+        [
+            "Deputy General Managers"
+        ],
+        [
+            "Assistant General Managers"
+        ],
+        [
+            "Deputy Chairman and Chief Executive"
+        ],
+        [
+            "Senior Finance Director"
+        ],
+        [
+            "Senior Managing and Representative Directors"
+        ],
+        [
+            "Executive Director"
+        ],
+        [
+            "Chairman, President and Chief Operating Officer"
+        ],
+        [
+            "Executive Managing Director"
+        ],
+        [
+            "Senior Advisory Director"
+        ],
+        [
+            "Deputy Managing Director"
+        ],
+        [
+            "Secretary, General Managers"
+        ],
+        [
+            "Treasurer, General Managers"
+        ],
+        [
+            "Solicitor, General Managers"
+        ],
+        [
+            "Senior Vice President and General Secretary"
+        ],
+        [
+            "Distinguished Visiting Professor and Executivein-Residence"
+        ],
+        [
+            "Senior Vice President and Secretary"
+        ],
+        [
+            "Chairman of the Board, Chief Executive Officer"
+        ],
+        [
+            "Chairman of the Board of the Minneapolis law firm of Kaplan"
+        ],
+        [
+            "Former Chairman of the Board"
+        ],
+        [
+            "Director, Chairman of the Board and Chief Executive Officer"
+        ],
+        [
+            "Consultant to the Board"
+        ],
+        [
+            "Director of various companies and partner"
+        ],
+        [
+            "Vice President, Legal Affairs, and General Counsel"
+        ],
+        [
+            "Peterson"
+        ],
+        [
+            "Vice Presidents and Group Vice Presidents"
+        ],
+        [
+            "Assistant Secretary"
+        ],
+        [
+            "Senior Partner"
+        ],
+        [
+            "Senior Vice President, Secretary and General Counsel"
+        ],
+        [
+            "Chairman of Bankers Trust Company"
+        ],
+        [
+            "Chairman of Foreign Policy Institute"
+        ],
+        [
+            "Former Chairman and Chief Executive Officer of American Express Company"
+        ],
+        [
+            "3rd, Chairman Emeritus"
+        ],
+        [
+            "Chairman and Chief Executive Officer of Donaldson Enterprises Incorporated"
+        ],
+        [
+            "Chairman and Chief Executive Officer of The Pittston Company"
+        ],
+        [
+            "President and Chief Executive Officer of Monet Jewelers, Inc."
+        ],
+        [
+            "Vice President and President and Chief Executive Officer"
+        ],
+        [
+            "President and Chief Operating Officer of Best Products Co., Inc."
+        ],
+        [
+            "Vice Chairman of Liquid Air Corporation"
+        ],
+        [
+            "Associate of Rockefeller Family & Associates"
+        ],
+        [
+            "Counsel, Hunton & Williams"
+        ],
+        [
+            "President and Chief Operating Officer and Chairman Miller Brewing Company"
+        ],
+        [
+            "Vice President and President and Chief Executive Officer, Philip Morris International"
+        ],
+        [
+            "Chairman and Chief Executive Officer of Citicorp and Citibank, N.A."
+        ],
+        [
+            "Vice President and Chief Financial Officer"
+        ],
+        [
+            "Former President of Mobil Corporation"
+        ],
+        [
+            "Chairman of the Whitney M. Young, Jr. Memorial Foundation"
+        ],
+        [
+            "Director Emeritus"
+        ],
+        [
+            "Vice President, Secretary, and Associate General Counsel"
+        ],
+        [
+            "Associate General Counsel"
+        ],
+        [
+            "Group Chief Executive"
+        ],
+        [
+            "Deputy Group Chief Executive\/U.K. Business"
+        ],
+        [
+            "Deputy Group Chief Executive\/International Banking"
+        ],
+        [
+            "Sekretary"
+        ],
+        [
+            "Mitglieder des Executivkomitees"
+        ],
+        [
+            "Direktorund Sekretär"
+        ],
+        [
+            "Chairman of the Board and Chief Executive"
+        ],
+        [
+            "Managing Directors, Executive Adviser"
+        ],
+        [
+            "Secretary and General Counsel"
+        ],
+        [
+            "President and Chief Financial Officer"
+        ],
+        [
+            "Representative Director, Senior Managing Directors"
+        ],
+        [
+            "Chairman, Managing Directors"
+        ],
+        [
+            "Chairman, Chief Executive Officer and Representative Director"
+        ],
+        [
+            "President, Chief Operating Officer and Representative Director"
+        ],
+        [
+            "Corporate Secretary"
+        ],
+        [
+            "Full-Time statutory Auditor"
+        ],
+        [
+            "Auditor"
+        ],
+        [
+            "Chairman of the Board and Executive Officer"
+        ],
+        [
+            "Rechtsanwalt"
+        ],
+        [
+            "Generalbevollmächtigte"
+        ],
+        [
+            "Executive Vive Presidents; Senior Vice President and Chief Legal Officer"
+        ],
+        [
+            "Senior Vice Presidents, General Counsul and Secretary"
+        ],
+        [
+            "General Counsel, Senior Vice Presidents"
+        ],
+        [
+            "Honorary Chairman of the Board"
+        ],
+        [
+            "Vice Presidents, Tax Controller"
+        ],
+        [
+            "Senior Executives, Chairman’s Office"
+        ],
+        [
+            "Chief Executive’s Office"
+        ],
+        [
+            "Joint General Managers; Finanz-Direktor"
+        ],
+        [
+            "Regional Manager-Madrid"
+        ],
+        [
+            "First Deputy Chairman and Managing Director"
+        ],
+        [
+            "Präs."
+        ],
+        [
+            "Vizepräs."
+        ],
+        [
+            "Directors; Secretar"
+        ],
+        [
+            "Non-Executives, Deputy Chairman"
+        ],
+        [
+            "Non-Executive Chairman"
+        ],
+        [
+            "Non-Executives"
+        ],
+        [
+            "Senior Managing Director, Senior Managing and Representative Directors"
+        ],
+        [
+            "Vicepresident"
+        ],
+        [
+            "Chairman of the Board, President"
+        ],
+        [
+            "Vors. und Chief Executive"
+        ],
+        [
+            "Executives"
+        ],
+        [
+            "Alternate Director"
+        ],
+        [
+            "Deputy Chairman, Non-Executive"
+        ],
+        [
+            "Group Managing Director"
+        ],
+        [
+            "Non-Executive"
+        ],
+        [
+            "Non-Executive Director and Secretary"
+        ],
+        [
+            "Non-Executive Director"
+        ],
+        [
+            "Executive Vice-Presidents and Directors"
+        ],
+        [
+            "Board Directors"
+        ],
+        [
+            "Ehemaliger Chairman of the Board"
+        ],
+        [
+            "Ehemaliger Senior Vice President"
+        ],
+        [
+            "Predident"
+        ],
+        [
+            "Chairman of the Board und Chief Executive Officer"
+        ],
+        [
+            "Chairman des Executive Committee"
+        ],
+        [
+            "Chief Financial Officer, Senior Vice Presidents"
+        ],
+        [
+            "General Counsel and Secretary, Senior Vice Presidents"
+        ],
+        [
+            "Président d’Honneur"
+        ],
+        [
+            "Vice Président"
+        ],
+        [
+            "Directors and Executive Advisors"
+        ],
+        [
+            "Standing Statutory Auditors"
+        ],
+        [
+            "Executive Vice President, Electronic and Information Technologies Sector"
+        ],
+        [
+            "Vice Presidents and Group Vice Presidents; General Counsel"
+        ],
+        [
+            "Vice Presidents and Group Vice Presidents; Treasurer"
+        ],
+        [
+            "Chairman, President, and Chief Executive Officer"
+        ],
+        [
+            "Vice Chairman and Chief Financial Officer"
+        ],
+        [
+            "Managing Directors, Secretary"
+        ],
+        [
+            "Vice President, Director of Corporate Affairs"
+        ],
+        [
+            "Deputy Group Chief Executive"
+        ],
+        [
+            "Sekretär des Verwaltungsrats"
+        ],
+        [
+            "Vice-Chairman of the Board"
+        ],
+        [
+            "Managing Direcotrs"
+        ],
+        [
+            "Chairman, Aktionärsvertreter"
+        ],
+        [
+            "Aktionärsvertreter"
+        ],
+        [
+            "Vice Chairman and Director"
+        ],
+        [
+            "Director and Executive Adviser"
+        ],
+        [
+            "Vizepräsident und Delegierter"
+        ],
+        [
+            "Director and Adviser"
+        ],
+        [
+            "Gouverneur"
+        ],
+        [
+            "Vize-Gouverneur"
+        ],
+        [
+            "Ehrengouverneur"
+        ],
+        [
+            "Vizepräsident, Generaldirektor"
+        ],
+        [
+            "Chairman of the Board & Chief Executive Officer"
+        ],
+        [
+            "Deputy Chairman of the Board"
+        ],
+        [
+            "Président"
+        ],
+        [
+            "Managing Director and Chief Executive"
+        ],
+        [
+            "Statutory Auditors"
+        ],
+        [
+            "Vice Presidents; Director"
+        ],
+        [
+            "Corporate Controller"
+        ],
+        [
+            "Assistant Corporate Controller"
+        ],
+        [
+            "Assistant General Counsel and Assistant Secretary"
+        ],
+        [
+            "Vice Chairman of the Board, Chief Financial and Administrative Officer"
+        ],
+        [
+            "Stellv"
+        ],
+        [
+            "Directors and Executive Vice Presidents"
+        ],
+        [
+            "Director and Secretary"
+        ],
+        [
+            "Deputy President and Chief Operating Officer"
+        ],
+        [
+            "Managing-Director"
+        ],
+        [
+            "General Managers and Directors"
+        ],
+        [
+            "Deputy to the Managing Director, General Managers"
+        ],
+        [
+            "Vice Chairman and Chief Executive"
+        ],
+        [
+            "Administration"
+        ],
+        [
+            "Administration, Secretary"
+        ],
+        [
+            "Directors; Secretary"
+        ],
+        [
+            "Chairman of the Board and Chief Executive Officer, President"
+        ],
+        [
+            "Executive Vice President and General Counsel"
+        ],
+        [
+            "Vice Presidents, Secretary and Treasurer"
+        ],
+        [
+            "Vice Presidents, Finance and Controller"
+        ],
+        [
+            "Chairman, Nonexecutive"
+        ],
+        [
+            "Nonexecutive"
+        ],
+        [
+            "Group Vice President"
+        ],
+        [
+            "Deputy Chairman, Non-Executives"
+        ],
+        [
+            "Non-Executives, Secretary"
+        ],
+        [
+            "Managing Director and Chief Executive Officer"
+        ],
+        [
+            "Executive Officer"
+        ],
+        [
+            "Senior Managing and Representative Director"
+        ],
+        [
+            "Sector Executives"
+        ],
+        [
+            "Sector Executives, Senior Corporate Officer"
+        ],
+        [
+            "Senior Vice Presidents, Genral Counsel"
+        ],
+        [
+            "Presidents, Treasurer"
+        ],
+        [
+            "Presidents, General Counsel and Secretary"
+        ],
+        [
+            "Presidents, Associate General Counsel and Assistant Secretary"
+        ],
+        [
+            "Presidents, Associate General Counsul und Assistant Secretary"
+        ],
+        [
+            "Heads of other Corporate Functions, Group Controller"
+        ],
+        [
+            "Heads of other Corporate Functions"
+        ],
+        [
+            "Vize-Vorstandssprecher"
+        ],
+        [
+            "Corporate Executive Vice President"
+        ],
+        [
+            "Financial Vice President"
+        ],
+        [
+            "President and Chief Executive Officer (Erdöl)"
+        ],
+        [
+            "President and Chief Executive Officer (Kohle)"
+        ],
+        [
+            "Vice Presidents, General Tax Counsel"
+        ],
+        [
+            "Vize-Generaldirektoren"
+        ],
+        [
+            "Vice Chairmen"
+        ],
+        [
+            "Senior Vice Presidents, General Counsel and Secretary"
+        ],
+        [
+            "Vice Presidents (Operations)"
+        ],
+        [
+            "Vice Presidents (Staff)"
+        ],
+        [
+            "Vice Chariman"
+        ],
+        [
+            "Executive Vice President and Representative Direktor"
+        ],
+        [
+            "Chairman of the Board, and Chief Executive Officer"
+        ],
+        [
+            "Vice Presidents, Treasurer and Secretary"
+        ],
+        [
+            "Assistant Treasurer and Assistant Secretary"
+        ],
+        [
+            "Vice Chairmen of the Board"
+        ],
+        [
+            "General Managers, Chief Financial Officer"
+        ],
+        [
+            "Vice Chairman and Chief Executive Officer"
+        ],
+        [
+            "Senior Vice Presidents, Vice President and Secretary"
+        ],
+        [
+            "Directors, Advisory Director"
+        ],
+        [
+            "Directors, Director and Counselor"
+        ],
+        [
+            "President apd Representative Director"
+        ],
+        [
+            "Directeurs Généraux"
+        ],
+        [
+            "Chairman, President and Chief Executive Officer, Ducommun Incorporated"
+        ],
+        [
+            "Senior Vice Presidents, Senior Vice President and Controller"
+        ],
+        [
+            "Senior Vice Presidents, Vice President and Treasurer"
+        ],
+        [
+            "Executive Vice Chairman"
+        ],
+        [
+            "Joint Managing Director"
+        ],
+        [
+            "President and Chairman of the Board"
+        ],
+        [
+            "Vice Chairman and Managing Director"
+        ],
+        [
+            "Managing Director, Vice Chairman"
+        ],
+        [
+            "Director and Secretary to the Board, Vice Chairman"
+        ],
+        [
+            "Chairman Emeritus"
+        ],
+        [
+            "Arbeitnehmervertreter, Directors"
+        ],
+        [
+            "Executive Senior Managing Director"
+        ],
+        [
+            "Vice-Président"
+        ],
+        [
+            "stellv Vors."
+        ],
+        [
+            "Executive Deputy Chairman"
+        ],
+        [
+            "Group Finance Director"
+        ],
+        [
+            "Chief Executive and deputy Chairman"
+        ],
+        [
+            "Senior Director and Adviser, Managing Directors"
+        ],
+        [
+            "Generaldirektion"
+        ],
+        [
+            "Generaldirektion, stellv."
+        ],
+        [
+            "Sekretär ehrenhalber"
+        ],
+        [
+            "Full-Time statutory Auditor, Directors"
+        ],
+        [
+            "Senior Executive Vice President and Director"
+        ],
+        [
+            "Ececutive Vice President and Director"
+        ],
+        [
+            "Senior Vice President and Directors"
+        ],
+        [
+            "Vice President and Directors"
+        ],
+        [
+            "Executive Vice Presidents and Representative Director"
+        ],
+        [
+            "Chairman and Chief Executive Officer of the Group"
+        ],
+        [
+            "Office of the President and General Counsel"
+        ],
+        [
+            "Chairman, Executive Directors"
+        ],
+        [
+            "Managing Director, Executive Directors"
+        ],
+        [
+            "Director of Finance and Administration, Executive Directors"
+        ],
+        [
+            "Director of Exploration"
+        ],
+        [
+            "Directors and Executive Vice Presidents, Director and Secretary"
+        ],
+        [
+            "Directors and Executive Vice Presidents, Director"
+        ],
+        [
+            "Deputy Chairman and Secretary"
+        ],
+        [
+            "Senior Vice Presidents, General Counsul"
+        ],
+        [
+            "Vice Presidents, Secretary and Associated General Counsel"
+        ],
+        [
+            "Senior Executive Vice Presidents and Chief Operating Officers"
+        ],
+        [
+            "Senior Vice President, Chief Financial Officer"
+        ],
+        [
+            "Senior Vice Presidents; General Counsel"
+        ],
+        [
+            "Vice Presidents; Assistant Treasurer"
+        ],
+        [
+            "Vice Presidents; Assistant Controller"
+        ],
+        [
+            "Vice Presidents; Assistant Secretary"
+        ],
+        [
+            "Executive Vice Presidents; Chief Financial Officer"
+        ],
+        [
+            "Tax Controller"
+        ],
+        [
+            "Direktor (Handel)"
+        ],
+        [
+            "Vice Presidents, Secretary and General Counsel"
+        ],
+        [
+            "Vice Presidents, Controller and Chief Financial Officer"
+        ],
+        [
+            "Chairmen of the Board"
+        ],
+        [
+            "Vice Chairmen of the Board, President"
+        ],
+        [
+            "Presidents"
+        ],
+        [
+            "Secretary to the Board of Directors"
+        ],
+        [
+            "Legal Counsellor to the Board of Directors"
+        ],
+        [
+            "Director-General Managers"
+        ],
+        [
+            "Senio Advisor"
+        ],
+        [
+            "Executive Vice President and Chief Executive Officer"
+        ],
+        [
+            "Directeur Général Délégué"
+        ],
+        [
+            "Directeurs Général Adjoint"
+        ],
+        [
+            "Secrétaire Général"
+        ],
+        [
+            "Vice Chairman and President"
+        ],
+        [
+            "Corporate Executive President"
+        ],
+        [
+            "Verwaltungsrat"
+        ],
+        [
+            "Président-Directeur Général"
+        ],
+        [
+            "Vice Chairman and Chief Operating Officer"
+        ],
+        [
+            "Senior-Vice Presidents"
+        ],
+        [
+            "Managing Directors, Finance Director"
+        ],
+        [
+            "Managing Directors, Non-Executive"
+        ],
+        [
+            "stellv. Generaldirektoren"
+        ],
+        [
+            "Deputy Charman"
+        ],
+        [
+            "Executive Vice President and Chief Operating Officer"
+        ],
+        [
+            "Corporate Counsel and Assistant Secretary"
+        ],
+        [
+            "Vice Chairman for Finance, Administration and Control"
+        ],
+        [
+            "Vice Chairman for operational policies"
+        ],
+        [
+            "Counsellor of the Board"
+        ],
+        [
+            "Deputy Chief Executive"
+        ],
+        [
+            "Directeurs Général Adjoint; Directeur financier"
+        ],
+        [
+            "Directeurs de branches"
+        ],
+        [
+            "Senior Director and Adviser"
+        ],
+        [
+            "Commissaires du gouvernement"
+        ],
+        [
+            "Deligierter"
+        ],
+        [
+            "Senior Vice President and Chief Information Officer"
+        ],
+        [
+            "Vice Presidents, Corporate Personnel"
+        ],
+        [
+            "Representative Director"
+        ],
+        [
+            "Directeurs Groupe"
+        ],
+        [
+            "Directeurs généraux"
+        ],
+        [
+            "Vors. des Executivkomitees"
+        ],
+        [
+            "Deputy Presidents and Representative Directors"
+        ],
+        [
+            "Directors, Standing Auditor"
+        ],
+        [
+            "Chairman of the Board, Chief Executive Officer and President"
+        ],
+        [
+            "Executive Vice President and Direktor"
+        ],
+        [
+            "President of the Board"
+        ],
+        [
+            "Vice President of the Board"
+        ],
+        [
+            "Senior Vice Presidents, General Counsel, Corporate Secretary"
+        ],
+        [
+            "Vice Presidents, Associate General Counsel"
+        ],
+        [
+            "Director and Assistant to President"
+        ],
+        [
+            "Arbeitnehmervertreter, Secretary"
+        ],
+        [
+            "Vice Presidents; General Counsel"
+        ],
+        [
+            "Assistant General Counsel"
+        ],
+        [
+            "Chief Financial Officer"
+        ],
+        [
+            "Chief Counsel and Secretary"
+        ],
+        [
+            "Chief Credit Officer"
+        ],
+        [
+            "Chief Loan Examiner"
+        ],
+        [
+            "Personnel Director"
+        ],
+        [
+            "Director of Investor Relations"
+        ],
+        [
+            "Generel Auditor"
+        ],
+        [
+            "Executive Directors, Chairman"
+        ],
+        [
+            "Executive Directors, Managing Director"
+        ],
+        [
+            "Executive Directors, Director of Finance and Administration"
+        ],
+        [
+            "Executive Directors, Director of Exploration"
+        ],
+        [
+            "Vice- Chairman"
+        ],
+        [
+            "Vice Presidents, Corporate Secretary"
+        ],
+        [
+            "Vice Presidents, Finance and Chief Financial Officer"
+        ],
+        [
+            "Vice Presidents, Trasurer"
+        ],
+        [
+            "stellv. Mitglied"
+        ],
+        [
+            "First Deputy Chairman"
+        ],
+        [
+            "Second Deputy Chairman"
+        ],
+        [
+            "Directors, Secretary to the Board"
+        ],
+        [
+            "Directors, Legal Advisor to the Board"
+        ],
+        [
+            "General Controller International"
+        ],
+        [
+            "General Inspector"
+        ],
+        [
+            "Generaldirektion, Vors."
+        ],
+        [
+            "Vice Presidents, Chief Financial Officer and Treasurer"
+        ],
+        [
+            "Vizedirektor"
+        ],
+        [
+            "Associated General Counsel"
+        ],
+        [
+            "Deputy Chairman and Chief Operating Officer"
+        ],
+        [
+            "Vice Chairman, Chairman of the Executive Committee"
+        ],
+        [
+            "Sector Executive"
+        ],
+        [
+            "Senior Vice Presidents, Deputy General Counsel"
+        ],
+        [
+            "Senior Vice President, General Counsel"
+        ],
+        [
+            "Senior Executive Vice President and Chief Operating Officer"
+        ],
+        [
+            "Vice Presidents, Finance and Corporate Treasurer"
+        ],
+        [
+            "Vice Presidents, Corporate Controller"
+        ],
+        [
+            "Vice Presidents, Assistant General Counsel and Assistant Secretary"
+        ],
+        [
+            "Vice Presidents, Assistant General Counsul und Assistant Secretary"
+        ],
+        [
+            "Deputy Chariman"
+        ],
+        [
+            "Finance Director, Executive Directors"
+        ],
+        [
+            "Secretary, Nonexecutive Directors"
+        ],
+        [
+            "Stellv. Vors. und Deleg. des Verwaltungsrats"
+        ],
+        [
+            "Senior Vice Presidents, Finance"
+        ],
+        [
+            "Vice Presidents, Research and Development"
+        ],
+        [
+            "Vice Presidents, Tax Counsel"
+        ],
+        [
+            "International Auditor"
+        ],
+        [
+            "Patent Counsel"
+        ],
+        [
+            "Senior Assistant Treasurer"
+        ],
+        [
+            "Assistant Controllers"
+        ],
+        [
+            "Assistant General Counsels"
+        ],
+        [
+            "Executive Vice President and Representative Directors"
+        ],
+        [
+            "Honorary Chairmen"
+        ],
+        [
+            "Group Tax Adviser"
+        ],
+        [
+            "Counsel"
+        ],
+        [
+            "Chairman and Chief Executive Officers"
+        ],
+        [
+            "Chaiman, President and Chief Executive Officer"
+        ],
+        [
+            "Corporate Group Vice Presidents"
+        ],
+        [
+            "Corporate Senior Vice President"
+        ],
+        [
+            "Corporate Senior Vice President, Secretary and General Counsel"
+        ],
+        [
+            "Corporate Senior Vice President and Chief Financial Officer"
+        ],
+        [
+            "Corporate Vice Presidents"
+        ],
+        [
+            "Senior Vice President, Corporate Planning"
+        ],
+        [
+            "Senior Vice President, Human Resources and Administration"
+        ],
+        [
+            "Vice President, Associate General Counsel and Secretary"
+        ],
+        [
+            "Vice President, Corporate Affairs"
+        ],
+        [
+            "Senior Managing Directors, Counsellor of the Board"
+        ],
+        [
+            "President and Chief Executive Officers"
+        ],
+        [
+            "Direction Générale, Président Directeur Général"
+        ],
+        [
+            "Direction Générale, Directeur Général"
+        ],
+        [
+            "Chairman of the Executive Committee of the Board"
+        ],
+        [
+            "Chairman.and Director"
+        ],
+        [
+            "Chief Executive and Deputy Chairman"
+        ],
+        [
+            "Managing Directors, Director and Senior Adviser"
+        ],
+        [
+            "Director and Senior Adviser"
+        ],
+        [
+            "Directors and General Managers"
+        ],
+        [
+            "Senior Vice President, Corporate General Counsel and Secretary"
+        ],
+        [
+            "Vice Presidents, Corporate Finance"
+        ],
+        [
+            "Members"
+        ],
+        [
+            "President, Chief Executive Officer and Representative Director"
+        ],
+        [
+            "Generaldirektor und Konzernleiter"
+        ],
+        [
+            "1. stellv. geschäftsführender Direktor"
+        ],
+        [
+            "Stellv. geschäftsführende Direktoren"
+        ],
+        [
+            "Standing Auditor, Directors"
+        ],
+        [
+            "Auditor, Directors"
+        ],
+        [
+            "1st deputy chairman"
+        ],
+        [
+            "2nd deputy chairman"
+        ],
+        [
+            "Vice Presidents, Director"
+        ],
+        [
+            "Director of Exploration, Executive Directors"
+        ],
+        [
+            "Principal Operating Executives"
+        ],
+        [
+            "Legal Advisor to the Board"
+        ],
+        [
+            "Director-Secretary to de Board and Genera! Manager"
+        ],
+        [
+            "Vice President and Managing Director"
+        ],
+        [
+            "Director, Finance"
+        ],
+        [
+            "Chairman and Chief"
+        ],
+        [
+            "Executive Officer, Vice Chairman"
+        ],
+        [
+            "Executive Vice Presidents; General Counsel"
+        ],
+        [
+            "Senior Vice Presidents; Deputy General Counsel"
+        ],
+        [
+            "Chairman of the Board of Directors and Chief Executive Officer"
+        ],
+        [
+            "Board of Directors, Chairman"
+        ],
+        [
+            "Board of Directors, President and Chief Executive Officer"
+        ],
+        [
+            "Chief Operating Officer"
+        ],
+        [
+            "Senior Vice Presidents, General Counsul und Secretary"
+        ],
+        [
+            "Vice President, Finance and Administration"
+        ],
+        [
+            "Senior Vice Presidents, Corporate Secretary"
+        ],
+        [
+            "Executive Directors, Finance Director"
+        ],
+        [
+            "Directors, Corporate Secretary"
+        ],
+        [
+            "Directors, Group Treasurer"
+        ],
+        [
+            "Directors, Chief Financial Officer"
+        ],
+        [
+            "Directors, Group Controller"
+        ],
+        [
+            "Chairman and Chief Operating Officer"
+        ],
+        [
+            "Deputy General Counsel"
+        ],
+        [
+            "Vice Presidents; Vice President and Secretary"
+        ],
+        [
+            "Vice Presidents; Vice President and Treasurer"
+        ],
+        [
+            "Vice Presidents; Vice President and Comptroller"
+        ],
+        [
+            "Vice Presidents; Vice President and General Counsel"
+        ],
+        [
+            "Senior Vice President and General Counsel and Secretary"
+        ],
+        [
+            "Chief Operating Officer and Executive Vice President"
+        ],
+        [
+            "Vice Presidents, Associate General Counsel and Secretary"
+        ],
+        [
+            "Vice Presidents, Assistant Secretary and Corporate Counsel"
+        ],
+        [
+            "Executive Vice President and Representative Direktors"
+        ],
+        [
+            "Chairman of Executive Committee"
+        ],
+        [
+            "Vice Presidents, Corporate Counsel and Assistant Secretary"
+        ],
+        [
+            "Vice Presidents, Assistant Treasurer and Assistant Secretary"
+        ],
+        [
+            "Senior Chairman"
+        ],
+        [
+            "Direktors"
+        ],
+        [
+            "Präsident und Deligierter"
+        ],
+        [
+            "Administrateurs"
+        ],
+        [
+            "Directors, Secretary"
+        ],
+        [
+            "Financial Operations"
+        ],
+        [
+            "Président d'honneur"
+        ],
+        [
+            "Vice Presidents, Business Development Treasurer"
+        ],
+        [
+            "Deputy Chairmen, Chief Executive Officer"
+        ],
+        [
+            "Vice Presidents, Deputy General Counsel"
+        ],
+        [
+            "Non-Executive Deputy Chairman"
+        ],
+        [
+            "Legal Director and Secretary"
+        ],
+        [
+            "1st deputy Chairman"
+        ],
+        [
+            "Director, Vice Presidents"
+        ],
+        [
+            "Director of Finance, and Administration, Executive Directors"
+        ],
+        [
+            "Chairman of the Board and Chairman of the Executive Committee"
+        ],
+        [
+            "Ehrenvors"
+        ],
+        [
+            "Chief Financial Officer and Executive Vice President"
+        ],
+        [
+            "Vice Presidents, Deputy Chief Financial Officer"
+        ],
+        [
+            "Senior Executive Vice Presidents and Chief"
+        ],
+        [
+            "Vice Presidents, Secretary and Assistant General Counsel"
+        ],
+        [
+            "Assistant Officers"
+        ],
+        [
+            "Assistant Officers, Assistant General Counsel"
+        ],
+        [
+            "Assistant Officers, Assistant Treasurer"
+        ],
+        [
+            "Assistant Officers, Senior Assistant General Counsel"
+        ],
+        [
+            "Executive Vice President, President and Chief Operating Officer"
+        ],
+        [
+            "Chairman, Chief Executive Officer and Chief Quality Officer"
+        ],
+        [
+            "Vice Presidents, AssistantTreasurer"
+        ],
+        [
+            "Chairman and Chief Executive Officer and Chief Technology Officer"
+        ],
+        [
+            "Executive Officers, Secretary"
+        ],
+        [
+            "Executive Officers, Chief Financial Officer"
+        ],
+        [
+            "Vice President and Assistant to the Chairman"
+        ],
+        [
+            "Director and Assistant to the Chief Executive"
+        ],
+        [
+            "Directors - General Managers"
+        ],
+        [
+            "Director-Secretary and General Manager"
+        ],
+        [
+            "General Secretary of the Permanent Executive Committee-General Manager"
+        ],
+        [
+            "General Secretary"
+        ],
+        [
+            "Finance Director, Directors"
+        ],
+        [
+            "Senior Finance Director, Directors"
+        ],
+        [
+            "Chief Executive and Managing Director"
+        ],
+        [
+            "Executive director"
+        ],
+        [
+            "Finance director"
+        ],
+        [
+            "Finance Director, Chief Executives"
+        ],
+        [
+            "Chairman nd Chief Executive Officer"
+        ],
+        [
+            "Chairman, President and Chief"
+        ],
+        [
+            "Chariman"
+        ],
+        [
+            "General Counsel and Secretary"
+        ],
+        [
+            "Vice Presidents, Secretary and Clerk"
+        ],
+        [
+            "Assistant Tresurer"
+        ],
+        [
+            "Chartered Accountant"
+        ],
+        [
+            "Chairmen"
+        ],
+        [
+            "Vice-President and Secretary"
+        ],
+        [
+            "Vice-President"
+        ],
+        [
+            "Senior Managing Direktors"
+        ],
+        [
+            "Chairman und Chief Executive Officer"
+        ],
+        [
+            "Staff Vice Presidents"
+        ],
+        [
+            "Staff Vice Presidents, Carpenter"
+        ],
+        [
+            "Executive Vice Prrsident and Chief Financial Officer; Chairman and Chief Executive Officer of PMCC"
+        ],
+        [
+            "Executive Deputy-Presidents"
+        ],
+        [
+            "Président Honoraire"
+        ],
+        [
+            "Executive Deputy Chairman and Managing Director"
+        ],
+        [
+            "Vice Presidents, Financial Operations"
+        ],
+        [
+            "Vorstandsdirektor"
+        ],
+        [
+            "Director & General Mangers"
+        ],
+        [
+            "Director & Senior Adviser"
+        ],
+        [
+            "President & Representative Director"
+        ],
+        [
+            "Exekutivkomitee"
+        ],
+        [
+            "Chief Executive Officer & President"
+        ],
+        [
+            "Executive Vice President and Directors"
+        ],
+        [
+            "1st Deputy Chairman"
+        ],
+        [
+            "2nd Deputy Chairman"
+        ],
+        [
+            "Senio Managing Director"
+        ],
+        [
+            "Chairman of the Board and Chief Executive Officer, Chairman of the Executive Committee"
+        ],
+        [
+            "Srecher"
+        ],
+        [
+            "Hamburg"
+        ],
+        [
+            "Tax Counsel"
+        ],
+        [
+            "Assistant Officers, Assistant Controller"
+        ],
+        [
+            "Assistant Officers, Assistant Secretary"
+        ],
+        [
+            "Senior Vice President and Comptroller"
+        ],
+        [
+            "Chairman, Chief Executive Officer and Chief Technology Officer"
+        ],
+        [
+            "Executive Vice Presidents, Secretary"
+        ],
+        [
+            "Vice Presidents, General Counsel and Assistant Secretary"
+        ],
+        [
+            "Vice Presidents, Chief Financial Officer, Europe"
+        ],
+        [
+            "Vice President, Secretary and Controller"
+        ],
+        [
+            "Oslo"
+        ],
+        [
+            "Presidente"
+        ],
+        [
+            "Vicepresidente 1"
+        ],
+        [
+            "Vicepresidente 2"
+        ],
+        [
+            "Consejeros Directores Generales"
+        ],
+        [
+            "Directores Generales"
+        ],
+        [
+            "Consejeros-Directores Generales"
+        ],
+        [
+            "Directores Adjuntos"
+        ],
+        [
+            "Group Chief Executive and Deputy Chairman"
+        ],
+        [
+            "Directors, Group Finance Director"
+        ],
+        [
+            "Vice Presidents, Corporate Secretary and Counsel"
+        ],
+        [
+            "Vice Presidents, Public Affairs and Corporate Secretary"
+        ],
+        [
+            "Secretary, Non-Executives"
+        ],
+        [
+            "Director and Advisor, Managing Directors"
+        ],
+        [
+            "Executive Vice President and Chief Administrative Officer"
+        ],
+        [
+            "Chief Financial Officer, Directors"
+        ],
+        [
+            "Executive"
+        ],
+        [
+            "Chairmah and Chief Executive"
+        ],
+        [
+            "Executive Vice Presidents, Chief Legal Officer"
+        ],
+        [
+            "Chairman of the Executive Commitee"
+        ],
+        [
+            "Chief Financial Officer and Senior Vice President"
+        ],
+        [
+            "President, Chief Executive Officer and Chief Operating Officer"
+        ],
+        [
+            "Vice Chairman and Executive Officer"
+        ],
+        [
+            "Non Executive Directors, Secretary"
+        ],
+        [
+            "Senior Vice Presidents; Controller"
+        ],
+        [
+            "Company Secretary"
+        ],
+        [
+            "Sekretär des Verwältungsrats"
+        ],
+        [
+            "Director and Senior Advisor"
+        ],
+        [
+            "Director, Director & General Mangers"
+        ],
+        [
+            "Director, Managing Directors"
+        ],
+        [
+            "Chairman and Chief, Executive Officer"
+        ],
+        [
+            "First Executive Vice President"
+        ],
+        [
+            "Senior Managing Directors, Managing Directors"
+        ],
+        [
+            "Standing Auditor"
+        ],
+        [
+            "Arbeitnehmervertreter, Deputy Members"
+        ],
+        [
+            "Deputy Members"
+        ],
+        [
+            "Vice Chairman and Executive Vice President"
+        ],
+        [
+            "Group Finance Director, Directors"
+        ],
+        [
+            "Adjuntos al Presidente"
+        ],
+        [
+            "Vice Presidents, Acting Controller"
+        ],
+        [
+            "Vice Presidents, Exploration"
+        ],
+        [
+            "Direktor und Sekretär des Verwaltungsrates"
+        ],
+        [
+            "Vice Presidents, Controller and Treasurer"
+        ],
+        [
+            "Corporate VP Engineering"
+        ],
+        [
+            "Corporate Treasurer"
+        ],
+        [
+            "Corporate VP General Affairs and Corporate Secretary"
+        ],
+        [
+            "Executives, Finance Director"
+        ],
+        [
+            "Human Resources"
+        ],
+        [
+            "Treasury"
+        ],
+        [
+            "Financial Controller"
+        ],
+        [
+            "Public Relations"
+        ],
+        [
+            "Divisional Directors"
+        ],
+        [
+            "Vice Presidents and Representative Directors"
+        ],
+        [
+            "Chief of Operations Speciality Marketing and International Business Development"
+        ],
+        [
+            "Chief Technological Officer"
+        ],
+        [
+            "Executive Vice President, Financial Services"
+        ],
+        [
+            "General Counsel and Corporate Secretary"
+        ],
+        [
+            "Vice Presidents and General Managers"
+        ],
+        [
+            "Vice Presidents, Assistant General Counsel, Secretary and Clerk"
+        ],
+        [
+            "Vice Presidents, Chief Technical Officer"
+        ],
+        [
+            "Secrétaire"
+        ],
+        [
+            "Vice Presidents, Controller and Principal Accounting Officer"
+        ],
+        [
+            "Vice-Président-Directeur Général"
+        ],
+        [
+            "Chief Financial Officer, Executive Directors"
+        ],
+        [
+            "Stellv. Vors, und Deleg. des Verwaltungsrats"
+        ],
+        [
+            "Finance Director, Managing Directors"
+        ],
+        [
+            "Vice-Chairman, President and Chief Operating Officer"
+        ],
+        [
+            "Vizepräsident und geschäftsführendes Mitglied"
+        ],
+        [
+            "stellv. Vizepräsident und Geschäftsführer"
+        ],
+        [
+            "Counselor"
+        ],
+        [
+            "Advisor"
+        ],
+        [
+            "Secretary of the Board, Directors"
+        ],
+        [
+            "Vice Chairmen, President"
+        ],
+        [
+            "Directors and Advisors"
+        ],
+        [
+            "Executive Deputy Presidents and Representative Directors"
+        ],
+        [
+            "Executive Deputy President and Director"
+        ],
+        [
+            "Vice Presidents, Financial Analysis and Planning"
+        ],
+        [
+            "Vice Presidents, Corporate Affairs"
+        ],
+        [
+            "Vice Presidents, Operations"
+        ],
+        [
+            "Director of Operations"
+        ],
+        [
+            "Director of Finance and Administration"
+        ],
+        [
+            "MBA, stellv."
+        ],
+        [
+            "Senior Directors"
+        ],
+        [
+            "Senior Managing und Representative Direktor"
+        ],
+        [
+            "Consejero Delegado"
+        ],
+        [
+            "Finance and Administration, Executive Directors"
+        ],
+        [
+            "Vice Chairman of the Board and Chief Operating Officer"
+        ],
+        [
+            "Vice Presidents, General Counsel, Secretary and Clerk"
+        ],
+        [
+            "Gesellschaftssekretär"
+        ],
+        [
+            "Senior Vice Presidents, Chief Economist"
+        ],
+        [
+            "Senior Vice Presidents, Assistant Secretary"
+        ],
+        [
+            "Présidentdirecteur général"
+        ],
+        [
+            "Présidentdirecteur Général"
+        ],
+        [
+            "Directeur général Hydrocarbures"
+        ],
+        [
+            "Directeur général Chimie"
+        ],
+        [
+            "Directeur général Santé"
+        ],
+        [
+            "Directeur délégué"
+        ],
+        [
+            "Senior Executive Vice President and Representative Director"
+        ],
+        [
+            "Financial director"
+        ],
+        [
+            "Staff Officers"
+        ],
+        [
+            "Vice Presidents, International Auditor"
+        ],
+        [
+            "Vice Presidents, Patent Counsel"
+        ],
+        [
+            "Vice Presidents, Senior Assistant Treasurer"
+        ],
+        [
+            "Deputy General Counsels"
+        ],
+        [
+            "Associate General Counsels"
+        ],
+        [
+            "Executive Vice Presidents, Chief Technical Officer"
+        ],
+        [
+            "Executive Vice Presidents, Corporate Vice President"
+        ],
+        [
+            "Senior Vice-Presidents"
+        ],
+        [
+            "Senior Vice-Presidents, Vice President, Finance"
+        ],
+        [
+            "Senior Vice-Presidents, Controller"
+        ],
+        [
+            "Senior Vice-Presidents, Director of Corporate Communications"
+        ],
+        [
+            "Vice Presidents, Assistant Counsel and Secretary"
+        ],
+        [
+            "Senior Executive Directors, Executive Directors"
+        ],
+        [
+            "Vice Chairmann"
+        ],
+        [
+            "Assistant Managing Director"
+        ],
+        [
+            "Finance Director, Executives"
+        ],
+        [
+            "Non-Executive Directors, Sekretär"
+        ],
+        [
+            "Directors, Company Secretary"
+        ],
+        [
+            "Chairman and Representative Director, Chief Executive Officer"
+        ],
+        [
+            "Presidents and Representative Direetor, Chief Operating"
+        ],
+        [
+            "Senior Vice Presidents and Directors"
+        ],
+        [
+            "Vice Presidents and Directors"
+        ],
+        [
+            "Assistant to President"
+        ],
+        [
+            "Directorof Finance and Administration"
+        ],
+        [
+            "1.Vors."
+        ],
+        [
+            "Vorsitz (Personal)"
+        ],
+        [
+            "Finanzen, Controlling"
+        ],
+        [
+            "Finanzen und Verwaltung"
+        ],
+        [
+            "Personal und Organisation"
+        ],
+        [
+            "Vertrieb"
+        ],
+        [
+            "Technik"
+        ],
+        [
+            "Delegierter des Verwaltungsrates"
+        ],
+        [
+            "Generaldirektor Finanzen"
+        ],
+        [
+            "Generaldirektor Europa"
+        ],
+        [
+            "Vizedirektorin"
+        ],
+        [
+            "Assistant Officers, Secretary and Assistant General Counsel"
+        ],
+        [
+            "Senior Vice Presidents, Chief Accounting Officer"
+        ],
+        [
+            "Senior Vice Presidents, Chief Administrative Officer"
+        ],
+        [
+            "Vice Presidents, Deputy Controller"
+        ],
+        [
+            "Business Executives"
+        ],
+        [
+            "Corporate Executives"
+        ],
+        [
+            "Corporate Executives, Chief Financial Officer"
+        ],
+        [
+            "Corporate Executives, General Counsel"
+        ],
+        [
+            "Executive Vice Presidents, Chief Financial and Administrative Officer"
+        ],
+        [
+            "Vice Presidents, Finance and Corporate Controller"
+        ],
+        [
+            "Vice Chairman of the Board and Executive Vice President"
+        ],
+        [
+            "Senior Vice President and Assistant to the Chief Executive"
+        ],
+        [
+            "Finance, Executice Director, Executive Directors"
+        ],
+        [
+            "Präsident des Verwaltungsrates"
+        ],
+        [
+            "Group Chief Executive Officer"
+        ],
+        [
+            "Chief Information Officer"
+        ],
+        [
+            "Head of Global Trading"
+        ],
+        [
+            "Executive Vice Directors"
+        ],
+        [
+            "Deputy Chairman, Non-Executives,"
+        ],
+        [
+            "Managing Directors, Non-Executives,"
+        ],
+        [
+            "Managing Directors, Non-Executives"
+        ],
+        [
+            "Vizeprdsident"
+        ],
+        [
+            "Assistant Vice Presidents"
+        ],
+        [
+            "Assistant Vice Presidents, Associate General. Counsel"
+        ],
+        [
+            "Counsellors to the Board"
+        ],
+        [
+            "Senoir Advisors to the President"
+        ],
+        [
+            "Vice Presidents, Secretary and Associate General Counsel"
+        ],
+        [
+            "Deputy Chief Executive and Chief Operating Officer"
+        ],
+        [
+            "Directeurs Général Adjoints"
+        ],
+        [
+            "Directions Fonctionnelles"
+        ],
+        [
+            "Directeurs de Branches"
+        ],
+        [
+            "Délégués Généraux"
+        ],
+        [
+            "Präsident des Exekutlv-Komltee"
+        ],
+        [
+            "Presidents and Representative Director, Chief Operating Officer"
+        ],
+        [
+            "Regierungsvertreter"
+        ],
+        [
+            "President and Representative Director and Chief Executive Officer"
+        ],
+        [
+            "Director of Finance"
+        ],
+        [
+            "Container"
+        ],
+        [
+            "Finanzen und Controlling"
+        ],
+        [
+            "Co-Verwaltungs-Präsident"
+        ],
+        [
+            "Counselling Director"
+        ],
+        [
+            "President and Chief Executing Officer"
+        ],
+        [
+            "Chairman of the Board and Managing Director"
+        ],
+        [
+            "Executive Director Finance"
+        ],
+        [
+            "Vice Presidents, Controller and Chief Accounting Officer"
+        ],
+        [
+            "Vice Presidents, Controller, Business Operations"
+        ],
+        [
+            "Financial Vice President, Treasurer and Chief Financial Officer"
+        ],
+        [
+            "Assistant Secretaries, Assistant Teasurer"
+        ],
+        [
+            "Mine Management"
+        ],
+        [
+            "Nonexecutive Director"
+        ],
+        [
+            "Fondsverwalter"
+        ],
+        [
+            "geschäftsführendes Mitglied und Generaldirektor"
+        ],
+        [
+            "Executive Vice Chairmen"
+        ],
+        [
+            "Senior Executive Director"
+        ],
+        [
+            "Chairman and Executive Director"
+        ],
+        [
+            "Executive Deputy Presidents"
+        ],
+        [
+            "President and Senior Operating Officer"
+        ],
+        [
+            "Executive Vice Presidents, General Counsel and Secretary"
+        ],
+        [
+            "Executive Vice Presidents, Chief Financiel Officer"
+        ],
+        [
+            "President et Administrateurdélégué"
+        ],
+        [
+            "Secrétaire général"
+        ],
+        [
+            "Group Company Secretary"
+        ],
+        [
+            "Executive Managers"
+        ],
+        [
+            "Excutive Chairman"
+        ],
+        [
+            "Präsident des Exekutiv-Komitee"
+        ],
+        [
+            "President and Representative Director, Chief Operating Officer"
+        ],
+        [
+            "Stellv. Vors., Präsidium"
+        ],
+        [
+            "Chairman of th Board and Representative Director"
+        ],
+        [
+            "Corporate Auditors"
+        ],
+        [
+            "Generaldirektor, Vors. der Geschäftsleitung"
+        ],
+        [
+            "Senior Vice Presidents; General Counsel and Secretary"
+        ],
+        [
+            "Vice Presidents; Chief Information Officer"
+        ],
+        [
+            "Vice Chairman and Chief Credit Officer"
+        ],
+        [
+            "Chairman, Chief Executive Officer and President"
+        ],
+        [
+            "Finanzen"
+        ],
+        [
+            "Vors., zool. Vorstand"
+        ],
+        [
+            "kaufm. Vorstand"
+        ],
+        [
+            "Chairman of the Board (President, Chief Executive Officer)"
+        ],
+        [
+            "President (Chief Executive Officer)"
+        ],
+        [
+            "Chairman (Chief Executive Officer)"
+        ],
+        [
+            "Chairman of the Board (Chief Operating Officer)"
+        ],
+        [
+            "President (Chief Operating Officer)"
+        ],
+        [
+            "Interim Chief Executive Officer, Director"
+        ],
+        [
+            "Präsident (Flachstahlerzeugnisse)"
+        ],
+        [
+            "Vice-Chairman (President, Chief Executive Officer)"
+        ],
+        [
+            "stellv., Vors."
+        ],
+        [
+            "Director General Manager"
+        ],
+        [
+            "Vors. (Chairman of the Board)"
+        ],
+        [
+            "stellv. Vors. (Deputy Chairman and Managing Director)"
+        ],
+        [
+            "President (, Chairman and Chief Executive Officer)"
+        ],
+        [
+            "1 .Vors. (Group Chief Executive)"
+        ],
+        [
+            "stellv. Vors. (Deputy Group Chief Executive)"
+        ],
+        [
+            "stellv. Vors. (Executive Director and COO)"
+        ],
+        [
+            "1. stellv. Vors. (President)"
+        ],
+        [
+            "2. stellv. Vors. (Executive Vice President)"
+        ],
+        [
+            "Vors. (Chairman of the Executive Committee)"
+        ],
+        [
+            "stellv. Vors. (Chairman of the Board, President and CEO)"
+        ],
+        [
+            "stellv. Vors. (Vice Chairman of the Board)"
+        ],
+        [
+            "Vors. (Chairman of the Board and CEO)"
+        ],
+        [
+            "Vors. (Chairman and CEO)"
+        ],
+        [
+            "Erster Vice-Präsident"
+        ],
+        [
+            "Chairman of the Board (Chief Executive Officer)"
+        ],
+        [
+            "Vize-Président"
+        ],
+        [
+            "President (and Chief Executive Officer)"
+        ],
+        [
+            "Chairman (and Chief Executive Officer)"
+        ],
+        [
+            "Chairman of the Board (and Chief Executive Officer)"
+        ],
+        [
+            "President (and Chief Operating Officer)"
+        ],
+        [
+            "Chairman (and President)"
+        ],
+        [
+            "President (and Representative Director)"
+        ],
+        [
+            "Chairman (and Representative Director)"
+        ],
+        [
+            "Deputy Chairman (and Managing Director)"
+        ],
+        [
+            "Managing Director and General Manager"
+        ],
+        [
+            "Vice-Chairman (Representative Director)"
+        ],
+        [
+            "Chairman (Representative Director)"
+        ],
+        [
+            "President (Representative Director)"
+        ],
+        [
+            "Chief Executive Officer and Managing Director"
+        ],
+        [
+            "Chairman of the Board (and President)"
+        ],
+        [
+            "Vice-Chairman (and Executive Vice-President)"
+        ],
+        [
+            "Vors. (Chief Executive Officer)"
+        ],
+        [
+            "Chairman (Unilever PLC)"
+        ],
+        [
+            "Chairman (Unilever N.V.)"
+        ],
+        [
+            "stellv. Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "2. stellv.Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "Ehrenmitglied"
+        ],
+        [
+            "Stellv. Mitglieder"
+        ],
+        [
+            "Stellv. Mitglieder, Arbeitnehmervertreter"
+        ],
+        [
+            "Vors. des A.-R."
+        ],
+        [
+            "Vors. des A.-R., Vors. und 1. Generaldirektor"
+        ],
+        [
+            "stellv. Vors. des A.-R."
+        ],
+        [
+            "Zollikon (Schweiz)"
+        ],
+        [
+            "stellv.Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "stellv. Vors, Arbeitnehmervertreter"
+        ],
+        [
+            "stellv. Vors., Arbeitnehmervetreter"
+        ],
+        [
+            "Arbeitnehmervetreter"
+        ],
+        [
+            "stellv. Vorsitzender, Arbeitnehmervertreter"
+        ],
+        [
+            "Ersatzmitglied"
+        ],
+        [
+            "Vors. des A.-R. und bevollmächtigter Direktor"
+        ],
+        [
+            "stellv. Vors. des A.-R. und bevollmächtigter Direktor"
+        ],
+        [
+            "Präsident und bevollmächtigter Direktor"
+        ],
+        [
+            "mächtigter Direktor"
+        ],
+        [
+            "stellv. Vors.,  Arbeitnehmervertreter"
+        ],
+        [
+            "Von den Arbeitnehmern gewählt"
+        ],
+        [
+            "Vors. desA.-R."
+        ],
+        [
+            "Vors. des Führungskomitees"
+        ],
+        [
+            "stellv. Vors.;"
+        ],
+        [
+            "Arbeitnehmervertertreter"
+        ],
+        [
+            "stellv. Vors.; Arbeitnehmervertreter"
+        ],
+        [
+            "Vors., Assessor"
+        ],
+        [
+            "Stellv. Vors.; Arbeitnehmervertreter"
+        ],
+        [
+            "Vors. des A. -R."
+        ],
+        [
+            "stellv. Vors., Arbeinehmervertreter"
+        ],
+        [
+            "hauptgeschäftsführendes Mitglied des A.-R."
+        ],
+        [
+            "stellv. hauptgeschäftsführendes Mitglied des A. R."
+        ],
+        [
+            "Geschäftsf. Vizepräsidenten und bevollmächtigte Direktoren"
+        ],
+        [
+            "geschäftsf. Vizepräsident und Direktor, Geschäftsf. Vizepräsidenten und bevollmächtigte Direktoren"
+        ],
+        [
+            "Bevollmächtigte Direktoren"
+        ],
+        [
+            "Arbeitnehmervertrater"
+        ],
+        [
+            "stellv. Vors. des A.-R. und Hauptabteilungsleiter"
+        ],
+        [
+            "1. stellv. Vors., Geschäftsf. Vizepräsidenten"
+        ],
+        [
+            "2. stellv. Vors.; Arbeitnehmervertreter"
+        ],
+        [
+            "1. stellv. Vors.,  Arbeitnehmervertreter"
+        ],
+        [
+            "Präsident und stellv. Direktor"
+        ],
+        [
+            "Geschäftsf. Vizepräsidenten und Direktoren"
+        ],
+        [
+            "Hauptgeschäftsf. Direktoren"
+        ],
+        [
+            "Geschäftsf. Direktoren"
+        ],
+        [
+            "Stellv. Vors. , Arbeitnehmervertreter"
+        ],
+        [
+            "Leiter der Finanzabteilung"
+        ],
+        [
+            "1. stellv. Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "Stellv. Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "Direltoren"
+        ],
+        [
+            "stellv. Vors.,Arbeitnehmervertreter"
+        ],
+        [
+            "geschäftsf. Vizepräsident"
+        ],
+        [
+            "Vors. der Geschäftsleitung und Hauptabteilungsleiter"
+        ],
+        [
+            "1. stellv. Vors. und Hauptfinanzleiter"
+        ],
+        [
+            "3. stellv. Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "Direktor und Berater, Leitende Direktoren"
+        ],
+        [
+            "2. stellv.Vors."
+        ],
+        [
+            "3. stellv. Vors."
+        ],
+        [
+            "Vors. des Aufsichtsratsausschusses"
+        ],
+        [
+            "Vors. des A.-R., Präsident und Direktor"
+        ],
+        [
+            "Vizepräsident und Direktor"
+        ],
+        [
+            "1. leitender Direktor"
+        ],
+        [
+            "leitende Direktoren"
+        ],
+        [
+            "1. leitende Direktoren, geschäftsf.Direktor"
+        ],
+        [
+            "Vors. des A.-R. und Vors."
+        ],
+        [
+            "Wien"
+        ],
+        [
+            "hauptgeschäftsf. Vors."
+        ],
+        [
+            "Berater"
+        ],
+        [
+            "Stellv. geschäftsf. Direktoren"
+        ],
+        [
+            "Assoziierte stellv. Vors."
+        ],
+        [
+            "Syndikus und Direktor;  Leitende Direktoren"
+        ],
+        [
+            "Vors. des A.-R., bevollmächtigter Direktor und Direktor"
+        ],
+        [
+            "stellv. Vors. des A.-R., bevollmächtigter Direktor und Direktor"
+        ],
+        [
+            "Präsident, bevollmächtigter Direktor und Direktor"
+        ],
+        [
+            "Vizepräsidenten, bevollmächtigte Direktoren und Direktoren"
+        ],
+        [
+            "Vizepräsidenten, bevollmächtigte Direktoren und Direktoren, 1. leitender Direktor"
+        ],
+        [
+            "Präsident und Direktor"
+        ],
+        [
+            "stellv. geschäftsf. Direktor und Direktor"
+        ],
+        [
+            "Gesehäftsf. Vizepräsidenten"
+        ],
+        [
+            "Vors. des A.-R., Präsident und 1. Generaldirektor"
+        ],
+        [
+            "Vors. des Finanz-Komitees"
+        ],
+        [
+            "stell. Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "Mitglieder"
+        ],
+        [
+            "Sekretär, Mitglieder"
+        ],
+        [
+            "Ehrenpräs."
+        ],
+        [
+            "1. leitender Direktor, Geschäftsf. Vizepräsidenten"
+        ],
+        [
+            "Ehrenvors. und Direktor der Gesellschaft"
+        ],
+        [
+            "Vors. und stellv. geschäftsführender Direktor"
+        ],
+        [
+            "Präsident und stellv. geschäftsführender Direktor"
+        ],
+        [
+            "stellv. Präsident und stellv. geschäftsführender Direktor"
+        ],
+        [
+            "1. leitende und stellv. geschäftsführende Direktoren"
+        ],
+        [
+            "Ratgeber\/Advisor, Direktoren"
+        ],
+        [
+            "Arbeitnehmerverteter"
+        ],
+        [
+            "Direktor, Ratgeber der Geschäftsführung"
+        ],
+        [
+            "Präsident, bevollmächtigter Direktor"
+        ],
+        [
+            "stellv. Vors, des A.-R."
+        ],
+        [
+            "M.D."
+        ],
+        [
+            "stellv.Vors. des A.-R."
+        ],
+        [
+            "bevollmächtigter Direktor und Präsident"
+        ],
+        [
+            "bevollmächtigter Direktor und geschäftsf. Vizepräsident"
+        ],
+        [
+            "bevollmächtigter und 1. leitender Direktor"
+        ],
+        [
+            "bevollmächtiger und 1. leitender Direktor"
+        ],
+        [
+            "Vizepräsident und bevollmächtigter Direktor"
+        ],
+        [
+            "stellv. leitender Direktor"
+        ],
+        [
+            "1.stellv. Vors."
+        ],
+        [
+            "geschäftsf. Vizepräsident, bevollmächtigter Direktor"
+        ],
+        [
+            "1. leitende Direktoren, bevollmächtigte Direktoren"
+        ],
+        [
+            "geschäftsf. Vizepräsident und bevollmächtigter Direktor"
+        ],
+        [
+            "1. leitende Direktoren und bevollmächtigte Direktoren"
+        ],
+        [
+            "Leitende Direktoren, Direktor und Syndikus"
+        ],
+        [
+            "Stell. Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "stellv. Vors. des A.-R. und Vors. des Führungskomitee"
+        ],
+        [
+            "stellv. Vorz."
+        ],
+        [
+            "stellv. Vors ."
+        ],
+        [
+            "Präsident und Betriebsleiter"
+        ],
+        [
+            "M. D."
+        ],
+        [
+            "Ehrendirektor"
+        ],
+        [
+            "Von den Arbeitnehmern zugewählt"
+        ],
+        [
+            "Arbeitnehmervertreter, 2. stellv. Vors."
+        ],
+        [
+            "Vors., Fürsprecher"
+        ],
+        [
+            "Arbeotnehmervertreter"
+        ],
+        [
+            "Vorsitzender"
+        ],
+        [
+            "stellv. Vors. Arbeitnehmervertreter"
+        ],
+        [
+            "1.stellv. Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "2. stellv. Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "1. stellv. Vors.; Arbeitnehmervertreter"
+        ],
+        [
+            "2. stellv. Vors"
+        ],
+        [
+            "Fürst zu Castell-Castell"
+        ],
+        [
+            "Geschäftsf. Direktoren und bevollmächtigte Direktoren"
+        ],
+        [
+            "Vors. des A-R."
+        ],
+        [
+            "Vors. des A.-R. und 1 .Generaldirektor"
+        ],
+        [
+            "geschäftsf. Direktor, Sekretär \/ Leiterder Finanzabteilung (Executive Vice President, Secretary-Treasurer)"
+        ],
+        [
+            "stellv. Vors. des A.-R. und Präsident"
+        ],
+        [
+            "stellv. hauptgeschäftsführendes Mitglied des A.-R."
+        ],
+        [
+            "Syndikus, Leiter der Finanzabteilung"
+        ],
+        [
+            "beratender Direktor"
+        ],
+        [
+            "1. stellv. Vors. und Haupt finanzleiter"
+        ],
+        [
+            "beratender und bevollmächtigter Direktor"
+        ],
+        [
+            "Direktor und Berater"
+        ],
+        [
+            "1. leitender Direktor und bevollmächtigter Direktor"
+        ],
+        [
+            "1. geschäftsf. Direktoren"
+        ],
+        [
+            "geschäftsf. Direktor; 1. leitende Direktoren"
+        ],
+        [
+            "Hauptgeschäftsf. Vors. und bevollmächtigte Direktoren"
+        ],
+        [
+            "Assoziierte 1. stellv. Vors."
+        ],
+        [
+            "1. leitender Direktor; Vizepräsidenten, bevollmächtigte Direktoren und Direktoren"
+        ],
+        [
+            "steliv. Vors."
+        ],
+        [
+            "geschäftsf. Direktor und bevollmächtiger Direktor"
+        ],
+        [
+            "geschäftsf. Direktor und bevollmächtigter Direktor"
+        ],
+        [
+            "stellv. Vors. des A.-R. und 1. Generaldirektor"
+        ],
+        [
+            "Geschäftsf Vizepräsidenten"
+        ],
+        [
+            "1. leitender Direktor, Geschäftsf Vizepräsidenten"
+        ],
+        [
+            "geschäftsf. Vizepräsident und Direktor"
+        ],
+        [
+            "Geschäftsf Direktoren"
+        ],
+        [
+            "Ehrenvors. und Direktorder Gesellschaft"
+        ],
+        [
+            "Ratgeber, Direktoren"
+        ],
+        [
+            "Ehrenvors. des A.-R."
+        ],
+        [
+            "Vors. des A.-R., Board of Directors"
+        ],
+        [
+            "steliv. Vors. des A.-R., Board of Directors"
+        ],
+        [
+            "Präsident, Board of Directors"
+        ],
+        [
+            "stellv. geschäftsf. Direktor und bevollmächtigter Direktor"
+        ],
+        [
+            "Direktor und Syndikus, Leitende Direktoren"
+        ],
+        [
+            "Vors. des A.-R. und Direktor"
+        ],
+        [
+            "Amt des Präsidenten"
+        ],
+        [
+            "stellv. Vorst."
+        ],
+        [
+            "stellv. Vors. , Arbeitnehmervertreter"
+        ],
+        [
+            "Vors., Aktionärsvertreter"
+        ],
+        [
+            "1. stellv. Vors., Aktionärsvertreter"
+        ],
+        [
+            "2.stellv. Vors., Aktionärsvertreter"
+        ],
+        [
+            "S.stellv. Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "stellv, Vors."
+        ],
+        [
+            "stell. Vors."
+        ],
+        [
+            "stellv. Vors., Arbeitnehmerverreter"
+        ],
+        [
+            "Arbeitnehmerverreter"
+        ],
+        [
+            "Sekretär, Stellv. Mitglieder"
+        ],
+        [
+            "Geschäftsführende Direktoren und bevollmächtigte Direktoren"
+        ],
+        [
+            "geschäftsf. Vizepräsident und Direktor und bevollmächtigte"
+        ],
+        [
+            "Leiter der Finanzabteilung, Sekretär"
+        ],
+        [
+            "Syndikus, Sekretär"
+        ],
+        [
+            "beratender Direktor, Direktoren"
+        ],
+        [
+            "Direktor und Berater des Aufsichtsrats, Leitende Direktoren"
+        ],
+        [
+            "beratender und bevollmächtigter Direktor, Geschäftsf. Vizepräsidenten und bevollmächtigte Direktoren"
+        ],
+        [
+            "stellv. Vors.; Direktor"
+        ],
+        [
+            "Vors. des. A.-R."
+        ],
+        [
+            "Vizepräsidenten, bevollmachtigte Direktoren und Direktoren"
+        ],
+        [
+            "1. leitender Direktor, Vizepräsidenten, bevollmachtigte Direktoren und Direktoren"
+        ],
+        [
+            "Geschäftsf. Vizepräsidenten, 1. leitender Direktor"
+        ],
+        [
+            "Vors. und bevollmächtigter Direktor"
+        ],
+        [
+            "stellv. Präsident und bevollmächtigter Direktor"
+        ],
+        [
+            "1. leitende und bevollmächtigte Direktoren"
+        ],
+        [
+            "Direktor, Ratgeber der Geschäftsführung, 1. Leitende Direktoren"
+        ],
+        [
+            "geschäfts. Vizepräsident"
+        ],
+        [
+            "Ehrensenator"
+        ],
+        [
+            "Abs. Ehrenvors."
+        ],
+        [
+            "stellv. Vors., Arbeitnehmervertretet"
+        ],
+        [
+            "Arbeitnehmervertretet"
+        ],
+        [
+            "2. stellv. Vors., Aktionärsvertreter"
+        ],
+        [
+            "Ehrensvors."
+        ],
+        [
+            "1 stellv. Vors."
+        ],
+        [
+            "2 stellv. Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "Arbeitnehmvertreter"
+        ],
+        [
+            "Ehrenpräsidium"
+        ],
+        [
+            "Vors,"
+        ],
+        [
+            "Gen."
+        ],
+        [
+            "stellv. Vors. des A.-R. und Hauptadministrator"
+        ],
+        [
+            "Syndikus"
+        ],
+        [
+            "Direktoren, beratender Direktor"
+        ],
+        [
+            "Vorsitzender d. A.-R."
+        ],
+        [
+            "Vors. des A.-R. und der Geschäftsleitung (Chairman and Chief Executive Officer)"
+        ],
+        [
+            "Geschäftsführende Vizepräsidenten und bevollmächtigte Direktoren"
+        ],
+        [
+            "geschäftsf. stellv. Vors. des A.-R."
+        ],
+        [
+            "geschäftsf, Vizepräsident"
+        ],
+        [
+            "Vize-Präsidenten"
+        ],
+        [
+            "Hauptgeschäftsf. Vors."
+        ],
+        [
+            "Syndikus und Direktor"
+        ],
+        [
+            "Vors, des A.-R., bevollmächtigter Direktor und Direktor"
+        ],
+        [
+            "1. leitender Direktor, Vizepräsidenten, bevollmächtigte Direktoren und Direktoren"
+        ],
+        [
+            "Direktor und Ratgeber, Leitende Direktoren"
+        ],
+        [
+            "Vors. des A.-R. und Präsident"
+        ],
+        [
+            "1. Leitende Direktoren, Direktor, Ratgeber der Geschäftsführung"
+        ],
+        [
+            "Vors. des A.-R und 1. Generaldirektor"
+        ],
+        [
+            "Vors. des A.-R, und 1. Generaldirektor"
+        ],
+        [
+            "Vors. und hauptbevollmächtigter Direktor"
+        ],
+        [
+            "Präsident und 1. Generaldirektor (Chief Executive)"
+        ],
+        [
+            "leitender Direktor und bevollmächtigter Direktor"
+        ],
+        [
+            "Berater und Direktor"
+        ],
+        [
+            "Arbeitnehmervertrfter"
+        ],
+        [
+            "stellv. Vors., Fürsprecher"
+        ],
+        [
+            "stelv. Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "J. D."
+        ],
+        [
+            "stellv. Vors., Arbeithehmervertreter"
+        ],
+        [
+            "Arbeithehmervertreter"
+        ],
+        [
+            "Vors. des. A.-R., Vors. und 1. Generaldirektor"
+        ],
+        [
+            "Vors, des A.-R."
+        ],
+        [
+            "Geschäftsf Vizepräsidenten und Direktoren"
+        ],
+        [
+            "Vorsitzender des Aufsichtsrats"
+        ],
+        [
+            "1. Leitender Direktor"
+        ],
+        [
+            "Vors. d. A.-R. und bevollmächtigter Direktor"
+        ],
+        [
+            "Direktoren und Berater"
+        ],
+        [
+            "geschäftsführender Vizepräsident und bevollmächtigter Direktor"
+        ],
+        [
+            "Leitende und bevollmächtigte Direktoren"
+        ],
+        [
+            "stellv. Vors. des. A.-R."
+        ],
+        [
+            "Vors. des A,-R."
+        ],
+        [
+            "stellv. geschäftsführender Direktor"
+        ],
+        [
+            "Leitende Direktoren, Direktor und Ratgeber"
+        ],
+        [
+            "Geschäftsf. Vizepräsident"
+        ],
+        [
+            "stellv. Vors. und bevollmächtigter Direktor"
+        ],
+        [
+            "Stellv. Präsidenten und bevollmächtigte Direktoren"
+        ],
+        [
+            "1. leitender und bevollmächtigter Direktor"
+        ],
+        [
+            "Vors. des geschäftsf. Komitees"
+        ],
+        [
+            "weiterer Vors. des A.-R. und Vors. des Rechnungsprüfer und Direktoren-Komitees"
+        ],
+        [
+            "Geschäftsf. leitende Direktoren"
+        ],
+        [
+            "Geschäftsf. Vizepräsidenten, bevollmächtigte Direktoren"
+        ],
+        [
+            "Geschäftsf. Direktoren, bevollmächtigter Direktor"
+        ],
+        [
+            "Direktoren, Wirtschaftsprüfer"
+        ],
+        [
+            "stellv. Vors. des A.-R. und Hauptfinanzleiter"
+        ],
+        [
+            "Vors. des A.-R. und 1. Generaldirektor (Chairman of the Board and Chief Executive Officer)"
+        ],
+        [
+            "Präsident und 1. Generaldirektor(Chief Executive)"
+        ],
+        [
+            "Leitende Direktoren, Ratgeber"
+        ],
+        [
+            "Vors. des A.-R. und 1. Generaldirektor (Chairman of the Board and Chief Executive Officer"
+        ],
+        [
+            "Präsident und Hauptabteilungsleiter (President and Chief Operating Officer)"
+        ],
+        [
+            "stellv. Vors. des A.-R. und verantwortlich für Ressort Finanzen (Vice Chairman and Chief Financial Officer)"
+        ],
+        [
+            "Vors., von der Hauptversammlung gewählt"
+        ],
+        [
+            "stellv. Vors., von der Hauptversammlung gewählt"
+        ],
+        [
+            "stellv. Vors. ,von den Arbeitnehmern gewählt"
+        ],
+        [
+            "von der Hauptversammlung gewählt"
+        ],
+        [
+            "von den Arbeitnehmern gewählt"
+        ],
+        [
+            "Studienprofessor"
+        ],
+        [
+            "Staatssekretär"
+        ],
+        [
+            "Präsident und Vors. des A.-R."
+        ],
+        [
+            "Vors. des A.-R., Vors."
+        ],
+        [
+            "geschäftsführender Vizepräsident und Direktor"
+        ],
+        [
+            "Vors. des A.-R. Präsident"
+        ],
+        [
+            "Gründer und Ehrenvors. des A.-R."
+        ],
+        [
+            "Vors. des A.-R. und erster Generaldirektor"
+        ],
+        [
+            "Vors. des A.-R. und der Geschäftsleitung"
+        ],
+        [
+            "Vors. des A.-R. u. 1. Generaldirektor"
+        ],
+        [
+            "geschäftsf. Vizepräsident und- bevollmächtigter Direktor"
+        ],
+        [
+            "Vize-Präsident und stellv. geschäftsf. Direktor"
+        ],
+        [
+            "Geschäftsf. Vicepräsidenten"
+        ],
+        [
+            "1. geschäftsf. Direktor"
+        ],
+        [
+            "Vors. des Aufsichtsrats"
+        ],
+        [
+            "Senior Direktoren und Berater"
+        ],
+        [
+            "geschäftsf. stellv. Vors. u. Leiter der Finanzabteilung"
+        ],
+        [
+            "weiterer Vors. des A.-R. und Vors. des Rechnungsprüfer- und Direktoren-Komitees"
+        ],
+        [
+            "Direktoren, hauptamtlicher Wirtschaftsprüfer"
+        ],
+        [
+            "Direktoren, stellv. geschäftsf. Direktor"
+        ],
+        [
+            "stellv. Vors. des A.-R. und Leiter des Kreditwesen"
+        ],
+        [
+            "Vors. des A.-R. (Chairman of the Board)"
+        ],
+        [
+            "stellv. Vors. des A.-R. und 1. Generaldirektor (Vice Chairman and Chief Executive Officer)"
+        ],
+        [
+            "Hauptgeschäftsführer"
+        ],
+        [
+            "Stellv. geschäftsf. Direktoren und bevollmächtigte Direktoren"
+        ],
+        [
+            "Stellv. geschäftsf. Direktoren und bevollmächtigte Direktoren, 1. leitender Direktor und bevollmächtigter Direktor"
+        ],
+        [
+            "Vors. des A.-R. und 1. Generaldirektor (Chairman of . the Board and Chief Executive Officer)"
+        ],
+        [
+            "Vors., Bankdirektor Senator"
+        ],
+        [
+            "Vos."
+        ],
+        [
+            "stellv. Vors., Arbeitnehmer-Vertreter"
+        ],
+        [
+            "Arbeitnehmer-Vertreter"
+        ],
+        [
+            "stellv. Vors., gem. MBG"
+        ],
+        [
+            "Arbeinehmervertreter"
+        ],
+        [
+            "stellv. Vorsitzender des Vorstands der Westdeutsche Landesbank"
+        ],
+        [
+            "Vors. 1. Generaldirektor"
+        ],
+        [
+            "Stellv. geschäftsführende Präsidenten"
+        ],
+        [
+            "Hauptgeschäftsführende Direktoren"
+        ],
+        [
+            "Vors. des.A.-R. und 1. Generaldirektor"
+        ],
+        [
+            "geschäftsführender Vizepräsident"
+        ],
+        [
+            "1. geschäftsführende Direktoren"
+        ],
+        [
+            "Hauptgeschäftsf. Vors., Stellv. geschäftsf."
+        ],
+        [
+            "Vize-Präsident und stellv.geschäftsf. Direktor"
+        ],
+        [
+            "Präsident und Geschäftsführer"
+        ],
+        [
+            "Geschäftsführendes Mitglied des Verwaltungsrats"
+        ],
+        [
+            "Leitende Direktoren, 1. Direktor und Berater"
+        ],
+        [
+            "Leitende Direktoren, Direktor und Berater"
+        ],
+        [
+            "Vors. des A.-R., Vors. und hauptbevollmächtigter Direktor"
+        ],
+        [
+            "Vors. des A.-R. und 1. Generaldirektor (Chairman and Chief Executive Officer)"
+        ],
+        [
+            "Ratgeber, Leitende Direktoren"
+        ],
+        [
+            "Vors. und Hauptgeschäftsführer"
+        ],
+        [
+            "bevollmächtigter leitender Direktor"
+        ],
+        [
+            "Direktoren, Berater und Direktor"
+        ],
+        [
+            "Amt des Präsidenten und Hauptfinanzleiter"
+        ],
+        [
+            "stellv. Vors. des A.-R. und Hauptfinanzleiter (Vice Chairman and Chief Financial Officer)"
+        ],
+        [
+            "Bankdirektor Senator E.h., Vors."
+        ],
+        [
+            "Arbeitnehmervertreter, stellv. Vors."
+        ],
+        [
+            "stellv. Vors., Vertreter der Arbeitnehmer"
+        ],
+        [
+            "Vertreter der Arbeitnehmer"
+        ],
+        [
+            "It. Montanstatut"
+        ],
+        [
+            "Rechtsanwalt, Vors."
+        ],
+        [
+            "Oberbürgermeister, Vorsitzender"
+        ],
+        [
+            "Kaufm. Angestellter, stellv. Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "Landrat"
+        ],
+        [
+            "Vorarbeiter, Arbeitnehmervertreter"
+        ],
+        [
+            "Hauptabteilungsleiter, Arbeitnehmervertreter"
+        ],
+        [
+            "Oberstadtdirektor"
+        ],
+        [
+            "Gewerkschaftssekretär, Arbeitnehmervertreter"
+        ],
+        [
+            "Maschinist, Arbeitnehmervertreter"
+        ],
+        [
+            "Blockwärter, Arbeitnehmervertreter"
+        ],
+        [
+            "Bürgermeister"
+        ],
+        [
+            "Leiter des Instituts für Personalführung, Arbeitsrecht und Arbeitswirtschaft e.V.,Arbeitnehmervertreter"
+        ],
+        [
+            "Landesdirektor"
+        ],
+        [
+            "Techn. Angestellter, Arbeitnehmervertreter"
+        ],
+        [
+            "stellv. Vorsitzender des Vorstands der Westdeutsche Landesbank Girozentrale"
+        ],
+        [
+            "Abteilungsleiter, Arbeitnehmervertreter"
+        ],
+        [
+            "Betriebs- und Sicherheitsingenieur, Arbeitnehmervertreter"
+        ],
+        [
+            "Arbertnehmervertreter"
+        ],
+        [
+            "Joint General Manager"
+        ],
+        [
+            "Assistant General Counsel, Vice Presidents"
+        ],
+        [
+            "President an Chief Executive Officer"
+        ],
+        [
+            "Vice President and Corporate Secretary"
+        ],
+        [
+            "Genral Counsel, Senior Vice Presidents"
+        ],
+        [
+            "Chief Financial Officer, Executive Vice Presidents"
+        ],
+        [
+            "General Counsel and Secretary, Vice Presidents"
+        ],
+        [
+            "Assistant Secretary, Vice Presidents"
+        ],
+        [
+            "Senior Operating and Staff Officers"
+        ],
+        [
+            "Treasurer, Senior Operating and Staff Officers"
+        ],
+        [
+            "General Counsel and Secretary, Senior Operating and Staff Officers"
+        ],
+        [
+            "Chief Financial Officer, Senior Operating and Staff Officers"
+        ],
+        [
+            "General Counsel and Secretary, Corporate Staff"
+        ],
+        [
+            "Vicepresident and Secretary"
+        ],
+        [
+            "Deputy General Manager"
+        ],
+        [
+            "Président d'Honneur"
+        ],
+        [
+            "Vice Chairman of the Corporation"
+        ],
+        [
+            "Vice Chairman and Chief Administative Officer"
+        ],
+        [
+            "Senior Executive Vice President and Chief Accounting Officer"
+        ],
+        [
+            "Executive Vice President and Secretary"
+        ],
+        [
+            "Senior Executive Vice President and Chief Marketing Officer"
+        ],
+        [
+            "Regional Vice Presidents"
+        ],
+        [
+            "Treasurer and Assistant Secretary"
+        ],
+        [
+            "Vice President and Assistant Secretary"
+        ],
+        [
+            "Vice President, Planning"
+        ],
+        [
+            "Deputy Treasurer"
+        ],
+        [
+            "Secretary, Executive Vice Presidents"
+        ],
+        [
+            "Senior General Counsel, Executive Vice Presidents"
+        ],
+        [
+            "Comptroller, Vice Presidents"
+        ],
+        [
+            "Senior Vice President and Secre- tary"
+        ],
+        [
+            "stellv., Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "Bereichsleiter"
+        ],
+        [
+            "stell.Vors."
+        ],
+        [
+            "stellv. Vorsitzender"
+        ],
+        [
+            "General Counsel, Vice President"
+        ],
+        [
+            "Vice President, Public Affairs and Corporate Secretary"
+        ],
+        [
+            "General Counsel and Assistant Secretary, Vice Presidents"
+        ],
+        [
+            "General Counsel and Secretary, Group Vice Presidents"
+        ],
+        [
+            "Finance, Vice Presidents"
+        ],
+        [
+            "Gerneral Tax Counsel, Vice Presidents"
+        ],
+        [
+            "General Counsel and Secretary, Executive Vice Presidents"
+        ],
+        [
+            "Treasurer, Senior Vice Presidents"
+        ],
+        [
+            "Controller, Vice Presidents (Staff)"
+        ],
+        [
+            "Treasurer and Secretary"
+        ],
+        [
+            "President & Chief Operating Officer"
+        ],
+        [
+            "Controller, Senior Vice Presidents"
+        ],
+        [
+            "President (Chief Opera- ting Officer Domestic Operations"
+        ],
+        [
+            "Vice Chairman (International Operations)"
+        ],
+        [
+            "Executive Vice President (Staff)"
+        ],
+        [
+            "Senior Vice President (Domestic Operations)"
+        ],
+        [
+            "Senior Vice President (Chairman-Southeast Region)"
+        ],
+        [
+            "Vice President (President-Southeast Region)"
+        ],
+        [
+            "Vice President (Cement Operations)"
+        ],
+        [
+            "Vice President (Management Information Systems Services)"
+        ],
+        [
+            "Vice President (President — North-Central Region)"
+        ],
+        [
+            "Vice President (President — New York Trap Rock Corporation)"
+        ],
+        [
+            "Vice President (Personnel & Labor Relations Services)"
+        ],
+        [
+            "Vice President (Sales)"
+        ],
+        [
+            "Vice President (Special Projects)"
+        ],
+        [
+            "Vice President (President — Southwest Region)"
+        ],
+        [
+            "Vice President (Operations Controller)"
+        ],
+        [
+            "Vice President (Special Projects Division)"
+        ],
+        [
+            "Vice President (Manufacturing & Construction Services)"
+        ],
+        [
+            "Vice President (International Operations)"
+        ],
+        [
+            "Chairman of the Board andChief Executive Officer"
+        ],
+        [
+            "Vice President and Senior Labor Relations Advisor"
+        ],
+        [
+            "Vice President and President Automotive"
+        ],
+        [
+            "Senior Vice President,Corporate Administration"
+        ],
+        [
+            "Corporate Treasurer, Vice Presidents"
+        ],
+        [
+            "Corporate General Counsel, Vice Presidents"
+        ],
+        [
+            "Corporate Comptroller, Vice Presidents"
+        ],
+        [
+            "Ökonomierat"
+        ],
+        [
+            "Syndikus, Vice Presidents"
+        ],
+        [
+            "Executive Vice President and General Auditor"
+        ],
+        [
+            "Executive Vice President, Chief Counsel and Secretary"
+        ],
+        [
+            "Director of Taxes"
+        ],
+        [
+            "Director of Corporate Communications"
+        ],
+        [
+            "Assistant Controller, Vice Presidents"
+        ],
+        [
+            "Treuhänder"
+        ],
+        [
+            "stellv., Treuhänder"
+        ],
+        [
+            "1. stellv.Vors."
+        ],
+        [
+            "3. stellv.Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "Rechtsanwalt, Bundesminister a.D., Vors."
+        ],
+        [
+            "Generalkonsul"
+        ],
+        [
+            "Deputy Assistant General Managers"
+        ],
+        [
+            "Comptroller, Vice President"
+        ],
+        [
+            "Treasurer, Vice President"
+        ],
+        [
+            "Secretary, Vice President"
+        ],
+        [
+            "Associate General Counsel and Assistant Secretary, Vice Presidents"
+        ],
+        [
+            "Associate General Counsul und Assistant Secretary, Vice Presidents"
+        ],
+        [
+            "Executive Vice President & Chief Financial Officer"
+        ],
+        [
+            "vom Industrieminister ernannt"
+        ],
+        [
+            "Financial Vice President and Treasurer"
+        ],
+        [
+            "Vicepresident and Secretary, Senior Vice Presidents"
+        ],
+        [
+            "Treasurer, Executive Vice Presidents"
+        ],
+        [
+            "Senior Vice President, Finance & Planning and Chief Financial Officer"
+        ],
+        [
+            "Senior Vice President and Advisor to the President and Chief Operating Officer"
+        ],
+        [
+            "Secretary and Deputy General Counsel, Vice Presidents"
+        ],
+        [
+            "Deputy General Counsel, Vice Presidents"
+        ],
+        [
+            "Senior Vice Prsident"
+        ],
+        [
+            "Secretaty"
+        ],
+        [
+            "Executive Vice President and Chief Credit Officer"
+        ],
+        [
+            "Fürsprecher, Vors."
+        ],
+        [
+            "Fürsprecher, stellv. Vors."
+        ],
+        [
+            "Köln"
+        ],
+        [
+            "Stellv Vors."
+        ],
+        [
+            "stellv., Arbeitnehmervertreter"
+        ],
+        [
+            "Chief Financial Officer, Vice Presidents"
+        ],
+        [
+            "General Counsul, Senior Vice Presidents"
+        ],
+        [
+            "Secretary and Associated General Counsel, Vice Presidents"
+        ],
+        [
+            "General Counsel, Executive Vice Presidents"
+        ],
+        [
+            "Associated General Counsel, Vice Presidents"
+        ],
+        [
+            "Corporate Affaires and Communication, Executive Vice Presidents"
+        ],
+        [
+            "Tax Controller, Vice Presidents"
+        ],
+        [
+            "Assistant Treasurer, Vice Presidents"
+        ],
+        [
+            "Secretary and General Counsel, Vice Presidents"
+        ],
+        [
+            "Controller and Chief Financial Officer, Vice Presidents"
+        ],
+        [
+            "Senior Executive Vice President and Chief Executive Officer"
+        ],
+        [
+            "Managers"
+        ],
+        [
+            "Vice President and Chief Operating Officer"
+        ],
+        [
+            "Vice Presidents, Finance and Treasurer"
+        ],
+        [
+            "Chairman, Executive Committee"
+        ],
+        [
+            "Executive Committee"
+        ],
+        [
+            "General Counsel, Vice Presidents and Group Vice Presidents"
+        ],
+        [
+            "Treasurer, Vice Presidents and Group Vice Presidents"
+        ],
+        [
+            "Secretary, Vice Presidents and Group Vice Presidents"
+        ],
+        [
+            "Finance, Vice Presidents and Group Vice Presidents"
+        ],
+        [
+            "Assistant Secretary, Assistant Officers"
+        ],
+        [
+            "Assistant Treasurer, Assistant Officers"
+        ],
+        [
+            "Vice President, Finance"
+        ],
+        [
+            "Senior Vice President, Planing"
+        ],
+        [
+            "Vice President and Associate General Counsel"
+        ],
+        [
+            "Vice President, Director of Corporate Relations, and Assistant ti the Chairman"
+        ],
+        [
+            "Vord. d. Zentralbetriebsrates, Arbeitnehmervertreter"
+        ],
+        [
+            "stellv. Vors. d. Zentralbetriebsrates, Arbeitnehmervertreter"
+        ],
+        [
+            "Staatskommissäre"
+        ],
+        [
+            "President, Vice Chairman of the Board"
+        ],
+        [
+            "President and Executive Officer"
+        ],
+        [
+            "General Counseland Secretary, Vice Presidents"
+        ],
+        [
+            "Deputy Treasurer, Vice Presidents"
+        ],
+        [
+            "Vice President and President, Electronics Operations"
+        ],
+        [
+            "Senior Vice President, Operations"
+        ],
+        [
+            "Vice President, International"
+        ],
+        [
+            "Senior Vice President, Research and Engineering"
+        ],
+        [
+            "Vice President, Corporate Development"
+        ],
+        [
+            "Senior Vice President, International"
+        ],
+        [
+            "Senior Vice President, Gouvernment Relations"
+        ],
+        [
+            "Vice President and President, North America Aircraft Operations"
+        ],
+        [
+            "Vice President and President, North American Space Operations"
+        ],
+        [
+            "Vice President, Communications"
+        ],
+        [
+            "Vice President, Management and Organization"
+        ],
+        [
+            "Senior Vice President and Advisor of the Office of the Chief Executive"
+        ],
+        [
+            "Vice President and President Automotive Operations"
+        ],
+        [
+            "Vice Chairman of the Board, Chairman of the Executive Committee"
+        ],
+        [
+            "Senior Vice President, Corporate Administration and Planning"
+        ],
+        [
+            "Corporate Personnel, Vice Presidents"
+        ],
+        [
+            "Corporate Terasurer, Vice Presidents"
+        ],
+        [
+            "Generei Auditor"
+        ],
+        [
+            "Corporate Secretary, Vice Presidents"
+        ],
+        [
+            "Finance and Chief Financial Officer, Vice Presidents"
+        ],
+        [
+            "Trasurer, Vice Presidents"
+        ],
+        [
+            "Oberbürgermeister, Vors."
+        ],
+        [
+            "Elektrotechniker, Arbeitnehmervertreter"
+        ],
+        [
+            "Angestellter, Arbeitnehmervertreter"
+        ],
+        [
+            "Landesdirektor, Landschaftsverband Westfalen-Lippe"
+        ],
+        [
+            "stellv. Vorsitzender des Vorstands der Westdeutschen Landesbank Girozentrale"
+        ],
+        [
+            "Schlosser, Arbeitnehmervertreter"
+        ],
+        [
+            "Finance Direktor"
+        ],
+        [
+            "Finance and Controller, Vice Presidents"
+        ],
+        [
+            "Secretary and Treasurer, Vice Presidents"
+        ],
+        [
+            "Chairman and Chief Executive, Directors"
+        ],
+        [
+            "Executive Directors, Directors"
+        ],
+        [
+            "Executive Vice President, Sector Executives"
+        ],
+        [
+            "Senior Corporate Officers"
+        ],
+        [
+            "Group Executives"
+        ],
+        [
+            "Senior Human Resources Officer"
+        ],
+        [
+            "Chairman Credit Policy Commitee"
+        ],
+        [
+            "Chief Auditor"
+        ],
+        [
+            "Chairman Corporate, Technology Committee"
+        ],
+        [
+            "Deputy General Counsel, Senior Vice Presidents"
+        ],
+        [
+            "Finance and Corporate Treasurer"
+        ],
+        [
+            "Associate Generäl Counsel and Assistant Secretary"
+        ],
+        [
+            "Associate General Counsul und Assistant Secretary"
+        ],
+        [
+            "Sparte Chemie und Spezialchemikalien Executive Vice Presidents"
+        ],
+        [
+            "Exploration, Vice Presidents"
+        ],
+        [
+            "Finance, Control, Senior Vice Presidents"
+        ],
+        [
+            "General Counsel and Company Secretary, Senior Vice Presidents"
+        ],
+        [
+            "Personel, Senior Vice Presidents"
+        ],
+        [
+            "Vice President and General Tax Counsel"
+        ],
+        [
+            "Executive Committee, Chairman"
+        ],
+        [
+            "Arbeitnehmervertreter, stellv."
+        ],
+        [
+            "General Secretary and Secretary of the Board of Directors"
+        ],
+        [
+            "Assistant Director to the Chairman"
+        ],
+        [
+            "Telex Vors., von den Arbeitnehmern gewählt"
+        ],
+        [
+            "Telex Vors., von der Hauptversammlung gewählt"
+        ],
+        [
+            "stellv. Vorz., Vertreter der Arbeitnehmer"
+        ],
+        [
+            "Vors., Persönlich haftende geschäftsführende Gesellschafter"
+        ],
+        [
+            "Persönlich haftende geschäftsführende Gesellschafter"
+        ],
+        [
+            "Vorz."
+        ],
+        [
+            "Holstein, Arbeitnehmervertreter"
+        ],
+        [
+            "2 stellv. Vors."
+        ],
+        [
+            "1 stellv. Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "1. stellv.Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "Chief Financial Officer, Senior Vice President"
+        ],
+        [
+            "Vice Presidents and Group Executive"
+        ],
+        [
+            "Controller, Vice President"
+        ],
+        [
+            "Tax Controller, Vice President"
+        ],
+        [
+            "Assistant Secretary, Vice President"
+        ],
+        [
+            "Assistant Treasurer, Vice President"
+        ],
+        [
+            "Assistant Controller, Vice President"
+        ],
+        [
+            "Senior Vice Presidents, Group Treasurer"
+        ],
+        [
+            "Manager"
+        ],
+        [
+            "Finance Control, Senior Vice Presidents"
+        ],
+        [
+            "Finance and Treasurer, Vice Presidents"
+        ],
+        [
+            "Vice President and Treasurer, Senior Vice Presidents"
+        ],
+        [
+            "Secretary, Senior Vice Presidents"
+        ],
+        [
+            "Additional Treasurer, Assistant Officers"
+        ],
+        [
+            "Aktionärsvertreter, Chairman"
+        ],
+        [
+            "Directions Fonctionelles"
+        ],
+        [
+            "Vice-Président Directeur Général"
+        ],
+        [
+            "Vors. des Betriebsrats, Arbeitnehmervertreter"
+        ],
+        [
+            "stellv. Vors. des Betriebsrats, Arbeitnehmervertreter"
+        ],
+        [
+            "Chief Èxecutive"
+        ],
+        [
+            "Treasurer & Chief Financial Officer, Vice President"
+        ],
+        [
+            "Secretary and Assistant General Counsel, Vice President"
+        ],
+        [
+            "Senior and Chief Financial Officer"
+        ],
+        [
+            "Senator"
+        ],
+        [
+            "Oberstadtdirektor a. D."
+        ],
+        [
+            "Direktor, Arbeitnehmervertreter"
+        ],
+        [
+            "2.stellv. Vors."
+        ],
+        [
+            "Secrétaire Adjoint"
+        ],
+        [
+            "Secretary and Assistant General Counsel, Vice Presidents"
+        ],
+        [
+            "Associate General Counsel, Vice Presidents"
+        ],
+        [
+            "Vice President, Treasurer und Controller"
+        ],
+        [
+            "Group Treasurer, Senior Vice Presidents"
+        ],
+        [
+            "General Operations Managers"
+        ],
+        [
+            "General Controller International Operations"
+        ],
+        [
+            "Financial Officer, Vice Presidents"
+        ],
+        [
+            "Executive Director - Europe"
+        ],
+        [
+            "Executive Director - America"
+        ],
+        [
+            "Senior Managers"
+        ],
+        [
+            "Finance, Senior Vice Presidents"
+        ],
+        [
+            "General Counsel, Secretary and Clerk, Vice Presidents"
+        ],
+        [
+            "Corporate Controller, Vice Presidents"
+        ],
+        [
+            "Senior Vice Presidents, Finance Control"
+        ],
+        [
+            "Senior Vice Presidents, General Counsel and Company Secretary"
+        ],
+        [
+            "Senior Vice Presidents, Personel"
+        ],
+        [
+            "Présidents d'Honneur"
+        ],
+        [
+            "Administrateurs Directeurs Généreaux"
+        ],
+        [
+            "Executive General Managers"
+        ],
+        [
+            "Corporate Executive Vice President and President"
+        ],
+        [
+            "Vice President, Taxes"
+        ],
+        [
+            "Vice President, Government Affairs"
+        ],
+        [
+            "Président honoraire"
+        ],
+        [
+            "Vice-Président honoraire"
+        ],
+        [
+            "secrétaire général"
+        ],
+        [
+            "Senior Vice President, Administration"
+        ],
+        [
+            "Chief Executive General Managers"
+        ],
+        [
+            "Executive Vioe President"
+        ],
+        [
+            "Treasurer & Chief Financial Officer, Vice Presidents"
+        ],
+        [
+            "Chief Financial Officer, Vice Chairmen"
+        ],
+        [
+            "Chief Counsel and Secretary, Vice Chairmen"
+        ],
+        [
+            "Chief Credit Officer, Vice Chairmen"
+        ],
+        [
+            "Chief Loan Examiner, Vice Chairmen"
+        ],
+        [
+            "Personnel Director, Vice Chairmen"
+        ],
+        [
+            "Treasurer, Vice Chairmen"
+        ],
+        [
+            "Controller, Vice Chairmen"
+        ],
+        [
+            "Director of Investor Relations, Vice Chairmen"
+        ],
+        [
+            "Generel Auditorm, Vice Chairmen"
+        ],
+        [
+            "GeneraI Counsel, Vice Presidents"
+        ],
+        [
+            "1 .Stellv. Vors."
+        ],
+        [
+            "Wirtschaftsprüfer"
+        ],
+        [
+            "1. stellv. Vors"
+        ],
+        [
+            "Group Treasurer"
+        ],
+        [
+            "Commercial General Managers"
+        ],
+        [
+            "Vizedirektorin, Sekretärin des Verwaltungsrates"
+        ],
+        [
+            "Corporate Affaires, Vice Presidents"
+        ],
+        [
+            "Deputy General Counsel and Secretary, Vice Presidents"
+        ],
+        [
+            "Senior Vice President, Executive Vice Presidents"
+        ],
+        [
+            "Personnel, Corporate Management"
+        ],
+        [
+            "Pensions, Corporate Management"
+        ],
+        [
+            "Treasury, Corporate Management"
+        ],
+        [
+            "Financial Controller, Corporate Management"
+        ],
+        [
+            "Chief Accountant, Corporate Management"
+        ],
+        [
+            "Taxation, Corporate Management"
+        ],
+        [
+            "Internal Audit, Corporate Management"
+        ],
+        [
+            "Company Solicitor, Corporate Management"
+        ],
+        [
+            "Public Relations, Corporate Management"
+        ],
+        [
+            "Executive Vice President and Controller"
+        ],
+        [
+            "Functional Oficers"
+        ],
+        [
+            "Corporate Secretary, Functional Oficers"
+        ],
+        [
+            "Group Treasurer, Functional Oficers"
+        ],
+        [
+            "Group Controller, Functional Oficers"
+        ],
+        [
+            "Officer, Executive Directors"
+        ],
+        [
+            "Tax Counsel, Vice Presidents"
+        ],
+        [
+            "Vice President, Secretary and Associate General Counsel"
+        ],
+        [
+            "AssistantComptrollers"
+        ],
+        [
+            "President and Chief Operatimg Officer"
+        ],
+        [
+            "Managing Director, Chief Executive"
+        ],
+        [
+            "Associate General Counsel and Secretary, Vice Presidents"
+        ],
+        [
+            "Assistant Secretary and Corporate Counsel, Vice Presidents"
+        ],
+        [
+            "Finance, Executive Committee"
+        ],
+        [
+            "Senior general manager, Executive Committee"
+        ],
+        [
+            "Personnel, General Managers"
+        ],
+        [
+            "Vice President and Secretary, Senior Vice Presidents"
+        ],
+        [
+            "Vice President, Finance and Treasurer"
+        ],
+        [
+            "Assistant Vice President"
+        ],
+        [
+            "Chief Operating Officer, Executive Vice Presidents"
+        ],
+        [
+            "Direktionspräsident"
+        ],
+        [
+            "Secrétaire du Conseil"
+        ],
+        [
+            "Generaldirektoten"
+        ],
+        [
+            "Senior Vice President and Chief Financial Officer and Acting Comptroller"
+        ],
+        [
+            "Konzernleiter"
+        ],
+        [
+            "Generaldirektor, Vors. d. Geschäftsleitung"
+        ],
+        [
+            "Direktor Bereich Kommerz"
+        ],
+        [
+            "Direktor Bereich Finanz"
+        ],
+        [
+            "Direktor Bereich Dienste"
+        ],
+        [
+            "Stellv. Generaldirektor, Bereich Beziehungen"
+        ],
+        [
+            "stellv. Generaldirektor, Bereich Handel"
+        ],
+        [
+            "Direktor, Bereich Verarbeitung"
+        ],
+        [
+            "President und Executive Vice President"
+        ],
+        [
+            "Risk Control Officer"
+        ],
+        [
+            "Director of Corporate Planning and Asset Strategy"
+        ],
+        [
+            "Vice President, Treasurer and Secretary"
+        ],
+        [
+            "Vörs."
+        ],
+        [
+            "steilv. Vors."
+        ],
+        [
+            "stellv. Vors., Arbeitnehmervertreterin"
+        ],
+        [
+            "Arbeitnehmervertreterin"
+        ],
+        [
+            "3.stellv. Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "weiterer stellv. Vors."
+        ],
+        [
+            "Ehrenvors. der Gesellschaft"
+        ],
+        [
+            "Consejeros"
+        ],
+        [
+            "Vicepresidentes"
+        ],
+        [
+            "Directores"
+        ],
+        [
+            "Vicepresidente"
+        ],
+        [
+            "Director General"
+        ],
+        [
+            "Secretario"
+        ],
+        [
+            "Engineering"
+        ],
+        [
+            "General Affairs and Company Secretary"
+        ],
+        [
+            "Communication"
+        ],
+        [
+            "Marketing"
+        ],
+        [
+            "Finance and Treasury"
+        ],
+        [
+            "Human Resources, Corporate Management"
+        ],
+        [
+            "Corporate Development, Corporate Management"
+        ],
+        [
+            "Providence"
+        ],
+        [
+            "President Chief Operating Officer"
+        ],
+        [
+            "General Counsul und Secretary, Senior Vice Presidents"
+        ],
+        [
+            "Censeurs"
+        ],
+        [
+            "Auditor, Assistant Secretaries"
+        ],
+        [
+            "Chief Fiancial Officerdesignated, Senior Vice Presidents"
+        ],
+        [
+            "Special Counsel, Senior Vice Presidents"
+        ],
+        [
+            "Corporate Services"
+        ],
+        [
+            "General Tax Counsel, Vice Presidents"
+        ],
+        [
+            "Functional Officers"
+        ],
+        [
+            "Treasurer, Functional Officers"
+        ],
+        [
+            "Corporate Secretary, Functional Officers"
+        ],
+        [
+            "Vice Chairman and Chief Technical Officer"
+        ],
+        [
+            "Group Directors"
+        ],
+        [
+            "Secretary and Associate General Counsel, Vice Presidents"
+        ],
+        [
+            "Associate General Counsel and Secretary"
+        ],
+        [
+            "Assistant Secretary and Managing Counsel"
+        ],
+        [
+            "Finance"
+        ],
+        [
+            "Senior general manager"
+        ],
+        [
+            "Présidents d‘Honneur"
+        ],
+        [
+            "Research and Development, Senior Vice Presidents"
+        ],
+        [
+            "Chairman, Executive Commitee"
+        ],
+        [
+            "Executive Vice President and President"
+        ],
+        [
+            "Executive Vice Prrsident. and Chief Financial Officer"
+        ],
+        [
+            "Senior Assistant General Counsel and Assistant Secretary"
+        ],
+        [
+            "Vice-Président et Administrateurdélégué"
+        ],
+        [
+            "Administrateurs-Directeurs"
+        ],
+        [
+            "Directeurs"
+        ],
+        [
+            "Directeurs généraux adjoints"
+        ],
+        [
+            "stellv. Generaldirektor, Bereich Beziehungen"
+        ],
+        [
+            "Law and Compliance, Senior Vice Presidents"
+        ],
+        [
+            "Treasurer & Chief Financial Officer, Senior Vice Presidents"
+        ],
+        [
+            "Assistant Controller, Assistant Treasurer"
+        ],
+        [
+            "Assistant Secretary, Assistant Treasurer"
+        ],
+        [
+            "1. Stellv. Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "Simssee"
+        ],
+        [
+            "2. Stellv. Vors."
+        ],
+        [
+            "President and Chief Executive Officer of ADT Security Systems, Inc."
+        ],
+        [
+            "Chairman and Chief Executive of ADT Auctions Group Ltd."
+        ],
+        [
+            "President and Chief Executive Officer of ADT Auctions Inc."
+        ],
+        [
+            "Chief Legal Officer and Secretary"
+        ],
+        [
+            "Directeur Général Adjoint"
+        ],
+        [
+            "Chairman of the Board and Chief Executivè Officer"
+        ],
+        [
+            "Assistant Controller, Assistant Officers"
+        ],
+        [
+            "Assistant General Counsel, Assistant Officers"
+        ],
+        [
+            "Chief Financial Officer and Treasurer, Executive Vice Presidents"
+        ],
+        [
+            "Senior Vice President und Comptroller"
+        ],
+        [
+            "Chairman of the Board and Senior Vice President"
+        ],
+        [
+            "Finance and Corporate Controller, Vice Presidents"
+        ],
+        [
+            "Senior Vice President and Executive Assistant to the Chief Executive"
+        ],
+        [
+            "Consejeros; Secretario del, Consejo"
+        ],
+        [
+            "Letrado del Consejo, Consejeros"
+        ],
+        [
+            "Secretario del Consejo, Directores"
+        ],
+        [
+            "Letrado del Consejó"
+        ],
+        [
+            "Consejero Director General"
+        ],
+        [
+            "Finance and Accounting"
+        ],
+        [
+            "Managers, Chief Financial Officer"
+        ],
+        [
+            "Senior Vice Presidents, Special Counsel"
+        ],
+        [
+            "Senior Vice Presidents, Chief Financial Officer\/Finance"
+        ],
+        [
+            "Senior Vice Presidents, Special Counsel to the Chairman"
+        ],
+        [
+            "Executive Director and Chief Executive Officer"
+        ],
+        [
+            "Controller, Functional Officers"
+        ],
+        [
+            "President Ford Financial Services"
+        ],
+        [
+            "Finance, Group Directors"
+        ],
+        [
+            "Chief Accounting Officer, Vice President"
+        ],
+        [
+            "Chief Technical Officer, Executive Vice Presidents"
+        ],
+        [
+            "Vice-President, Public Affairs & Communications"
+        ],
+        [
+            "former Chairman"
+        ],
+        [
+            "Président-Directeur Général, Présidents d'Honneur"
+        ],
+        [
+            "Représentants du Comité"
+        ],
+        [
+            "stellv., Generaldirektoren"
+        ],
+        [
+            "Exevcutive Vice Presidents"
+        ],
+        [
+            "Präsident und Deligierter des Verwaltungsrates"
+        ],
+        [
+            "Präsident der Generaldirektion Nahrungsmittel, Präsident und Deligierter des Verwaltungsrates"
+        ],
+        [
+            "General Counsel & Secretary, Executive Vice Presidents"
+        ],
+        [
+            "Chief Financiel Officer, Executive Vice Presidents"
+        ],
+        [
+            "Tax, Vice Presidents"
+        ],
+        [
+            "Präsident Honoraire"
+        ],
+        [
+            "Präsident du Conseil"
+        ],
+        [
+            "President honoraire"
+        ],
+        [
+            "Vice-Prösident honoraire"
+        ],
+        [
+            "Vice-Prösident et Administrateurdélégué"
+        ],
+        [
+            "Secrétaire général, Directeurs généraux"
+        ],
+        [
+            "General Auditor, Vice Presidents"
+        ],
+        [
+            "Business Development Treasurer"
+        ],
+        [
+            "Vors. des Betriebsrats; Arbeitnehmervertreter"
+        ],
+        [
+            "stellv. Vors. des Betriebsrats; Arbeitnehmervertreter"
+        ],
+        [
+            "stellv. Generaldirektor, Handel"
+        ],
+        [
+            "Direktor, Logistik"
+        ],
+        [
+            "Vice Chairman and Chief Operating Officers"
+        ],
+        [
+            "steliv. Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "Fürst zu Löwenstein-Wertheim-Freudenberg"
+        ],
+        [
+            "Ehrenmitgl."
+        ],
+        [
+            "stellv. Vors, Arbeithehmervertreter"
+        ],
+        [
+            "Direktor Informatik und Spezialmarken"
+        ],
+        [
+            "Vizedirektorin Qualitätsmanagement und Personalführung"
+        ],
+        [
+            "Chief Legal Officer and Secretary, Vice Presidents"
+        ],
+        [
+            "Secrétaire, Administrateurs"
+        ],
+        [
+            "Secretary and Assistant General Counsel, Assistant Officers"
+        ],
+        [
+            "Assistant General Counsel and Patent Counsel, Assistant Officers"
+        ],
+        [
+            "Senior Vice President and Comptroller, Executive Vice Presidents"
+        ],
+        [
+            "Secretario del Consejo, Consejeros"
+        ],
+        [
+            "Secretario del Consejo"
+        ],
+        [
+            "Letrado del Consejo"
+        ],
+        [
+            "Administration: Secretary and General Manager"
+        ],
+        [
+            "Associate General Counsel and Assistant Secretary"
+        ],
+        [
+            "Direktor und Sekretärdes Verwaltungsrates"
+        ],
+        [
+            "Controller and Treasurer, Vice Presidents"
+        ],
+        [
+            "Corporate Secretary and Counsel, Vice Presidents"
+        ],
+        [
+            "Chief Financial Officer and Comptroller, Vice Presidents"
+        ],
+        [
+            "Secretary and Treasurer"
+        ],
+        [
+            "Public Affairs and Corporate Secretary, Vice Presidents"
+        ],
+        [
+            "Finance and Investments, Executive General Managers"
+        ],
+        [
+            "Senior Management"
+        ],
+        [
+            "Group Finance Manager"
+        ],
+        [
+            "Finance Manger"
+        ],
+        [
+            "Vice Presidents, Assistant Controllers"
+        ],
+        [
+            "Assistant Teasurer"
+        ],
+        [
+            "Vice Presidents, Auditor"
+        ],
+        [
+            "Senior Vice Presidents, Corporate Services"
+        ],
+        [
+            "President Ford Financial Services Group"
+        ],
+        [
+            "Group Vice Presidents; Chief Financial Officer"
+        ],
+        [
+            "Company Secretary, Executive Committee"
+        ],
+        [
+            "Secretary, Staff Vice Presidents"
+        ],
+        [
+            "Manager Finance & Chief Financial Officer, Executive General Managers"
+        ],
+        [
+            "Services & Secretary and General Counsel, Executive General Managers"
+        ],
+        [
+            "Managing Director, Executive General Managers"
+        ],
+        [
+            "Vice Chairman, Chief Financial Officer, Chief Executive Officer"
+        ],
+        [
+            "Senior Chairman, Chief Executive Officer"
+        ],
+        [
+            "President and Chief Executive Officer - International, Chief Executive Officer"
+        ],
+        [
+            "President and Chief Executive Officer - USA, Chief Executive Officer"
+        ],
+        [
+            "Senior Executive Vice President, Chief Executive Officer"
+        ],
+        [
+            "Finance and Office Administration, Senior Vice Presidents"
+        ],
+        [
+            "Legal Affairs and General Counsel, Vice Presidents"
+        ],
+        [
+            "Chief Financial Officer, Exevcutive Vice Presidents"
+        ],
+        [
+            "Taxes, Vice Presidents"
+        ],
+        [
+            "Präsident und Delegierter des Verwaltungsrates"
+        ],
+        [
+            "Präsident der Generaldirektion Nahrungsmittel"
+        ],
+        [
+            "Konzerndirektoren"
+        ],
+        [
+            "Senior Operating Officer, Executive Vice Presidents"
+        ],
+        [
+            "Corporate Management"
+        ],
+        [
+            "Vice President, Law"
+        ],
+        [
+            "Executive Vice President-Finance and Chief Financial Officer"
+        ],
+        [
+            "General Counsel & Secretary, Vice Presidents"
+        ],
+        [
+            "Treasurar & Principal Financial Officer, Vice Presidents"
+        ],
+        [
+            "mVice Chairman and Chief Financial Officer"
+        ],
+        [
+            "Treasury, Vice Presidents"
+        ],
+        [
+            "stellv. Vors., Arbeitnetimervertreter"
+        ],
+        [
+            "Arbeitnetimervertreter"
+        ],
+        [
+            "Ehrerwora"
+        ],
+        [
+            "stelIv. Vors."
+        ],
+        [
+            "Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "stellv Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "Vers."
+        ],
+        [
+            "stellv. Vom."
+        ],
+        [
+            "Ehren Vors."
+        ],
+        [
+            "Arbeitnehmervertrete"
+        ],
+        [
+            "Ehrenvore."
+        ],
+        [
+            "Ehrernvors."
+        ],
+        [
+            "stellv- Vors."
+        ],
+        [
+            "EhrenVors."
+        ],
+        [
+            "2.stellv. Vors., Arbeitnehmervertreter"
+        ],
+        [
+            "stellv. vors."
+        ],
+        [
+            "EhrenVörs."
+        ],
+        [
+            "Arbeitnehmeivertreter"
+        ],
+        [
+            "Letrado del Consejo, Directores"
+        ],
+        [
+            "Vicepresidente, Presidente"
+        ],
+        [
+            "Secretario, Directores Generales"
+        ],
+        [
+            "Secretary and General Manager"
+        ],
+        [
+            "Chief Financial Officer and Comptroller, Executive Vice Presidents"
+        ],
+        [
+            "Secretary and T reasurer, Vice Presidents"
+        ],
+        [
+            "Chairman of the Board and Chairman of the Excutive Committee"
+        ],
+        [
+            "Executive Vice President Chief Financial Officer"
+        ],
+        [
+            "Senior Associate General Counsel and Assistant Secretary, Vice Presidents"
+        ],
+        [
+            "Administrateur Délégué"
+        ],
+        [
+            "Exevcutive Vice President"
+        ],
+        [
+            "General Counsel and Corporate Secretary, Vice Presidents"
+        ],
+        [
+            "Chief Technical Officer, Vice Presidents"
+        ],
+        [
+            "Assistant Teasurer, Assistant Secretaries"
+        ],
+        [
+            "President Ford Financial Services Group, Executive Vice Presidents"
+        ],
+        [
+            "Chief Financial Officer, Group Vice Presidents"
+        ],
+        [
+            "Chief Tax Officer"
+        ],
+        [
+            "Subsidiary Chairmen"
+        ],
+        [
+            "General Counsel, Senior Vice President"
+        ],
+        [
+            "Patent and Trademark Counsel"
+        ],
+        [
+            "Assistand General Counsels"
+        ],
+        [
+            "Executive Committee, Company Secretary"
+        ],
+        [
+            "Managing Director and Chief Financial Officer"
+        ],
+        [
+            "Présidents d'Honneur, Président-Directeur Général"
+        ],
+        [
+            "President and Chief Executive Officer - International"
+        ],
+        [
+            "President and Chief Executive Officer - USA"
+        ],
+        [
+            "Vice Presidents, Legal Affairs and General Counsel"
+        ],
+        [
+            "leitender Sekretär"
+        ],
+        [
+            "Marseille"
+        ],
+        [
+            "Administrateurs Directeurs"
+        ],
+        [
+            "Directeur général adjoint"
+        ],
+        [
+            "Controller and Corporate Secretary"
+        ],
+        [
+            "Gerneral Counsel and Secretary, Executive Vice Presidents"
+        ],
+        [
+            "Treasurer and Chief Financial Officer, Senior Vice Presidents"
+        ],
+        [
+            "Ardeitnehmevertreter"
+        ],
+        [
+            "stellv. Vors., Arbeitnehmenvertreter"
+        ],
+        [
+            "Arbeitnehmenvertreter"
+        ],
+        [
+            "1. stellv Vors."
+        ],
+        [
+            "Vors., Oberbürgermeister"
+        ],
+        [
+            "Oberbürgermeister"
+        ],
+        [
+            "President of Aeroquip"
+        ],
+        [
+            "President of Vickers"
+        ],
+        [
+            "President and Chief Operation Officer"
+        ],
+        [
+            "Group Executive, Vice Presidents"
+        ],
+        [
+            "Corporate Engineering, Vice Presidents"
+        ],
+        [
+            "Corporate Human Resources, Vice Presidents"
+        ],
+        [
+            "Chief Communications Officer, Vice Presidents"
+        ],
+        [
+            "Corporate Development, Vice Presidents"
+        ],
+        [
+            "Assistant to the Chairman, Senior Vice Presidents"
+        ],
+        [
+            "Finance and Controller"
+        ],
+        [
+            "Corporate Secretary and Counsel"
+        ],
+        [
+            "Executive Staff Officer and Corporate Secretary, Senior Vice Presidents"
+        ],
+        [
+            "Corporate State Officers"
+        ],
+        [
+            "Chief Technological Officer, Executive Vice Presidents"
+        ],
+        [
+            "General Counsul and Secretary, Senior Vice Presidents"
+        ],
+        [
+            "Exevcutive Vice President and Chief Operating Officer"
+        ],
+        [
+            "Finance and Accounting and Chief Financial Officer, Senior Vice Presidents"
+        ],
+        [
+            "Assistant Tax Officer"
+        ],
+        [
+            "Chief Administrative Officer, Senior Vice Presidents"
+        ],
+        [
+            "Accounting Officer, Vice Presidents"
+        ],
+        [
+            "Vice President and Group Executive"
+        ],
+        [
+            "Chief Accounting Officer"
+        ],
+        [
+            "Chief Financial Officer, Managing Directors"
+        ],
+        [
+            "Chief Operating Officer, Managing Directors"
+        ],
+        [
+            "Human Resources Officer, Managing Directors"
+        ],
+        [
+            "Associate General Counsel, Assistant Vice Presidents"
+        ],
+        [
+            "Vice Presidents Directeurs Généraux"
+        ],
+        [
+            "Vice Présidents Directeurs Généraux"
+        ],
+        [
+            "Conseiller du Président"
+        ],
+        [
+            "Manager Finance & Chied Financial Officer, Executive General Managers"
+        ],
+        [
+            "Ehrenamtlicher Administrateur"
+        ],
+        [
+            "President, Chief Executive Officer und Director"
+        ],
+        [
+            "Chief Operating Officer und Director"
+        ],
+        [
+            "Vice President, Finance und Chief Financial Officer"
+        ],
+        [
+            "Chief Financial Officer and Controller, Vice Presidents"
+        ],
+        [
+            "Vors., Rechtsanwalt"
+        ],
+        [
+            "stellv. Vors., Arbeitnehmervertreier"
+        ],
+        [
+            "Arbeitnehmervertreier"
+        ],
+        [
+            "Mitbestimmungsvertreter"
+        ],
+        [
+            "2. stellv. Vors., Arbeitnehmervertrerer"
+        ],
+        [
+            "Aufsichtsrat"
+        ],
+        [
+            "Group Legal Adviser"
+        ],
+        [
+            "Group Financial Controller"
+        ],
+        [
+            "Group Economist"
+        ],
+        [
+            "Chief Group Financial Manager"
+        ],
+        [
+            "stellv. Vors. (President and CEO)"
+        ],
+        [
+            "stellv. Vors. (Vice Chairman, President and COO)"
+        ],
+        [
+            "Vors. (Chaiman of the Board, Presidend and CEO)"
+        ],
+        [
+            "stellv. Vors. (Deputy Chairman)"
+        ],
+        [
+            "Vors, (Chairman of the Board and CEO)"
+        ],
+        [
+            "1. stellv. Vors. (Senior Vice President and CFO)"
+        ],
+        [
+            "2. stellv. Vors. (Vice President and Controller)"
+        ],
+        [
+            "stellv. Vors. (President and COO)"
+        ],
+        [
+            "Vors. (Chairman of the Board ans CEO)"
+        ],
+        [
+            "President and COO"
+        ],
+        [
+            "Chairman of the Board (President and CEO)"
+        ],
+        [
+            "Chairman of the Board (an Chief Executive Officer)"
+        ],
+        [
+            "Chairman (President and Chief Executive)"
+        ],
+        [
+            "Chairman (Chef Executive Officer)"
+        ],
+        [
+            "Chairman (Managing Director)"
+        ]
+    ]
+}
