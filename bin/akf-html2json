@@ -43,7 +43,8 @@ if(inputFolver_isGiven && Program.inputfiles){
     }
     if(!inputFolver_isGiven && Program.inputfiles ){
         console.log('Specified input-files are: %j', Program.inputfiles);
-        fileslist = Program.inputfiles; 
+        fileslist = []; 
+        fileslist.push(Program.inputfiles); 
     }
 }
 
