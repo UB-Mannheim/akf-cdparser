@@ -19,6 +19,7 @@
     "async": "^2.1.4",
     "cheerio": "^1.0.0-rc.1",
     "cheerio-tableparser": "^1.0.1",
+    "exceljs": "^0.4.13",
     "fast-levenshtein": "^2.0.6",
     "js-yaml": "^3.7.0",
     "mkdirp": "^0.5.1"
