@@ -82,10 +82,12 @@ function parseHTMLfiles(htmlFiles){
             fs.writeFile(outname, JSON.stringify(json, null, 2), done)
         } catch (e) {
             console.log("*** ERROR ERROR ERROR ***",e);
-            failed.push([htmlFile, e])
+            failed.push([htmlFile, e]);
             done()
         }
     }, () => {
+        console.log("Endpoint reached");
+        parser.doLineSegmentAnalysis(null,"kapitalentwicklung",true);
         if (failed.length) {
             console.log(failed)
         }
