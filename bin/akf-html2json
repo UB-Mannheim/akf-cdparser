@@ -63,17 +63,17 @@ parseHTMLfiles(fileslist);
 
 
 function parseHTMLfiles(htmlFiles){
-        const parser = new(require('../lib/parser'))()
-        const failed = []
-        async.eachLimit(htmlFiles, 5, (htmlFile, done) => {
-
+    const parser = new(require('../lib/parser'))()
+    const failed = []
+    async.eachLimit(htmlFiles, 5, (htmlFile, done) => {
+        
         var basenameHtml = path.basename(htmlFile);
         var dirnameHTML = path.dirname(htmlFile);
         var outputDir = Program.outputdir+"\\"+dirnameHTML;
         mkdirs(outputDir);
         const outname = path.join(outputDir, path.basename(htmlFile) + '.json')
         try {
-            const json = parser.parseFile(htmlFile)
+            const json = parser.parseFile(htmlFile);
             if (Program.print) {
                 console.log(json)
             } else {
