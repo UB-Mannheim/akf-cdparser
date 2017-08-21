@@ -1,9 +1,10 @@
 #!/usr/bin/env node
-const Program = require('commander')
-const fs      = require('fs')
-const path    = require('path')
-const mkdirp  = require('mkdirp')
-const async   = require('async')
+const Program     = require('commander')
+const fs          = require('fs')
+const path        = require('path')
+const mkdirp      = require('mkdirp')
+const async       = require('async')
+var   callCounter = require('../lib/callCounter');
 
 Program
     .option('-o, --outputdir <dir>', 'Output directory', './output')
@@ -75,9 +76,9 @@ function parseHTMLfiles(htmlFiles){
         try {
             const json = parser.parseFile(htmlFile);
             if (Program.print) {
-                console.log(json)
+                console.log(json);
             } else {
-                console.error(`${htmlFile} -> ${outname}`)
+                console.error(`${htmlFile} -> ${outname}`);
             }
             fs.writeFile(outname, JSON.stringify(json, null, 2), done)
         } catch (e) {
@@ -88,6 +89,7 @@ function parseHTMLfiles(htmlFiles){
     }, () => {
         console.log("Endpoint reached");
         parser.doLineSegmentAnalysis(null,"kapitalentwicklung",true);
+        callCounter.printCallcount();
         if (failed.length) {
             console.log(failed)
         }
