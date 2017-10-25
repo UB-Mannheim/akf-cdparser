@@ -29,7 +29,10 @@ var fileslist;                      //list of files which will get parsed
 
 //Run the program
 if (process.argv.length <= 2){
-     process.argv.push('--help');           //Show help if there are not enough input arguments
+    //Show help if there are not enough input arguments
+     process.argv.push('--help');           
+     Program.parse(process.argv);           
+     process.exit();
 } 
 handleFolderAndFileInput();                 //Check folder input arguments 
 mkdirp.sync(Program.outputdir);             //Create output directory, if not defined per argument use './output'
@@ -117,7 +120,7 @@ function parseHTMLfiles(htmlFiles,parallel,doLSE){
     }, () => {
         //After parsing....
         console.log("Endpoint reached");
-        
+
         //Do a line segment analysis in the end, if specified
         if(doLSE){
             parser.doLineSegmentAnalysis(null,"kapitalentwicklung",true);
