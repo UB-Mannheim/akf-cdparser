@@ -1,4 +1,12 @@
 #!/usr/bin/env node
+
+/**
+ * **OBSOLETE FUNCTIONALITY** 
+ * (AKF_SQL_DBTalk is the preferred way to validate output)
+ * For the specified json-files, call the json2sql-converter,
+ * which writes the contents to database. 
+ */
+
 const Program = require('commander')
 const fs      = require('fs')
 const path    = require('path')
@@ -12,23 +20,27 @@ Program
     .arguments('[jsonFiles...]')
     .action((jsonFiles) => {
         const converter = new(require('../lib/converter'))()
-        mkdirp.sync(Program.outputdir)
+        mkdirp.sync(Program.outputdir);
         async.eachLimit(jsonFiles, 5, (jsonFile, done) => {
             const outname = path.join(Program.outputdir, path.basename(jsonFile))
             fs.readFile(jsonFile, {encoding: 'utf8'}, (err, data) => {
-                if (err) return done(err)
+                if (err) return done(err);
                 const sql = converter.json2sql(JSON.parse(data))
                 if (Program.print) {
-                    console.log(sql)
-                    done()
+                    console.log(sql);
+                    done();
                 } else {
-                    fs.writeFile(outname, sql, done)
+                    fs.writeFile(outname, sql, done);
                 }
             })
         })
     })
 
-if (process.argv.length <= 2) process.argv.push('--help')
-Program.parse(process.argv)
+
+//Push help to input arguments if there are not enough input arguments
+if (process.argv.length <= 2) process.argv.push('--help');
+    
+//Parse input arguments  
+Program.parse(process.argv);
 
 // vim: ft=javascript
