@@ -1,4 +1,14 @@
 #!/usr/bin/env node
+
+/**
+ * **OBSOLETE FUNCTIONALITY** 
+ * (HTMLvsJSON is the preferred way to validate output)
+ * Starter file for validation of the specified json files,
+ * basically the calls the validator in lib for each file. 
+ * The validator subtracts all json properties from the fulltext
+ * html property in json, result is written in from here to 
+ * a output file. 
+ */
 const Program = require('commander')
 const fs      = require('fs')
 const path    = require('path')
@@ -38,7 +48,9 @@ Program
         })
     })
 
+//Push help to input arguments if there are not enough input arguments
 if (process.argv.length <= 2) process.argv.push('--help')
+
+//Parse input arguments  
 Program.parse(process.argv)
 
-// vim: ft=javascript
