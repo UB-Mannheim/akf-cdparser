@@ -12,7 +12,7 @@ This tool does then the final step, it loads the json to the sql-database. The f
 ![](./docs/basic_workflow.png)
 
 ## Installation 
-Install [http://node.js/](http://node.js/ "NodeJs")
+Install [Node.js](http://node.js/ "NodeJs")
 
 
 In command line, go to project folder and type: 
@@ -20,7 +20,7 @@ In command line, go to project folder and type:
     npm install
 
 The project was written in Visual Studio Code, so if you are a developer it's recomended to use it
-[https://code.visualstudio.com/](https://code.visualstudio.com/ "VSCode")
+([Download](https://code.visualstudio.com/ "VSCode"))
 
 ## Commands to use akf-cdparser
   Usage: akf-html2json [options]
