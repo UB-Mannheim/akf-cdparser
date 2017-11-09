@@ -9,7 +9,7 @@ This tool does then the final step, it loads the json to the sql-database. The f
 
 
 
-![](./docs/basic_workflow.png)
+![test](https://github.com/UB-Mannheim/akf-cdparser/blob/master/docs/basic_workflow.PNG "Basic Workflow")
 
 ## Installation 
 Install [Node.js](http://node.js/ "NodeJs")
