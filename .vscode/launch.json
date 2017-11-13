@@ -29,7 +29,7 @@
                 //"--inputdir",
                 //"test\\fixtures\\html\\postprocessed-html"
                 "--inputdir",
-                "test\\fixtures\\html\\postprocessed-html\\2014-2"     
+                "test\\fixtures\\html\\postprocessed-html-neu-171108\\2014-2"     
             ]
         }
     ]
