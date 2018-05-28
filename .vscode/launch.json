@@ -18,8 +18,6 @@
                 //"test\\fixtures\\html\\2005\\0003.html.utf8.html"
                //"test\\fixtures\\html\\postprocessed-html/2014-2/0287.html.utf8.html",
                 //"--inputfiles",
-                //"test\\fixtures\\html\\postprocessed-html\\2017-1\\0554.html.utf8.html"
-                //"--inputfiles",
                 //"test\\fixtures\\html\\ManyYears\\2008\\0913.html.utf8.html"     
                 //"--inputfiles",
                 //"test\\fixtures\\html\\postprocessed-html\\2002\\0150.html.utf8.html"
@@ -29,7 +27,7 @@
                 //"--inputdir",
                 //"test\\fixtures\\html\\postprocessed-html"
                 "--inputdir",
-                "test\\fixtures\\html\\postprocessed-html-neu-171108\\2014-2"     
+                "test\\fixtures\\html\\postprocessed-html-neu-171108\\2018_1_18_01_02"     
             ]
         }
     ]
