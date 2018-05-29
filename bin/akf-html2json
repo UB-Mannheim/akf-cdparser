@@ -22,6 +22,7 @@ Program
     .option('-n, --parallel <num>', 'Parallel conversions', parseInt, 5)
     .option('-f, --inputfiles <files>','Input files ' ) 
     .option('-l, --lse', 'do line segment analysis in the end', false)
+    .option('-e, --expv', 'export vocabulary file', false)
     .parse(process.argv); 
 
 var inputFolder_isGiven = false;    //indicator if there is some valid inputfolder or files given 
@@ -36,7 +37,7 @@ if (process.argv.length <= 2){
 } 
 handleFolderAndFileInput();                 //Check folder input arguments 
 mkdirp.sync(Program.outputdir);             //Create output directory, if not defined per argument use './output'
-parseHTMLfiles(fileslist,Program.parallel,Program.lse); //Parse the html-fileslist
+parseHTMLfiles(fileslist,Program.parallel,Program.lse, Program.expv); //Parse the html-fileslist
 
 
 /**
@@ -85,10 +86,12 @@ function handleFolderAndFileInput(){
  * @param parallel {integer} number of maximal async calls of the parser at once 
  * @param htmlFiles {array} list of paths and filenames of the specified files 
  * @param doLSE {boolean} do a line segment analysis after parsing
+ * @param doExpv {boolean} export vocabulary at the end 
  */
-function parseHTMLfiles(htmlFiles,parallel,doLSE){
+function parseHTMLfiles(htmlFiles,parallel,doLSE,doExpv){
     const parser = new(require('../lib/parser'))();
     const failed = [];
+    parser.setExportVocabulary(doExpv);
 
     async.eachLimit(htmlFiles, parallel, (htmlFile, done) => {
         
