@@ -22,7 +22,8 @@
     "exceljs": "^0.4.13",
     "fast-levenshtein": "^2.0.6",
     "js-yaml": "^3.7.0",
-    "mkdirp": "^0.5.1"
+    "mkdirp": "^0.5.1",
+    "node-hocr": "0.0.4"
   },
   "devDependencies": {
     "tap": "^9.0.3"

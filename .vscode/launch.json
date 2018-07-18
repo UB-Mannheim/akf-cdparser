@@ -26,8 +26,16 @@
                 //"test\\fixtures\\html\\ManyYears" 
                 //"--inputdir",
                 //"test\\fixtures\\html\\postprocessed-html"
+                //"--inputdir",
+                //"test\\fixtures\\html\\postprocessed-html-neu-171108\\2018_1_18_01_02",
+                // "--expv"     
+                //"--inputdir",
+                //"test\\fixtures\\html\\postprocessed-html-neu-171108",
+                //"--expv",
                 "--inputdir",
-                "test\\fixtures\\html\\postprocessed-html-neu-171108\\2018_1_18_01_02"     
+                "test\\testfiles_hocr\\sql_akf_new_msa_best\\",
+                "--hocr"
+
             ]
         }
     ]

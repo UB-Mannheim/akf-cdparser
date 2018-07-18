@@ -22,7 +22,8 @@ Program
     .option('-n, --parallel <num>', 'Parallel conversions', parseInt, 5)
     .option('-f, --inputfiles <files>','Input files ' ) 
     .option('-l, --lse', 'do line segment analysis in the end', false)
-    .option('-e, --expv', 'export vocabulary file', false)
+    .option('-e, --expvi', 'export vocabulary file', false)
+    .option('-c, --hocr','read in hocr files', false)
     .parse(process.argv); 
 
 var inputFolder_isGiven = false;    //indicator if there is some valid inputfolder or files given 
@@ -34,10 +35,20 @@ if (process.argv.length <= 2){
      process.argv.push('--help');           
      Program.parse(process.argv);           
      process.exit();
-} 
-handleFolderAndFileInput();                 //Check folder input arguments 
-mkdirp.sync(Program.outputdir);             //Create output directory, if not defined per argument use './output'
-parseHTMLfiles(fileslist,Program.parallel,Program.lse, Program.expv); //Parse the html-fileslist
+}
+
+//Check if there are valid files in folder input arguments, and add them to 'fileslist'-array 
+handleFolderAndFileInput(hocr=Program.hocr); 
+//Create output directory, if not defined per argument use './output'
+mkdirp.sync(Program.outputdir);            
+
+
+if (Program.hocr){
+    console.log("Parsing .hocr-files instead of .html")
+}
+
+
+parseFiles(fileslist,Program.parallel,Program.lse, Program.expv, Program.hocr); //Parse the html-fileslist
 
 
 /**
@@ -46,7 +57,7 @@ parseHTMLfiles(fileslist,Program.parallel,Program.lse, Program.expv); //Parse th
  * If there is no inputfiles or files, just log this and close the program
  * If there are only input-files specified, take these for input
  */
-function handleFolderAndFileInput(){
+function handleFolderAndFileInput(hocr=false){
     if(Program.inputdir){
         console.log('Specified input directory is: %j', Program.inputdir);
         if(!fs.lstatSync(Program.inputdir).isDirectory()){
@@ -54,7 +65,14 @@ function handleFolderAndFileInput(){
         }else{
             var files = walk(Program.inputdir); //Get all files in directory and subdirectories 
             fileslist = files.filter( function( elm ) {
-                return elm.match(/.*\.(html)/ig);
+                if (hocr==false){
+                    //use standard way of html filtering
+                    return elm.match(/.*\.(html)/ig);
+
+                }else{
+                    //look for .hocr-files 
+                    return elm.match(/.*\.(hocr)/ig);
+                }
             });
             if(fileslist.length>0){
                 console.log("Valid input directory was specified, continuing with parsing"); 
@@ -78,46 +96,52 @@ function handleFolderAndFileInput(){
     }
 }
 /**
- * Parse the specified htmlFiles, which means, read in each file and call the parser.js
+ * Parse the specified files, which means, read in each file and call the parser.js
  * functionality for each file specified. Save the output of parser.js to a json file.
  * If there is an error during the parsing of one file, push the error to a stack which 
  * is printed in the end of the run. 
  * 
  * @param parallel {integer} number of maximal async calls of the parser at once 
- * @param htmlFiles {array} list of paths and filenames of the specified files 
+ * @param filePaths {array} list of paths and filenames of the specified files 
  * @param doLSE {boolean} do a line segment analysis after parsing
  * @param doExpv {boolean} export vocabulary at the end 
+ * @param doHocr {boolean} use .hocr-files instead of .html-files
  */
-function parseHTMLfiles(htmlFiles,parallel,doLSE,doExpv){
+function parseFiles(filePaths, parallel, doLSE, doExpv, doHocr){
     const parser = new(require('../lib/parser'))();
     const failed = [];
     parser.setExportVocabulary(doExpv);
 
-    async.eachLimit(htmlFiles, parallel, (htmlFile, done) => {
+    async.eachLimit(filePaths, parallel, (filepath, done) => {
         
-        var basenameHtml = path.basename(htmlFile);
-        var dirnameHTML = path.dirname(htmlFile);           //Extract directory name from htmlfile
-        var outputDir = Program.outputdir+"\\"+dirnameHTML; //Create output directory path 
+        var basenameFile = path.basename(filepath);
+        var dirnameFiles = path.dirname(filepath);           //Extract directory name from htmlfile
+        var outputDir = Program.outputdir+"\\"+dirnameFiles; //Create output directory path 
         mkdirs(outputDir);                                  //Create output directory
 
         //define output file name
-        const outname = path.join(outputDir, path.basename(htmlFile) + '.json'); 
+        const outname = path.join(outputDir, path.basename(filepath) + '.json'); 
         
         try {
-            const json = parser.parseFile(htmlFile);
+            var json;
+            if (!doHocr){
+                json = parser.parseFile(filepath);
+            }else{
+                json = parser.parseFileHocr(filepath)
+            }
             if (Program.print) {
                 //Print the whole created json file if defined in input parameters
                 console.log(json);
             } else {
                 //Otherwise just print in- and output file names. 
-                console.error(`${htmlFile} -> ${outname}`);
+                console.error(`${filepath} -> ${outname}`);
             }
-            //Write json too output path
+            //Write json to output path
             fs.writeFile(outname, JSON.stringify(json, null, 2), done)
         } catch (e) {
             //If there is an exception, push it to the errors-stack
             console.log("*** ERROR ERROR ERROR ***",e);
-            failed.push([htmlFile, e]);
+            failed.push([filepath, e]);
             done()
         }
     }, () => {
