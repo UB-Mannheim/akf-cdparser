@@ -24,7 +24,8 @@
                 //"test\\fixtures\\html\\postprocessed-html\\2002\\0037.html.utf8.html"
                 //"--inputdir",   
                 //"test\\fixtures\\html\\ManyYears" 
-                //"--inputdir",
+                "--inputdir",
+                "test\\fixtures_2018"
                 //"test\\fixtures\\html\\postprocessed-html"
                 //"--inputdir",
                 //"test\\fixtures\\html\\postprocessed-html-neu-171108\\2018_1_18_01_02",
@@ -32,10 +33,12 @@
                 //"--inputdir",
                 //"test\\fixtures\\html\\postprocessed-html-neu-171108",
                 //"--expv",
-                "--inputdir",
-                "test\\testfiles_hocr\\sql_akf_new_msa_best\\",
-                "--hocr"
-
+                //"--inputdir",
+                //"test\\testfiles_hocr\\sql_akf_new_msa_best\\",
+                //"--hocr"
+                //"--inputfiles",
+                //"test\\testfiles_hocr\\sql_akf_new_msa_best\\1957\\0140_1957_hoppa-405844417-0050_0172_msa_best.txt.hocr",
+                //"--hocr"
             ]
         }
     ]
