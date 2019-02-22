@@ -1,4 +1,4 @@
-![akf-cdparser](./docs/img/akf_cdparser.PNG "akf-CDParser")
+![akf-cdparser](./docs/img/akf_cdparser.png "akf-CDParser")
 ============
 
 ## Functionality in a nutshell
