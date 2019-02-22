@@ -12,7 +12,7 @@ This tool does then the final step, it loads the json to the sql-database. The f
 
 
 
-![workflow](./docs/img/basic_workflow.png "Basic Workflow")
+![workflow](./docs/img/basic_workflow.PNG "Basic Workflow")
 
 ## Installation 
 Install [Node.js][node-link]
