@@ -53,7 +53,7 @@ If you use visual-studio-code you can use the *launch.json* in *.vscode*-folder 
 The program consists of many modules. The following diagram shows the different modules, their main purpose and how they are basically connected.  
 ![parserdiagram](./docs/img/DiagramAKFcdParser.png "ParserDiagram")
 
-[akf-link]: https://digi.bib.uni-mannheim.de/aktienfuehrer/ "Aktienführer-Datenarchive work process"
+[akf-link]:  https://github.com/UB-Mannheim/Aktienfuehrer-Datenarchiv-Tools "Aktienführer-Datenarchive work process"
 [dbtools-link]: https://github.com/JKamlah/akf-dbTools
 [node-link]: http://node.js/ "NodeJS"
 [vscode-link]: https://code.visualstudio.com/ "VSCode"
